@@ -37,4 +37,7 @@ Suggested method: Gibson Assembly cloning in pUFR80. The following protocol assu
 
 ![Save plates with multiple colonies per streak][images/streak_for_single_colonies.png]
 
-1. Grow double recombinants overnight in 1.5 ml CPG in 24-well plate (28C with shaking) and perform [colony PCR](colony_pcr.md) with 3 μl culture. *Note: colony PCR directly from colonies on the plate tends to yield false-negatives in EPS<sup>+</sup> Ralstonia strains. // *Note 2: if short on time, add glycerol to the plate to create a temporary freezer stock until you have time to confirm the strains.  
+1. Grow double recombinants overnight in 1.5 ml CPG in 24-well plate (28C with shaking) and perform [colony PCR](colony_pcr.md) with 3 μl culture. *Note: colony PCR directly from colonies on the plate tends to yield false-negatives in EPS<sup>+</sup> Ralstonia strains. // Note 2: if short on time, add glycerol to the plate to create a temporary freezer stock until you have time to confirm the strains.*
+
+### Re-use:
+* **24-well plates**: Submerge in 10% bleach for >30 min. Rinse ~3x in diH2O. Dry in drying oven.  Don't use for plate-reader experiments, but re-use for routine growth. 
