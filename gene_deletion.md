@@ -1,12 +1,14 @@
-## Gene deletion in *Ralstonia*
+# Gene deletion in *Ralstonia*
 
 **Writing/editing credits:** Tiffany Lowe-Power
 
-This protocol describes two strategies for gene deletion in *Ralstonia* spp. The **marked gene deletion** approach involves a negative selection approach where a an antibiotic resistance cassette is swapped into in the place of a gene-of-interest (via double homologous recombination AKA allelic exchange).  The **unmarked gene deletion** involves (1) a negative selection where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a (2) positive selection where sucrose sensitivity (conferred by *sacB* on the vector backbone) drives the vector to recombine out of the genome resulting in ~50% wildtype and 50% knockout genotype clones.
+This protocol describes the unmarked gene deletion strategy in *Ralstonia*.  **unmarked gene deletion** involves (1) a negative selection where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a (2) positive selection where sucrose sensitivity (conferred by *sacB* [levanosucrase] on the vector backbone) drives the vector to recombine out of the genome resulting in ~50% wildtype and 50% knockout genotype clones that must be genotyped by colony PCR
 
-### Marked gene deletion
 
-### Unmarked gene deletion (sacB)
+
+## Unmarked gene deletion (sacB)
+
+### Clone the knockout vector:
 
 #### Resources:
 * [pUFR80 vector map with sequence](https://benchling.com/s/SGEEU7/edit)
@@ -14,10 +16,9 @@ This protocol describes two strategies for gene deletion in *Ralstonia* spp. The
 * [Plasmid Assembly with Gibson Assembly](gibson_assembly.md)
 * [Proof Checking your assembled plasmid](plasmid_proofing.md)
 
-#### Clone the knockout vector:
 Clone approximately 0.9-1.2 kb upstream DNA and 0.9-1.2 kb downstream DNA adjacent to each other. Aim for similar sized upstream and downstream fragments so that crossovers on either flanking side are equally likely. Try to have the up/downstream regions immediately up/downstream from the start and stop codons, respectively. Take care to avoid disrupting neighboring or overlapping genes.
 
-Suggested method: Gibson Assembly cloning in pUFR80. The following protocol assumes a vector containing kanamycin resistance was used, the CPG-Kan concentration was 25 μg/ml unless otherwise stated, and all solid CPG contained 0.5 % w/v TZC.
+Suggested method: Gibson Assembly cloning in pUFR80. The following protocol assumes a vector containing kanamycin resistance was used, the CPG-Kan concentration was 25 μg/ml unless otherwise stated, and all solid CPG contains 0.5 % w/v TZC.
 
 #### Introduce knockout vector into *Ralstonia* and select on kanamycin
 [Electroporation](electrocompetent_cells.md), [natural transformation](natural_transformation.md), and [conjugation](conjugation.md) are all possible strategies for introducing the vector into *Ralstonia*  
@@ -27,7 +28,6 @@ Suggested method: Gibson Assembly cloning in pUFR80. The following protocol assu
 * Plate 200 μl of the transformed cells as well as 200 μl of the 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions on CPG + Kan plates. Incubate at 28C for ~2 days.
 
 #### Counter-select on 5% w/v sucrose plates ###
-The *sacB* gene on pUFR80 encodes levanosucrose, which induces susceptibility to sucrose. By plating the Kan<sup>R</sup> transformants on sucrose media, you will select for the vector to recombine out of the genome at either the upstream or downstream site, which will produce colonies with either the knockout or wildtype genotype. You will need to PCR screen to identify KO mutants.
 
 1. Once single colonies appear (2 days up to 4 days), grow 2 Kan<sup>R</sup> colonies overnight in CPG+Kan broth. *Optional: Create a temporary freezer stock in cheap 1.5 ml tubes in case the counter-selection fails*
 
