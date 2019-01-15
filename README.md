@@ -16,11 +16,12 @@ Lab protocols for the Lowe-Power lab
 * [Growth curve: 96 well microplate](growth_curve_96well.md)
 * [Dilution plating & colony forming units](cfus.md)
 
-### Plant Assays
+### Plants
 * [Tomato: petiole inoculation](tomato_petiole_inoc.md)
 * [Tomato: soil soak inoculation](tomato_ss_inoc.md)
 * [Melon: inoculations](melon_inoc.md)
 * [Colonization: tomato roots and stem](col_tomato_root.md)
+* [Xylem sap harvesting by root pressure](xylem_sap_root_pressure.md)
 
 ### Lab Maintenence 
 * [Preparing sterile supplies](preparing_sterile_supplies.md)
