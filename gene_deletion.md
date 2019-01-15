@@ -2,14 +2,14 @@
 
 **Writing/editing credits:** Tiffany Lowe-Power
 
-This protocol describes two strategies for gene deletion in *Ralstonia* spp. The **marked gene deletion** approach involves a negative selection approach where a an antibiotic resistance cassette is swapped into in the place of a gene-of-interest (via double homologous recombination AKA allelic exchange).  The **unmarked gene deletion** involves (1) a negative selection where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a (2) positive selection where sucrose sensitivity (conferred by *sacB* on the vector backbone) drives the vector to recombine out of the genome resulting in ~50% wildtype and 50% knockout genotype clones. 
+This protocol describes two strategies for gene deletion in *Ralstonia* spp. The **marked gene deletion** approach involves a negative selection approach where a an antibiotic resistance cassette is swapped into in the place of a gene-of-interest (via double homologous recombination AKA allelic exchange).  The **unmarked gene deletion** involves (1) a negative selection where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a (2) positive selection where sucrose sensitivity (conferred by *sacB* on the vector backbone) drives the vector to recombine out of the genome resulting in ~50% wildtype and 50% knockout genotype clones.
 
-### Marked gene deletion 
+### Marked gene deletion
 
 ### Unmarked gene deletion (sacB)
 
 #### Resources:
-* [pUFR80 vector map with sequence](https://benchling.com/s/SGEEU7/edit) 
+* [pUFR80 vector map with sequence](https://benchling.com/s/SGEEU7/edit)
 * [Primer Design with PrimerBlast](primerblast.md)
 * [Plasmid Assembly with Gibson Assembly](gibson_assembly.md)
 * [Proof Checking your assembled plasmid](plasmid_proofing.md)
@@ -19,11 +19,22 @@ Clone approximately 0.9-1.2 kb upstream DNA and 0.9-1.2 kb downstream DNA adjace
 
 Suggested method: Gibson Assembly cloning in pUFR80. The following protocol assumes a vector containing kanamycin resistance was used, the CPG-Kan concentration was 25 μg/ml unless otherwise stated, and all solid CPG contained 0.5 % w/v TZC.
 
-#### Introduce knockout vector into *Ralstonia* 
+#### Introduce knockout vector into *Ralstonia* and select on kanamycin
 [Electroporation](electrocompetent_cells.md), [natural transformation](natural_transformation.md), and [conjugation](conjugation.md) are all possible strategies for introducing the vector into *Ralstonia*  
 
-* Plate 200 μl of the transformed cells as well as 200 μl of the 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions on CPG + Kan plates. Incubate at 28C for ~2 days. 
+*Note: The pUFR80 knockout vector must be circular. Do not digest the vector before transformation.*
 
-#### Isolate single recombinants ###
-Isolate strains in which the allelic exchange vector has integrated at the chromosomal locus through a single crossover either at the upstream flank or the downstream flank.
+* Plate 200 μl of the transformed cells as well as 200 μl of the 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions on CPG + Kan plates. Incubate at 28C for ~2 days.
 
+#### Counter-select on 5% w/v sucrose plates ###
+The *sacB* gene on pUFR80 encodes levanosucrose, which induces susceptibility to sucrose. By plating the Kan<sup>R</sup> transformants on sucrose media, you will select for the vector to recombine out of the genome at either the upstream or downstream site, which will produce colonies with either the knockout or wildtype genotype. You will need to PCR screen to identify KO mutants.
+
+1. Once single colonies appear (2 days up to 4 days), grow 2 Kan<sup>R</sup> colonies overnight in CPG+Kan broth. *Optional: Create a temporary freezer stock in cheap 1.5 ml tubes in case the counter-selection fails*
+
+1. Wash each in 3x in CPG without antibiotic. Dilute and plate 200 μl of the 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions on CPG + 5% w/v sucrose plates. *Optional: plate the dilutions on CPG without sucrose to verify* sacB *is conferring sucrose susceptibility.*
+
+1. Once single colonies appear (2 days up to 4 days), select approximately 24 isolated colonies (transformants) and restreak on CPG for single colonies. Grow for 2 days at 28C or 3 days at RT. (Note that you can streak more than 1 transformant per plate as long as you end up with single colonies. See image below. [image source](http://www.sci.sdsu.edu/~smaloy/Research/pdf%20files/Basic_techniques.pdf))
+
+![Save plates with multiple colonies per streak][images/streak_for_single_colonies.png]
+
+1. Grow double recombinants overnight in 1.5 ml CPG in 24-well plate (28C with shaking) and perform [colony PCR](colony_pcr.md) with 3 μl culture. *Note: colony PCR directly from colonies on the plate tends to yield false-negatives in EPS<sup>+</sup> Ralstonia strains. // *Note 2: if short on time, add glycerol to the plate to create a temporary freezer stock until you have time to confirm the strains.  

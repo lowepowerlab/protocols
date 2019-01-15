@@ -1,4 +1,4 @@
-Content was forked from [mjmlab](https://github.com/mjmlab/protocols/blob/master/git-github.md). 
+Content was forked and minorly adapted from [Mark Mandel/mjmlab](https://github.com/mjmlab/protocols/blob/master/git-github.md).
 
 # Forking and contributing to a lab Git repo on GitHub: `lowepowerlab/protocols` as an example
 
