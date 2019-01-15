@@ -7,6 +7,7 @@ Lab protocols for the Lowe-Power lab
 * [Colony PCR](colony_pcr.md)
 
 ### Microbiology
+* [General growth of *Ralstonia*](ralstonia_tips_and_tricks.md)
 * [Media recipes](media.md)
 * [Buffers and Reagents](buffers.md)
 * [Antibiotics](antibiotics.md)
@@ -23,6 +24,6 @@ Lab protocols for the Lowe-Power lab
 * [Colonization: tomato roots and stem](col_tomato_root.md)
 * [Xylem sap harvesting by root pressure](xylem_sap_root_pressure.md)
 
-### Lab Maintenence 
+### Lab Maintenence
 * [Preparing sterile supplies](preparing_sterile_supplies.md)
 * [Shelf stocking](shelf_stocking.md)
