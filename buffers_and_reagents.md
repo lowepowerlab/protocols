@@ -36,10 +36,10 @@ Store at room temperature.  Dilute 1:50 before use in gel electrophoresis (as ru
 ## EDTA 0.5 M, pH 8.0
 `ethylenediaminetetraacetic acid`
 
-1. Dissolve **186.1 g** of disodium EDTA (MW = 336.21) in 800 mL water.  
+1. Dissolve **18.61 g** of disodium EDTA (MW = 336.21) in 80 mL water.  
 1. Adjust pH to 8.0 with NaOH.
 *Note: EDTA will not go into solution until the pH is approximately 8.0.*
-1. Adjust volume to 1L with dI H2O.  Aliquot and autoclave.
+1. Adjust volume to 100 mL with dI H2O.  Aliquot and autoclave.
 
 
 
