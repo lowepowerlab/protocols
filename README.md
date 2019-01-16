@@ -37,8 +37,8 @@ Lab protocols for the Lowe-Power lab
 
 ### Lab Maintenence
 
-* [] [Preparing sterile supplies](preparing_sterile_supplies.md)
-* [] [Shelf stocking](shelf_stocking.md)
+* [x] [Preparing sterile supplies](preparing_sterile_supplies.md)
+* [x] [Shelf stocking](shelf_stocking.md)
 * [x] [Autoclave](autoclave.md)
 
 ### Computational

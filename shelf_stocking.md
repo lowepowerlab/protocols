@@ -31,6 +31,10 @@ When items pass below the minimum quantity, request them on the `To Do List for 
 |tips 2-1000 ul               |10-20 boxes      |
 |tips Rainin 1250 ul          |4-10 boxes       |
 |
+|microfuge tubes, 0.5 ml       |2-4 pint jars | 
+|microfuge tubes, 1.7 ml       |4-8 quart jars <br>2-6 pint jars | 
+|microfuge tubes, 2.0 ml       |2-4 quart jars <br>1-3 pint jars | 
+|
 |test tubes                   |2-4 racks        |
 |flasks, 125 ml               |8-20             |
 |flasks, 250 ml               |4-8              |
