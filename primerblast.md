@@ -20,9 +20,13 @@ Useful for precise gene deletions. (**forward**) if you want a Downstream-F prim
   * 800-1200 bp for homologous recombination regions
 
 * **Primer melting temperatures**: Generally you want to keep primers within 3 degrees(**Max Tm difference**), but increasing this to 10 can help you problem-solve a "no primers found" error.
-  * **Opt**: for quantitative primers, don't change from 60C. For clonining primers, I often iterate 59 - 63 C to diversify the results. 
-  (After all parameters are set, checkmark **Show results in new window** > `Get Primers`; change the Opt by 1 degree > `Get Primers`; etc.). 
-  Each result takes a few minutes to load, so running in parallel saves time.
+  * **Opt**: 
+    * For quantitative primers, *don't change* from 60C. 
+    * For PCR screening primers, try not to deviate from 60C. 
+    More details about design of PCR screening primers in [colony pcr protocol](colony_pcr.md)
+    * For clonining primers, I often iterate 59 - 63 C to diversify the results. 
+  After all parameters are set, checkmark **Show results in new window** > `Get Primers`; change the Opt by 1 degree > `Get Primers`; etc. 
+    Because each primerblast result takes a few minutes to load, running in parallel saves time.
   * **Min/Max**: Change as needed
 
 ### Primer Pair Specificity Checking Parameters

@@ -118,8 +118,7 @@ Attach primers after you've imported them into Benchling.
 * `Load/Save` Download the .json file and save in your files in case you need to modify this plan later.
 
 ### Order your primers
-And pat yourself on the back--You finished the planning phase!
-
+* Also consider designing and ordering primers to help you PCR screen your mutants ([Described in Colony PCR protocol](colony_pcr.md))
 * When primers arrive, reconstitute the lyophilized primer to 100 uM Tris buffer pH 8.0. 
 
 ## Part 2: Preparing the fragments & Gibson Assembly
@@ -140,7 +139,7 @@ You can use the 25 ug miniprep columns with the Clean & Conc buffers).
 ### PCR Amplification of the Inserts
 * **Polymerase choice**: Use a high fidelity enzyme (Kapa HiFi or NEB Q5). 
 Kapa HiFi with the GC buffer is very effective at amplifying the high GC (>65% avg) *Ralstonia* genome.
-  * Use ['PCR workbook.xlsx'] to prepare your PCR reactions.
+  * Use ['PCR_workbook.xlsx'](workbooks/PCR_workbook.xlsx) to prepare your PCR reactions.
   * Amplify according to manufacturer's instructions. 
   * Variables to adjust: 
     * Extension time depends on product length & polymerase. 
@@ -158,7 +157,7 @@ Kapa HiFi with the GC buffer is very effective at amplifying the high GC (>65% a
 
 ### Gibson assembly
 * Quantify DNA on nanodrop
-* Use [Workbook for Gibson Assembly](https://drive.google.com/file/d/1KANdtiQFYRtuiVkB5JXBvwym8x-d-JWW/view?usp=sharing) to calculate reactions
+* Use ['assembly_workbook.xlsx'](workbooks/assembly_workbook.xlsx) to calculate reactions
   * If using newly prepped plasmid backbone, include a "no insert" negative control in the Gibson reaction + *E. coli* transformation
   * Although manufacturer recommends 20 ul reaction, 10 ul reactions work great & save money.
 * Thaw a 50 ul aliquot of the NEB HiFi Assembly mix (#E2621L) on ice.

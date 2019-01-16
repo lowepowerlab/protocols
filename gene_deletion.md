@@ -26,7 +26,7 @@ Suggested method: Gibson Assembly cloning in pUFR80.
 The following protocol assumes a vector containing kanamycin resistance was used, the CPG-Kan concentration was 25 μg/ml unless otherwise stated, and all solid CPG contains 0.5 % w/v TZC.
 
 #### Introduce knockout vector into *Ralstonia* and select on kanamycin
-[Electroporation](electrocompetent_cells.md), [natural transformation](natural_transformation.md), and [conjugation](conjugation.md) are all possible strategies for introducing the vector into *Ralstonia*  
+[Electroporation](electrocompetent_cells.md), [natural transformation](natural_transformation.md), and [conjugation](conjugation_WM3064.md) are all possible strategies for introducing the vector into *Ralstonia*  
 
 *Note: The pUFR80 knockout vector must be circular. Do not digest the vector before transformation.*
 
