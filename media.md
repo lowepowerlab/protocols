@@ -13,6 +13,10 @@ All recipes are reported as per L
 
 ### CPG: 
 
+<font color='RED'>RED stripe = CPG + TZC plates</font> 
+
+<font color='BLACK'>BLACK stripe = CPG plates (no TZC; used for water stock prep)</font>
+
 `Casamino Acids-Peptone-Glucose (yeast extract)`
 
 
@@ -27,6 +31,8 @@ All recipes are reported as per L
 For solid CPG media, always add 1 ml 1% TZC per 500 ml media after media is autoclaved and cooled. 
 
 ### LB
+
+<font color='BLUE'>BLUE stripe = LB plates</font> 
 
 [`Lysogeny Broth`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC321500/)
 

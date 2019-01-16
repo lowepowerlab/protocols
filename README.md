@@ -9,15 +9,16 @@ Lab protocols for the Lowe-Power lab
 * [x] [Colony PCR](colony_pcr.md)
 * [x] [Primer Design with PrimerBlast](primerblast.md)
 * [draft] [Sanger Sequencing](sanger.md)
+* [] [Universal plant pathogenic *Ralstonia* PCR](univ_ralstonia_pcr.md)
 
 ### Microbiology
 
 * [] [General growth of *Ralstonia*](ralstonia_tips_and_tricks.md)
+* [x] [Glycerol stocks (-80C)](glycerol_stocks.md)
 * [x] [Media recipes](media.md)
     * [] Add table of contents
 * [draft] [Buffers and Reagents](buffers.md)
-* [] [Antibiotics](antibiotics.md)
-* [] [Glycerol stocks (-80C)](glycerol_stocks.md)
+* [x] [Antibiotics](antibiotics.md)
 * [draft] [Chemically competent *E. coli* - Mix&Go](ecoli_chem_comp.md)
 * [x] [Electrocompetent *Ralstonia* cells](electrocompetent_cells.md)
 * [] [Natural transformation of *Ralstonia*](natural_transformation.md)
@@ -38,9 +39,12 @@ Lab protocols for the Lowe-Power lab
 
 * [] [Preparing sterile supplies](preparing_sterile_supplies.md)
 * [] [Shelf stocking](shelf_stocking.md)
+* [] [Autoclave](autoclave.md)
 
 ### Computational
 
 * [] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
 * [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
 * 
+
+This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). 

@@ -65,17 +65,18 @@ Aliquot into 50 ml conicals, and place on Buffers/Media shelf.
 
 # Common Reagents
 
-## Glycerol (80% v/v)
+## Glycerol (50% v/v)
 
 In a 1 liter graduated cylinder mix:
 
 | Amount | Reagent           |
 |-------:|:------------------|
-| 800 ml | glycerol          |
-| 200 ml | dI H<sub>2</sub>O |
+| 500 ml | glycerol          |
+| 500 ml | dI H<sub>2</sub>O |
 
 Seal with parafilm and invert until mixed. 
-Glycerol is very viscous, so make sure it mixes completely and does not stick to the container. 
+*Note: Glycerol is very viscous, so make sure it mixes completely and does not stick to the container.*
+ 
 Dispense 100 ml aliquots into milk dilution bottles and autoclave.
 
 ## TZC (1% w/v)
