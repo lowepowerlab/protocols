@@ -55,10 +55,11 @@ See additional resources below to complete the following steps:
 
 ### Set Up a Text Editor on your computer
 
-Recommendation is `Atom`
-
-1. [Download `Atom`](https://atom.io).
-1. Install Atom (or move to `Applications` folder on Mac).
+Recommendation is `Visual Studio Code`
+xxx fix this
+1. xxx[Download `Atom`](https://atom.io).
+1. xxxInstall Atom (or move to `Applications` folder on Mac).
+1. Install Visual Studio code extensions like `Code Spell Checker`, ... 
 
 ### Install Git on your computer
 

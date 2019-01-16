@@ -5,6 +5,7 @@ Lab protocols for the Lowe-Power lab
 * [Gene deletion in *Ralstonia solanacearum*](gene_deletion.md)
 * [Gibson assembly](gibson_assembly.md)
 * [Colony PCR](colony_pcr.md)
+* [Sanger Sequencing](sanger.md)
 
 ### Microbiology
 * [General growth of *Ralstonia*](ralstonia_tips_and_tricks.md)
@@ -12,7 +13,7 @@ Lab protocols for the Lowe-Power lab
 * [Buffers and Reagents](buffers.md)
 * [Antibiotics](antibiotics.md)
 * [Glycerol stocks (-80C)](glycerol_stocks.md)
-* [Chemically competent *E. coli* - Mix&Go](Ecoli_chem_comp.md)
+* [Chemically competent *E. coli* - Mix&Go](ecoli_chem_comp.md)
 * [Growth curve: test tube](growth_curve_tube.md)
 * [Growth curve: 96 well microplate](growth_curve_96well.md)
 * [Dilution plating & colony forming units](cfus.md)
