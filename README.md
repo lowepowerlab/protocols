@@ -34,7 +34,7 @@ Lab protocols for the Lowe-Power lab
 * [] [Melon: inoculations](melon_inoc.md)
 * [] [Colonization: tomato stem](col_tomato_stem.md)
 * [] [Colonization: tomato roots](col_tomato_root.md)
-* [] [Xylem sap harvesting by root pressure](xylem_sap_root_pressure.md)
+* [x] [Xylem sap harvesting by root pressure](xylem_sap_root_pressure.md)
 
 ### Lab Maintenence
 
@@ -47,5 +47,4 @@ Lab protocols for the Lowe-Power lab
 * [x] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
 * [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
 
-
-This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). 
+This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. 
