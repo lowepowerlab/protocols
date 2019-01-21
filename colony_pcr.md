@@ -115,5 +115,8 @@ See: [Glycerol Stocks protocol](glycerol_stocks.md)
 
 
 # Things to update on this protocol:
-* link to the PCR workbook
 * identity/location of the gel imager
+* recommendation of polymerases.  Let's get samples and try some PCRs!
+    * Is this cheaper than Phusion and better than OneTaq for colony PCR? https://www.neb.com/products/m0287-longamp-taq-2x-master-mix#Product%20Information
+    * How about Kapa2G? https://www.kapabiosystems.com/product-applications/products/pcr-2/kapa2g-robust-pcr-kits/
+
