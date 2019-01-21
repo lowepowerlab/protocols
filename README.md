@@ -29,7 +29,7 @@ Lab protocols for the Lowe-Power lab
 
 ### Plants
 
-* [] [Tomato: petiole inoculation](tomato_petiole_inoc.md)
+* [x] [Tomato: petiole inoculation](tomato_petiole_inoc.md)
 * [] [Tomato: soil soak inoculation](tomato_ss_inoc.md)
 * [] [Melon: inoculations](melon_inoc.md)
 * [] [Colonization: tomato stem](col_tomato_stem.md)
