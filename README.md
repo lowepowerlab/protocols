@@ -9,7 +9,7 @@ Lab protocols for the Lowe-Power lab
 * [x] [Colony PCR](colony_pcr.md)
 * [x] [Primer Design with PrimerBlast](primerblast.md)
 * [draft] [Sanger Sequencing](sanger.md)
-* [] [Universal plant pathogenic *Ralstonia* PCR](univ_ralstonia_pcr.md)
+* [] [Universal plant pathogenic *Ralstonia* PCR (759/760 primers)](univ_ralstonia_pcr.md)
 
 ### Microbiology
 
@@ -46,5 +46,15 @@ Lab protocols for the Lowe-Power lab
 
 * [x] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
 * [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
+
+### Workbooks
+* []
+* []
+* []
+* []
+* []
+* []
+* []
+
 
 This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. 
