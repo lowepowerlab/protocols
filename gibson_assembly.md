@@ -3,8 +3,8 @@
 **Writing/editing credits:** Tiffany Lowe-Power
 
 ## Resources
-* [Workbook for PCR reaction calculations](xxx)
-* [Workbook for Gibson Assembly rxn calculations](https://drive.google.com/file/d/1KANdtiQFYRtuiVkB5JXBvwym8x-d-JWW/view?usp=sharing)
+* [Workbook for PCR reaction calculations](workbooks/pcr_workbook.xlsx)
+* [Workbook for Gibson Assembly rxn calculations](workbooks/assembly_workbook.xlsx)
 * [Manufacturer's instructions: NEB HiFi Assembly](https://www.neb.com/products/e2621-nebuilder-hifi-dna-assembly-master-mix)
 * [Background Reading on Gibson Assembly](http://en.wikipedia.org/wiki/Gibson_assembly)
 * [Another protocol for Gibson](http://openwetware.org/wiki/Janet_B._Matsen:Guide_to_Gibson_Assembly)
@@ -99,7 +99,7 @@ Add vector: `+New Fragment`
 Add each insert: `+New Fragment`
 * `Paste Sequence` Copy/paste the upstream region. Name it. Select **Fragment DNA will be produced by** `PCR`. 
 *Important*: Do not do 'Specify Custom Primers' if you want NEBuilder to design overlaps for you.  
-* Add Fragmet.
+* Add Fragment.
 
 #### Check the assembly
 * Make sure fragments are the expected sizes and in the expected order.  
@@ -139,7 +139,7 @@ You can use the 25 ug miniprep columns with the Clean & Conc buffers).
 ### PCR Amplification of the Inserts
 * **Polymerase choice**: Use a high fidelity enzyme (Kapa HiFi or NEB Q5). 
 Kapa HiFi with the GC buffer is very effective at amplifying the high GC (>65% avg) *Ralstonia* genome.
-  * Use ['PCR_workbook.xlsx'](workbooks/PCR_workbook.xlsx) to prepare your PCR reactions.
+  * Use ['pcr_workbook.xlsx'](workbooks/pcr_workbook.xlsx) to prepare your PCR reactions.
   * Amplify according to manufacturer's instructions. 
   * Variables to adjust: 
     * Extension time depends on product length & polymerase. 

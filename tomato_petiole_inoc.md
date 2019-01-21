@@ -56,7 +56,7 @@ Sow seed 3 weeks before inoculation date.
 
 1. Label CPG plates to plate samples of the inoculum. 
 1. For inocula of 1x10<sup>3</sup> CFU / plant, inoculum is 5x10<sup>2</sup> CFU / ul. Serially dilute to 10<sup>-3</sup> and plate 3 technical replicates of 10 ul droplets of the 10<sup>-3</sup>, 10<sup>-2</sup>, and 10<sup>-1</sup>. 
-1. Incubate at 28C for 2 days or on the benchtop for 3 days before counting colonies.  Use the ['cfu_quantification_workbook.xlsx'](workbooks/cfu_quantification_workbook.xlsx) to calculate and verify inoculum density    
+1. Incubate at 28C for 2 days or on the benchtop for 3 days before counting colonies.  Use the ['bacterial_density_workbook.xlsx'](bacterial_density_workbook.xlsx) to calculate and verify inoculum density    
 
 ### 4. Cut-petiole inoculate the plants
 Note: Empirically, inoculations are more uniform if the soil is dry and plants are watered after inoculation.

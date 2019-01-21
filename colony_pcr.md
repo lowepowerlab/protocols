@@ -35,7 +35,7 @@ Set up the reactions on wet ice.
 If appropriate for the vector (Inspecting vector seq on Benchling can help you determine this), use M13F/R primers for PCR screen.
 Alternatively, use a pair of your Gibson cloning primers to PCR screen.
 
-1. Use Benchling to plan your PCR screen approach (i.e. which primers to use) and the ['PCR workbook.xlsx']() to plan your PCR Mastermix using a cheap Taq-PCR kit. 
+1. Use Benchling to plan your PCR screen approach (i.e. which primers to use) and the ['pcr_workbook.xlsx'](workbooks/pcr_workbook.xlsx) to plan your PCR Mastermix using a cheap Taq-PCR kit. 
     * Use **2 ul of colony lysate** as the template DNA 
     * Do ≤ 20 ul reactions per colony. 
 1. Prepare the mastermix, and aliquot to PCR strip-tubes.

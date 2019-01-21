@@ -161,4 +161,4 @@ Add carbon source at 10 mM final (e.g. 10 ml of sterile 1 M stock per L )
 * Fully thaw antibiotics and vortex to mix just before adding them to media
 * Allow the media to stir for ~1 min after adding antibiotics. 
     * If using re-melted agar from a bottle, add an autoclaved stir bar *after* fully re-melting agar.
-* For amount of antibiotic stock solution to add, reference the antibiotic chart at the plate-pouring bench or the ['antibiotic_workbook.xlsx'](workbooks/antibiotic_workbook.xlsx).
+* For amount of antibiotic stock solution to add, reference the antibiotic chart at the plate-pouring bench or the ['antibiotics_workbook.xlsx'](workbooks/antibiotics_workbook.xlsx).
