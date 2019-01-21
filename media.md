@@ -9,9 +9,9 @@ For plates, add 15 g Agar / L and a stir bar. Cool in the 55 °C bath prior to p
 
 All recipes are reported as per L
 
-## Rich Media
+# Rich Media
 
-### CPG: 
+## CPG: 
 
 <font color='RED'>RED stripe = CPG + TZC plates</font> 
 
@@ -20,7 +20,7 @@ All recipes are reported as per L
 `Casamino Acids-Peptone-Glucose (yeast extract)`
 
 
-|           Amount | Reagent                |
+|           Amount per L| Reagent                |
 |-----------------:|:-----------------------|
 |              1 g | Casamino acids         |
 |             10 g | Bacto-Peptone          |
@@ -30,7 +30,7 @@ All recipes are reported as per L
 
 For solid CPG media, always add 1 ml 1% TZC per 500 ml media after media is autoclaved and cooled. 
 
-### LB
+## LB
 
 <font color='BLUE'>BLUE stripe = LB plates</font> 
 
@@ -43,23 +43,23 @@ For solid CPG media, always add 1 ml 1% TZC per 500 ml media after media is auto
 
 *Note: Above is equivalent to:*
 
-|           Amount | Reagent                |
+|           Amount per L | Reagent                |
 |-----------------:|:-----------------------|
 |             10 g | Bacto-tryptone         |
 |              5 g | Yeast extract          |
 |             10 g | NaCl                   |
 | to 1000 ml total | with dI H<sub>2</sub>O |
 
-## Minimal Media
+# Minimal Media
 
-### (BMM) Quarter-Strength M63 Medium
+## (BMM) Quarter-Strength M63 Medium
 BMM stands for Boucher's Minimal Medium after the researcher who determined that this Na-free medium was suitable for *Ralstonia* growth. BMM is a conveniently short label for your bottles.
 
 *Note*: This medium has a low-buffering capacity so depending on final pH of medium, Tris or MES can be added (50 mM final concentration). 
 
 Prepare:
 
-|           Amount | Reagent                                   |
+|           Amount per L | Reagent                                   |
 |-----------------:|:------------------------------------------|
 |            3.4 g | KH<sub>2</sub>PO<sub>4</sub>              |
 |            0.5 g | (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>|
@@ -73,7 +73,7 @@ Autoclave.
 
 Then add the following sterile solutions (**per 100 ml**)
 
-|   Amount | Reagent                                     |
+|   Amount per 100 ml | Reagent                                     |
 |---------:|:--------------------------------------------|
 |    10 ul | 1.25 mg/ml FeSO<sub>4</sub>·7H<sub>2</sub>O |
 |   517 ul | 1 M MgSO<sub>4</sub>                        |
@@ -95,6 +95,45 @@ Add carbon source at 10 mM final (e.g. 10 ml of sterile 1 M stock per L )
     * Dissolve in dI H<sub>2</sub>O up to 50 mls
     * Autoclave to sterilize
     * Only open in laminar flow hood
+
+# Specialized Media
+
+## Modified Semi-Selective South Africa Medium
+Purpose: To select *Ralstonia* from environmental samples where competing microbes may overgrow a plate
+
+|     Amount per L | Reagent                |
+|-----------------:|:-----------------------|
+|              1 g | Casamino acids         |
+|             10 g | Bacto-Peptone          |
+|             5 ml | Glycerol               |
+| to 1000 ml total | with dI H<sub>2</sub>O |
+
+* [Autoclave](autoclave.md)
+* Allow to cool to 55C before adding filter-sterilized screening and selective agents:
+
+Screening agents (color differential)
+|     Amount per L | Reagent                | Stock concentration <br>% w/v|
+|-----------------:|:-----------------------|:-------------------|
+|        5 ml | 2,3,5-Triphenyltetrazolium chloride (TZC) | 1 % |
+|             500 ul | Crystal Violet         | 1% |
+
+Selective agents (expensive, prepare fresh in 20 ml and add to 1L SMSA or scale up and store at 4C to use within 1 month)
+
+|     Amount per L | Reagent                |
+|-----------------:|:-----------------------|
+|           100 mg | Polymyxin B Sulfate (Sigma P-1004) |
+|           100 mg | Cycloheximide (Sigma 01810) |
+|            25 mg | Bacitracin A (Sigma B-0125)   |
+|  500 ul of 0.1% w/v | Penicillin G (Sigma P-3032)   |
+|  500 µl 1% solution (w/v) |  Chloramphenicol  (Sigma C-3175) |
+| to 1000 ml total | with dI H<sub>2</sub>O |
+Polymyxin B is expensive. Unless sampling from field, leave this out.
+
+**Citation:** [Elphinstone J, Hennessey J, Wilson J, Stead D. 1996. Sensitivity of different methods for the detection of Ralstonia solanacearum in potato tuber extracts. EPPO Bull. 26: 663-678.],  as modified by Maria Julia Pianzzola, Universidad de la Republica, Uruguay (personal communication).  
+
+*Note:* Growth of Ralstonia on SMSA will be slow. Colony morphology of *R. solanacearum* after 3 day incubation at 28C:
+
+<img src="images/ralstonia_smsa.png" width="300"> 
 
 # Making media
 

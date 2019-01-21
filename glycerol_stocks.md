@@ -50,3 +50,9 @@ When possible, it is a **great** idea to prepare large numbers of tubes ready to
 - Once thawed, vortex to mix.
 - Aliquot 900 µl to each of the empty tubes.
 - Freeze at -80°C in the designated TLP Strain boxes (White > Primary, Yellow > Backup).
+
+# Water Stocks
+ 
+ * Use 4.5 ml tubes
+ 
+ To a sterile tube filled with sterile distilled water, add one or more loops of bacteria from single typical colonies on a fresh CPG plate (without TZC, because the TZC reduces viability slightly).  Vortex.  Stock should be only slightly turbid: do not overload. Store water stock tubes at room temperature.  Water stocks of R. solanacearum remain viable for decades; we are still using one from 1962.

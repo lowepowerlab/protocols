@@ -9,11 +9,11 @@ Lab protocols for the Lowe-Power lab
 * [x] [Colony PCR](colony_pcr.md)
 * [x] [Primer Design with PrimerBlast](primerblast.md)
 * [draft] [Sanger Sequencing](sanger.md)
-* [] [Universal plant pathogenic *Ralstonia* PCR (759/760 primers)](univ_ralstonia_pcr.md)
+* [x] [PCRs to detect & classify *Ralstonia*](pcr_classify_ralstonia.md)
 
 ### Microbiology
 
-* [] [General growth of *Ralstonia*](ralstonia_tips_and_tricks.md)
+* [] [General growth of *Ralstonia*](growing_ralstonia.md)
 * [x] [Glycerol stocks (-80C)](glycerol_stocks.md)
 * [x] [Media recipes](media.md)
     * [] Add table of contents
@@ -48,13 +48,11 @@ Lab protocols for the Lowe-Power lab
 * [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
 
 ### Workbooks
-* []
-* []
-* []
-* []
-* []
-* []
-* []
+* [x] [(Gibson) assembly](workbooks/assembly_workbook.xlsx)
+* [x] [bacterial density](workbooks/bacterial_density_workbook.xlsx)
+* [x] [chemistry calculations](workbooks/chemistry_calc_workbook.xlsx)
+* [x] [PCR](workbooks/pcr_workbook.xlsx)
+
 
 
 This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. 
