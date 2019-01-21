@@ -63,6 +63,7 @@ Blot dry again.
 1. Collect sap for a uniform amount of time (e.g 30 min up to 2 h).
     * *Just in case there turn out to be differences in sap composition... don't let that variation confound your data. Record the sampling time in your experimental notes*  
 
+<img src="images/plants/xylem_sap_sampling1.png" height="200">
 
 ## Misc. notes
 
