@@ -1,6 +1,6 @@
 # Harvesting Tomato Xylem Sap by Root Pressure
 
-**Writing/Editing Credits**: Tiffany Lowe-Power,
+**Writing/Editing Credits**: Tiffany Lowe-Power, Patrizia Ricca
 
 *This protocol assumes you have tomato plants (>3 weeks old) that have been grown in potting soil*
 
@@ -73,4 +73,3 @@ Sap has similar density to water, so `1 mg = 1 ml`.
 * If filter sterilizing sap, consider the 4 mm diameter filters with 0.22 um pores (e.g. Corning #431212).
 Less volume will be lost, but also easier to clog! 
 Pellet cells/debris first!
-

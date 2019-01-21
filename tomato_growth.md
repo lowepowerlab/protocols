@@ -1,4 +1,7 @@
 ## Growing Tomato plants
+
+**Writing/Editing by**: Tiffany Lowe-Power, Patrizia Ricca,
+
 ### Sowing Seed 
 Sow seed 17 day before soil-soak inoculations and 21 day before cut-petiole inoculations. 
 1. Add potting soil ***XXXtype to be determined*** to a plastic seedling insert in a tray.
