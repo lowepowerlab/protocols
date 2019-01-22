@@ -9,6 +9,8 @@ For plates, add 15 g Agar / L and a stir bar. Cool in the 55 °C bath prior to p
 
 All recipes are reported as per L
 
+1 L solid media will prepare 40 thick plates (*Ralstonia maintainence*) or 50-55 thin plates (*E. coli* or *Ralstonia* dilution plating)
+
 # Rich Media
 
 ## CPG: 

@@ -31,9 +31,10 @@ Lab protocols for the Lowe-Power lab
 
 * [x] [Tomato: sowing, growing, & transplanting](tomato_growth.md)
 * [x] [Tomato: petiole inoculation](tomato_petiole_inoc.md)
-* [] [Tomato: soil soak inoculation](tomato_ss_inoc.md)
+* [x] [Tomato: soil soak inoculation](tomato_ss_inoc.md)
 * [] [Melon: inoculations](melon_inoc.md)
-* [] [Colonization: tomato stem](col_tomato_stem.md)
+* Wilt 
+* [x] [Colonization: tomato stem](col_tomato_stem.md)
 * [] [Colonization: tomato roots](col_tomato_root.md)
 * [x] [Xylem sap harvesting by root pressure](xylem_sap_root_pressure.md)
 
@@ -53,7 +54,5 @@ Lab protocols for the Lowe-Power lab
 * [x] [bacterial density](workbooks/bacterial_density_workbook.xlsx)
 * [x] [chemistry calculations](workbooks/chemistry_calc_workbook.xlsx)
 * [x] [PCR](workbooks/pcr_workbook.xlsx)
-
-
 
 This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. 
