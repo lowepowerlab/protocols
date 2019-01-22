@@ -22,9 +22,9 @@ Lab protocols for the Lowe-Power lab
 * [draft] [Chemically competent *E. coli* - Mix&Go](ecoli_chem_comp.md)
 * [x] [Electrocompetent *Ralstonia* cells](electrocompetent_cells.md)
 * [x] [Natural transformation of *Ralstonia*](natural_transformation.md)
-* [] [Conjugation with *E. coli* WM3064](conjugation_WM3064.md)
-* [] [Growth curve: test tube](growth_curve_tube.md)
-* [] [Growth curve: 96 well microplate](growth_curve_96well.md)
+* [x] [Conjugation with *E. coli* WM3064](conjugation_WM3064.md)
+* [] [Growth curve: test tube](bacteria_growth_curve_tube.md)
+* [x] [Growth curve: 96 well microplate](bacteria_growth_curve_96well.md)
 * [] [Dilution plating & colony forming units](cfus.md)
 
 ### Plants
