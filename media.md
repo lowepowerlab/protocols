@@ -5,7 +5,10 @@
 ***XXX Someone should create a table of contents for this***
 
 ## General Information
-For plates, add 15 g Agar / L and a stir bar. Cool in the 55 °C bath prior to pouring, until the media can be touched with bare hands. Add [antibiotics](antibiotics.md) if required. Stir for approximately 1 min, then pour.
+For plates, add 15 g Agar / L and a stir bar. 
+Cool in the 55 °C bath prior to pouring, until the media can be touched with bare hands. 
+Add [antibiotics](antibiotics.md) if required. 
+Stir for approximately 1 min, then pour.
 
 All recipes are reported as per L
 
@@ -54,14 +57,14 @@ For solid CPG media, always add 1 ml 1% TZC per 500 ml media after media is auto
 
 # Minimal Media
 
-## (BMM) Quarter-Strength M63 Medium
-BMM stands for Boucher's Minimal Medium after the researcher who determined that this Na-free medium was suitable for *Ralstonia* growth. BMM is a conveniently short label for your bottles.
+## <sup>1</sup>/<sub>4</sub> M63  Medium
+Also referred to as 'BMM / Boucher's Minimal Medium' after the researcher who determined that this Na-free medium was suitable for *Ralstonia* growth. 
 
 *Note*: This medium has a low-buffering capacity so depending on final pH of medium, Tris or MES can be added (50 mM final concentration). 
 
 Prepare:
 
-|           Amount per L | Reagent                                   |
+|     Amount per L | Reagent                                   |
 |-----------------:|:------------------------------------------|
 |            3.4 g | KH<sub>2</sub>PO<sub>4</sub>              |
 |            0.5 g | (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>|
@@ -75,7 +78,7 @@ Autoclave.
 
 Then add the following sterile solutions (**per 100 ml**)
 
-|   Amount per 100 ml | Reagent                                     |
+|Amount per 100 ml | Reagent                             |
 |---------:|:--------------------------------------------|
 |    10 ul | 1.25 mg/ml FeSO<sub>4</sub>·7H<sub>2</sub>O |
 |   517 ul | 1 M MgSO<sub>4</sub>                        |
@@ -131,7 +134,7 @@ Selective agents (expensive, prepare fresh in 20 ml and add to 1L SMSA or scale 
 | to 1000 ml total | with dI H<sub>2</sub>O |
 Polymyxin B is expensive. Unless sampling from field, leave this out.
 
-**Citation:** [Elphinstone J, Hennessey J, Wilson J, Stead D. 1996. Sensitivity of different methods for the detection of Ralstonia solanacearum in potato tuber extracts. EPPO Bull. 26: 663-678.],  as modified by Maria Julia Pianzzola, Universidad de la Republica, Uruguay (personal communication).  
+**Citation:** [Elphinstone J, Hennessey J, Wilson J, Stead D. 1996. Sensitivity of different methods for the detection of Ralstonia solanacearum in potato tuber extracts. EPPO Bull. 26: 663-678.],  as modified by Maria Julia Pianzzola, Universidad de la Republica, Uruguay (personal communication). 
 
 *Note:* Growth of Ralstonia on SMSA will be slow. Colony morphology of *R. solanacearum* after 3 day incubation at 28C:
 

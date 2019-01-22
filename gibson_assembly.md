@@ -8,7 +8,7 @@
 * [Manufacturer's instructions: NEB HiFi Assembly](https://www.neb.com/products/e2621-nebuilder-hifi-dna-assembly-master-mix)
 * [Background Reading on Gibson Assembly](http://en.wikipedia.org/wiki/Gibson_assembly)
 * [Another protocol for Gibson](http://openwetware.org/wiki/Janet_B._Matsen:Guide_to_Gibson_Assembly)
-* [Benchling](benchling.com) for plasmid maps.  Create an account and email Tiffany with your account name to be added to the lab Benchling organization.
+* [Benchling](benchling.com) for plasmid maps. Create an account and email Tiffany with your account name to be added to the lab Benchling organization.
 
 ## Part 1: Planning & Design the Vector
 **Assign a systematic name to your vector,** e.g pTLP1, pTLP2, etc.
@@ -37,14 +37,14 @@ After tidying, gene locus may look like this:
 
 ## Use [PrimerBlast](https://www.ncbi.nlm.nih.gov/tools/primer-blast/) to identify the target-specific-portion of the primer.
 Gibson assembly primers have two parts. 
-The 5' end is designed to overlap the neighboring fragment as a reverse-complement.  
+The 5' end is designed to overlap the neighboring fragment as a reverse-complement. 
 The 3' end of the primer a "normal PCR primer" and is specific to the DNA target. 
 I call the 3' end the "target-specific-portion".
 
 * See general [PrimerBlast protocol](primerblast.md).
 
 * For this tutorial, I used these parameters to target the upstream and downstream regions. 
-*Note: Because of how NCBI allows you to save parameters, I had to delete the PCR template sequence.  
+*Note: Because of how NCBI allows you to save parameters, I had to delete the PCR template sequence. 
 But you can copy it from the Benchling link above)*
   * [Upstream parameters][upstream params link]
   * [Downstream parameters](). *I forgot to save this. Oh well. Maybe someone can fill something in here*
@@ -74,13 +74,13 @@ I then create *Upstream* and *Downstream* annotations as shown in the [Benchling
 
 * [NEBuilder link](https://nebuilder.neb.com/#!/)
 
-### Adjust `Settings`.  
+### Adjust `Settings`. 
 If you deviate from these standard settings, note the changes & the reason in your CloningPlan.docx.
 
 * Product / Kit: **NEbuilder HiFi DNA Assembly Master Mix**
 * Minimum overlap: **20**
 * Circularize: **Yes**
-* Other settings:  Doesn't really matter if you're using Kapa Hifi, the Ralstonia-preferred polymerase.  
+* Other settings:  Doesn't really matter if you're using Kapa Hifi, the Ralstonia-preferred polymerase. 
 
 ### `Build`
 
@@ -99,11 +99,11 @@ Add vector: `+New Fragment`
 
 Add each insert: `+New Fragment`
 * `Paste Sequence` Copy/paste the upstream region. Name it. Select **Fragment DNA will be produced by** `PCR`. 
-*Important*: Do not do 'Specify Custom Primers' if you want NEBuilder to design overlaps for you.  
+*Important*: Do not do 'Specify Custom Primers' if you want NEBuilder to design overlaps for you. 
 * Add Fragment.
 
 #### Check the assembly
-* Make sure fragments are the expected sizes and in the expected order.  
+* Make sure fragments are the expected sizes and in the expected order. 
 Change as needed.
 
 #### Export the data `Summary`
@@ -111,7 +111,7 @@ Change as needed.
 *  Add a screenshots to your CloningPlan.docx. 
 (Make sure it includes the restriction enzymes or else you'll be frustrated at the bench)
 *  Copy the 'Required Oligonucleotides' table into your ClongingPlan.docx & add a systematic name  (tlp1 ... ) in front of descriptive name (phcB_Up_fwd). 
-Copy primers to your personal primer spreadsheet (See the lab template for easy bulk ordering through IDT), and bulk-add them to Benchling as oligos.  
+Copy primers to your personal primer spreadsheet (See the lab template for easy bulk ordering through IDT), and bulk-add them to Benchling as oligos. 
 * Download **'Assembled Sequence'** and import it into Benchling. 
 In Benchling, use the Annotations > Autoannotate feature to add the pUFR80 and gene locus annotations. 
 Attach primers after you've imported them into Benchling.

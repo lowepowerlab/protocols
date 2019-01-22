@@ -1,4 +1,4 @@
-Content was forked and minorly adapted from [Mark Mandel/mjmlab](https://github.com/mjmlab/protocols/blob/master/git-github.md).  This probably needs to be significantly updated once Tiffany or a lab member has a better handle of Git. 
+Content was forked and minorly adapted from [Mark Mandel/mjmlab](https://github.com/mjmlab/protocols/blob/master/git-github.md). This probably needs to be significantly updated once Tiffany or a lab member has a better handle of Git. 
 
 # Forking and contributing to a lab Git repo on GitHub: `lowepowerlab/protocols` as an example
 
@@ -39,10 +39,10 @@ You can use Git on your own computer without the need for GitHub. However, since
 
 ### GitHub signup
 
-1. [Sign up](https://github.com/join) for a GitHub account.  
-1. [Sign up](https://education.github.com/discount_requests/new) for the GitHub educational discount.  
-   - This will allow you to have private repos at no cost.  
-1. Email Tiffany with your GitHub username so you can be invited to the [lab GitHub group](https://github.com/lowepowerlab).  
+1. [Sign up](https://github.com/join) for a GitHub account. 
+1. [Sign up](https://education.github.com/discount_requests/new) for the GitHub educational discount. 
+   - This will allow you to have private repos at no cost. 
+1. Email Tiffany with your GitHub username so you can be invited to the [lab GitHub group](https://github.com/lowepowerlab). 
 
 ### Play with GitHub
 
@@ -99,7 +99,7 @@ Navigate into the repo directory
 $ cd testrepo
 ```
 
-Make a change to the repo using the command line.  `git add`, `git commit`, `git status`:
+Make a change to the repo using the command line. `git add`, `git commit`, `git status`:
 
 ```
 $ touch newfile.md
@@ -115,7 +115,7 @@ Your branch is ahead of 'origin/master' by 1 commit.
 nothing to commit, working directory clean
 ```
 
-Push the change to the origin repo.  `git push`:
+Push the change to the origin repo. `git push`:
 
 ```
 $ git push origin master

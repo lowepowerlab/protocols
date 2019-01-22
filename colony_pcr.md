@@ -6,12 +6,12 @@
 
 * Make a mastermix.
 * Use a cheaper Taq-based PCR mix. 
-* Less is more.  
-Bacterial cells and EPS can interfer with PCR.  
+* Less is more. 
+Bacterial cells and EPS can interfer with PCR. 
 If you add enough cells so that it's cloudy... that's >10<sup>6</sup> cells. 
 PCR doesn't need that much DNA template.
 * Colony PCR with Ralstonia straight from a plate works poorly, so see the modified protocol. 
-This protocol can likely be optimized further.  
+This protocol can likely be optimized further. 
 
 ## Colony PCR for *E. coli*
 
@@ -117,7 +117,7 @@ See: [Glycerol Stocks protocol](glycerol_stocks.md)
 
 # Things to update on this protocol:
 * identity/location of the gel imager
-* recommendation of polymerases.  Let's get samples and try some PCRs!
+* recommendation of polymerases. Let's get samples and try some PCRs!
     * Is this cheaper than Phusion and better than OneTaq for colony PCR? https://www.neb.com/products/m0287-longamp-taq-2x-master-mix#Product%20Information
     * How about Kapa2G? https://www.kapabiosystems.com/product-applications/products/pcr-2/kapa2g-robust-pcr-kits/
 

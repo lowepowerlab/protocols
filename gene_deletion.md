@@ -2,9 +2,9 @@
 
 **Writing/editing credits:** Tiffany Lowe-Power
 
-This protocol describes the unmarked gene deletion strategy in *Ralstonia*.  
+This protocol describes the unmarked gene deletion strategy in *Ralstonia*. 
 **Unmarked gene deletion** involves 
-1.  a **negative selection** where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a 
+1. a **negative selection** where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a 
 1. **positive selection** where sucrose sensitivity (conferred by SacB levanosucrase expressed from the vector backbone) drives the vector to recombine out of the genome resulting in ~50% wildtype and 50% knockout genotype clones that must be genotyped by (colony) PCR
 
 ## Unmarked gene deletion (sacB)
@@ -54,5 +54,5 @@ See image below. [image source](http://www.sci.sdsu.edu/~smaloy/Research/pdf%20f
 ### Re-use:
 * **24-well plates**: 
 Submerge in 10% bleach for >30 min. 
-Rinse ~3x in diH2O. Dry in drying oven.  
+Rinse ~3x in diH2O. Dry in drying oven. 
 Don't use for plate-reader experiments, but re-use for routine growth. 

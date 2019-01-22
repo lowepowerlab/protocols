@@ -4,6 +4,9 @@
 
 * **Use a new line for every sentence.** 
 This helps with version control -- individually changed sentences will be highlighted upon commits (easy to parse) rather than whole paragraphs (nightmare to parse).
+    * This formatting is incompatible with a double space after period. 
+    Do a find and replace for ".  " --> ". ". 
+    Be careful not to blanket remove all double spaces because tabbed bullets have 3 spaces. 
 
 * ".md" are markdown files.
 
@@ -19,3 +22,5 @@ This helps with version control -- individually changed sentences will be highli
 * When making numbered lists, just use `1. ` for all numbers. 
 Markdown will make them sequential automatically.
 This is helpful if you go back & add additional entries later. 
+
+* Use "XXX" to indicate an area that needs editing. This will allow the lab to CTRL+F for "XXX" and find areas that need editing.

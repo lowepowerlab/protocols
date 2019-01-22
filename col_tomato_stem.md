@@ -3,6 +3,7 @@
 **Written/Edited by**: Tiffany Lowe-Power, Madeline Hayes, Mandel lab
 
 ## Experimental Design:
+
 * **Timing**:
     * *Colonization assays (e.g. comparing two strains) should be **sampled at specific time points** (will show delay(s) in colonization if time points are before population levels saturate) and not at specific symptom level (even if a strain takes longer to initiate symptoms, at symptom onset, plants will have ~5x10<sup>8</sup>-5x10<sup>9</sup> CFU/g)*
     * Growth curve after **tomato petiole inoculation**: 0, 1, 2, 3 dpi
@@ -17,16 +18,17 @@
     * **Soil-Soak**: Sample at the cotyledon junction
 
 ## Plant Inoculation
+
 Follow the [petiole](tomato_petiole_inoc.md) or [soil soak](tomato_ss_inoc.md) inoculation protocols
 
 ## Destructive Sampling of Stem
 
 ### Preparation
+
 1. `CPG+TZC(+antibiotic) plates`: **1 per sampling site**; labeled for 10<sup>0</sup> to 10<sup>-7</sup> dilutions.
 1. `Bead tubes`: **1 per sampling site**; filled with 4x 2.22 mm metal beads & 900 ul dI H2O;  
     * ***labeled on side**--powerlyzer rubs labels off top*
     * Can prepare up to 1 week in advance
-
 1. Check consumable levels in advance: 
     * 200 ul tips (1 box per 12 samples) - autoclaved
     * 96-well **round-bottom** microplate (1 per 12 samples) - sterilized in 10% bleach 30 min, 4x thorough rinses with diH2O, dried in 50C oven... or new microplate.
@@ -35,6 +37,7 @@ Follow the [petiole](tomato_petiole_inoc.md) or [soil soak](tomato_ss_inoc.md) i
     * Using multichannel P200, add 180 ul to 7 rows well of microplate (A-G). 
 
 ### Sampling
+
 1. Use a razor blade to sample 100 mg +/- 10 mg stem. 
 Record mass for normalization. 
     * *Sharps safety*: Discard dulled blades in *sharps trash*. 

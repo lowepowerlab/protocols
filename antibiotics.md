@@ -27,5 +27,5 @@ Filter refers to filter sterilizing with 0.22 um filters.
 
 ## Working concentrations for *E. coli* and *Ralstonia*
 
-These stocks are at 1000x concentration, so add 1/1000th volume for regular use (e.g. 500 ul to 500 ml medium).  
+These stocks are at 1000x concentration, so add 1/1000th volume for regular use (e.g. 500 ul to 500 ml medium).
 If selecting in a minimal medium, a lower antibiotic concentration may be necessary. 

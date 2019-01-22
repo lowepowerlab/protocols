@@ -34,7 +34,7 @@ Good Resource: **[Sigma Buffer Reference Center](https://www.sigmaaldrich.com/li
 
 Glacial acetic acid is irritating, so open & dispense in fume hood. 
 
-Store at room temperature.  
+Store at room temperature. 
 Dilute 1:50 before use in gel electrophoresis (as running buffer or solvent for agarose gel)
 
 **Worth considering**: There are some other fancy running buffers that are supposed to speed up gel run-time without compromising quality. 
@@ -128,9 +128,8 @@ Dispense 75 μl sterile water on the plate containing ~10 beads, add 25 μl IPTG
 | 200 mg | Xgal                                       |
 |  10 ml | *N,N*-dimethylformamide (Dispense in hood) |
 
-Mix in Corning polypropylene 15 mL tube. Wrap tube in foil as Xgal is light-sensitive
-
-Note that dimethylformamide dissolves some plastics (e.g., polystyrene conical tubes).
+Mix in Corning *polypropylene* 15 mL tube. Wrap tube in foil as Xgal is light-sensitive. 
+Note that *dimethylformamide dissolves some plastics* (e.g., polystyrene conical tubes).
 
 Mix well and store at -20°C.
 
