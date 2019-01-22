@@ -65,7 +65,8 @@ Downstream:
 * Copy the primer tables as live-text into your CloningPlan.docx (That way you/others can copy/past the primers later)
 
 ### Annotate the Benchling Gene Locus with the Upstream and Downstream regions
-Generally, I create annotations called "temp" for each of these target-specific-primers. (e.g CTRL+F > paste *primer seq* > Right click on selection > create new annotation). 
+Generally, I create annotations called "temp" for each of these target-specific-primers 
+(e.g CTRL+F > paste *primer seq* > Right click on selection > create new annotation). 
 Then I can use these to precisely select the intended region. (Click *temp1* > hold down shift and click *temp2*). 
 I then create *Upstream* and *Downstream* annotations as shown in the [Benchling window](https://benchling.com/s/seq-LdA7kp7esUiuZhGqPGeJ).
 
@@ -106,8 +107,7 @@ Add each insert: `+New Fragment`
 Change as needed.
 
 #### Export the data `Summary`
-*Note for someone to edit/delete... 
-These options on NEBuilder have been improved since Tiffany last cloned. Someone else can edit this to create the  lab SOP*
+*xxxNote for someone to edit/delete... These options on NEBuilder have been improved since Tiffany last cloned. Someone else can edit this to create the  lab SOP*
 *  Add a screenshots to your CloningPlan.docx. 
 (Make sure it includes the restriction enzymes or else you'll be frustrated at the bench)
 *  Copy the 'Required Oligonucleotides' table into your ClongingPlan.docx & add a systematic name  (tlp1 ... ) in front of descriptive name (phcB_Up_fwd). 
@@ -146,9 +146,9 @@ Kapa HiFi with the GC buffer is very effective at amplifying the high GC (>65% a
     * Anneal temp depends on buffer composition as well as primer composition. 
     I always like the Kapa HiFi advice: Start with 60C as an anneal (or a gradient temp anneal) and increase/ decrease anneal temp depending on results.
 
-* Run reaction on Agarose gel to confirm amplification
+* Run reaction on Agarose gel to confirm amplification.
   * Gel: Usually 0.8% agarose in TAE, but higher/lower agarose concentrations can be used to get optimal resolution of small/large fragments).
-  * Mix 2 ul reaction + 3 ul water + 1 ul 6x DNA loading dye
+  * Mix 2 ul reaction + 3 ul water + 1 ul 6x DNA loading dye.
   * Run next to 1 Kb+ or appropriate DNA ladder.
   * Image on XXX
 
@@ -157,8 +157,8 @@ Kapa HiFi with the GC buffer is very effective at amplifying the high GC (>65% a
 
 ### Gibson assembly
 * Quantify DNA on nanodrop
-* Use ['assembly_workbook.xlsx'](workbooks/assembly_workbook.xlsx) to calculate reactions
-  * If using newly prepped plasmid backbone, include a "no insert" negative control in the Gibson reaction + *E. coli* transformation
+* Use ['assembly_workbook.xlsx'](workbooks/assembly_workbook.xlsx) to calculate reactions.
+  * If using newly prepped plasmid backbone, include a "no insert" negative control in the Gibson reaction + *E. coli* transformation.
   * Although manufacturer recommends 20 ul reaction, 10 ul reactions work great & save money.
 * Thaw a 50 ul aliquot of the NEB HiFi Assembly mix (#E2621L) on ice.
 * Prepare reaction and incubate in thermocycler at 50C for 15-60 min.

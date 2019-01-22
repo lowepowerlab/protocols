@@ -26,7 +26,8 @@
 6. Press "Start" to start cycle.
 7. ~~When cycle is finished, autoclave will ring~~
 8. If autoclaving liquids, take items out of autoclave
-   * Wear protective *dry* gloves and be careful--items will be very hot. Be especially careful around the lids of liquid media where steam (>100C) can escape and cause steam burns *through autoclave gloves*
+   * Wear protective *dry* gloves and be careful--items will be very hot. 
+   Be especially careful around the lids of liquid media where steam (>100C) can escape and cause steam burns *through autoclave gloves*
    * If autoclaving media with agar for pouring plates same-day, immediately put media in 55°C water bath.
    * For other liquids (including bottles of solid media to be re-melted later), leave out at room temperature
 9. If autoclaving dry items, transfer to 50 C drying oven to dry (typically overnight)

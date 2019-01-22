@@ -7,7 +7,9 @@ If properly prepared and stored in -80, cells should be viable for over 6 months
 
 1.	Inoculate a single colony from a fresh plate (2-3 days of incubation at 28C) into 5 ml of CPG in a 14 mm test tube and incubate overnight at 28°C and 250 rpm.
 
-2.	Add 50 ul of the overnight culture to 100 ml CPG in 250 ml flask. *Note: If performed around 5pm, the culture will be mid-log (OD 0.5 to 0.7) by 9 to 10am the following day. Make sure you have 10% glycerol in the 4 °C fridge for the next morning.*
+2.	Add 50 ul of the overnight culture to 100 ml CPG in 250 ml flask. 
+*Note: If performed around 5pm, the culture will be mid-log (OD 0.5 to 0.7) by 9 to 10am the following day. 
+Make sure you have 10% glycerol in the 4 °C fridge for the next morning.*
 
 3.	Shake at 28°C and 250 rpm until the culture reach mid-log (OD600 of 0.5-0.7).
 

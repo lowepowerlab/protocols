@@ -43,9 +43,9 @@ Alternatively, use a pair of your Gibson cloning primers to PCR screen.
 1. Run a PCR reaction on the thermocycler with a program that matches the PCR kit, necessary extension time, and an anneal temperature suitable with your PCR screening primers. 
 
 ### Step 3: Run Agarose Gel to determine result of PCR screen
-* Use 0.8 % w/v agarose in TAE (or appropriate higher/lower agarose concentration)
-* Mix 5 ul PCR product with 1 ul 6x DNA loading dye
-* Image gel on XXXX in room XXX
+* Use 0.8 % w/v agarose in TAE (or appropriate higher/lower agarose concentration).
+* Mix 5 ul PCR product with 1 ul 6x DNA loading dye.
+* Image gel on XXXX in room XXX.
 * Print an image of the gel for your lab notebook. 
 *Note:* Faint bands often print better if you invert the colors. 
 
@@ -76,7 +76,8 @@ This way, you don't need to worry about the strains accumulating spurious mutati
 1. Transfer tubes to -20 C until frozen.
 
 1. Thaw. 
-Spin for ~1 min in PCR tube centrifuge. *XXX Timing might need to be updated here.  Not sure if a PCR tube centrifuge will pellet cell gunk or whether this should be skipped. If pelleting is unsuccessful, maybe rewrite this steps as "add 200 ul water with multichannel to dilute PCR inhibitors in cloudy lysate"*
+Spin for ~1 min in PCR tube centrifuge. 
+*XXX Timing might need to be updated here. Not sure if a PCR tube centrifuge will pellet cell gunk or whether this should be skipped. If pelleting is unsuccessful, maybe rewrite this steps as "add 200 ul water with multichannel to dilute PCR inhibitors in cloudy lysate"*
 
 ### Step 2: Run PCR
 
@@ -96,7 +97,7 @@ See: [Glycerol Stocks protocol](glycerol_stocks.md)
 
 * Problem: No bands
     * Use a DNA extraction kit (e.g. Zymo xxx kit). Purify DNA.
-* Problem: Bands are unexpected size
+* Problem: Bands are unexpected size.
     * Gel extact the band (Zymo gel extraction kit) and submit for sanger sequencing with one of the colony PCR primers. 
     BLAST result and try to align result with Benchling plasmid maps
         * Only sequence 1 of each spuriously sized band. 

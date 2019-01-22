@@ -3,13 +3,18 @@
 **Writing/Editing Credit**: Tiffany Lowe-Power
 
 ## General Notes
-You might not be comfortable with chemical calculations yet.  Knowing which equation to use to make a certain buffer seems challenging when you are new to the lab, but chemical calculations are a muscle that you need to exercise. When in doubt, C1V1=C2V2. Don't feel embarrassed if you need to quickly google to assure yourself of something (*"What does % w/v mean again?"*). Aim for self-sufficiency, but ask your mentor for help after you've put in an honorable effort. 
+
+You might not be comfortable with chemical calculations yet.  Knowing which equation to use to make a certain buffer seems challenging when you are new to the lab, but chemical calculations are a muscle that you need to exercise. 
+When in doubt, C1V1=C2V2. Don't feel embarrassed if you need to quickly google to assure yourself of something (*"What does % w/v mean again?"*). 
+Aim for self-sufficiency, but ask your mentor for help after you've put in an honorable effort. 
 
 After you can do the calculations by hand, feel free to use the **['chemistry_calc_workbook.xlsx'](workbooks/chemistry_calc_workbook.xlsx)** to check your math & avoid mistakes. 
 
 ## Don't take Buffers for granted
 
-When working with a new buffer, make sure you understand its properties. Buffers have a limited dynamic range (there's no perfect buffer for all pHs). Some buffers change pH with temperature. Some damage our pH probe. 
+When working with a new buffer, make sure you understand its properties. 
+Buffers have a limited dynamic range (there's no perfect buffer for all pHs). 
+Some buffers change pH with temperature. Some damage our pH probe. 
 
 Good Resource: **[Sigma Buffer Reference Center](https://www.sigmaaldrich.com/life-science/core-bioreagents/biological-buffers/learning-center/buffer-reference-center.html)** 
 
@@ -29,9 +34,11 @@ Good Resource: **[Sigma Buffer Reference Center](https://www.sigmaaldrich.com/li
 
 Glacial acetic acid is irritating, so open & dispense in fume hood. 
 
-Store at room temperature.  Dilute 1:50 before use in gel electrophoresis (as running buffer or solvent for agarose gel)
+Store at room temperature.  
+Dilute 1:50 before use in gel electrophoresis (as running buffer or solvent for agarose gel)
 
-**Worth considering**: There are some other fancy running buffers that are supposed to speed up gel run-time without compromising quality. Feel free to test those & make them the lab SOP. 
+**Worth considering**: There are some other fancy running buffers that are supposed to speed up gel run-time without compromising quality. 
+Feel free to test those & make them the lab SOP. 
 
 ## EDTA 0.5 M, pH 8.0
 `ethylenediaminetetraacetic acid`
@@ -46,7 +53,8 @@ Store at room temperature.  Dilute 1:50 before use in gel electrophoresis (as ru
 ## Tris pH 8.0  (50 mM)
 **Purpose:** for DNA stability (e.g. for reconsituting primer stocks).
 
-*Note:* Many pH probes can be damaged by Tris, so mixing the proper ratio of Tris Base and Tris HCl to achieve a 50 mM buffer at the desired pH.  The ratio below yield a solution that is pH 8 at 25 C. See manufacturer's protocol if a different pH from 7.0 to 9.0 is desired. 
+*Note:* Many pH probes can be damaged by Tris, so mixing the proper ratio of Tris Base and Tris HCl to achieve a 50 mM buffer at the desired pH.  
+The ratio below yield a solution that is pH 8 at 25 C. See manufacturer's protocol if a different pH from 7.0 to 9.0 is desired. 
 
 `Trisma Base: tris[hydroxymethyl]aminomethane)` MW = 121.14
 
@@ -80,7 +88,8 @@ Seal with parafilm and invert until mixed.
 Dispense 100 ml aliquots into milk dilution bottles and autoclave.
 
 ## TZC (1% w/v)
-**Purpose:** Redox indicator for CPG agar (forms red precipitant in respiring cells). Useful indicator for *Ralstonia* colony morphology. 
+**Purpose:** Redox indicator for CPG agar (forms red precipitant in respiring cells). 
+Useful indicator for *Ralstonia* colony morphology. 
 
 `2,3,5-Triphenyltetrazolium chloride`
 
@@ -127,7 +136,8 @@ Mix well and store at -20°C.
 
 Add 100 μl to agar plates for β-galactosidase assays.
 
-The most uniform distribution in an agar plate is accomplished by adding Xgal to the liquid agar after the media has been autoclaved and can be touched (~60 °C), then mix well prior to plating. Alternately, if Xgal is spread on a plate directly, pipet onto multiple foci and use 10 glass beads to distribute it rapidly before it sets into local areas of the plate.
+The most uniform distribution in an agar plate is accomplished by adding Xgal to the liquid agar after the media has been autoclaved and can be touched (~60 °C), then mix well prior to plating. 
+Alternately, if Xgal is spread on a plate directly, pipet onto multiple foci and use 10 glass beads to distribute it rapidly before it sets into local areas of the plate.
 
 ## DAP (300 mM, 1000x)
 
@@ -139,6 +149,8 @@ MW = 190.19
 |  1.14g | DAP              |
 |  20 ml | ddH<sub>2</sub>O |
 
-At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. Autoclave, then store at room temp.  
+At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. 
+Autoclave, then store at room temp.  
+
 Vortex before adding to media.  
 

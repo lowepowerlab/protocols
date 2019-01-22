@@ -4,8 +4,8 @@
 
 This protocol describes the unmarked gene deletion strategy in *Ralstonia*.  
 **Unmarked gene deletion** involves 
-1.  a negative selection where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a 
-1. positive selection where sucrose sensitivity (conferred by SacB levanosucrase expressed from the vector backbone) drives the vector to recombine out of the genome resulting in ~50% wildtype and 50% knockout genotype clones that must be genotyped by (colony) PCR
+1.  a **negative selection** where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a 
+1. **positive selection** where sucrose sensitivity (conferred by SacB levanosucrase expressed from the vector backbone) drives the vector to recombine out of the genome resulting in ~50% wildtype and 50% knockout genotype clones that must be genotyped by (colony) PCR
 
 ## Unmarked gene deletion (sacB)
 
@@ -34,7 +34,8 @@ The following protocol assumes a vector containing kanamycin resistance was used
 
 #### Counter-select on 5% w/v sucrose plates ###
 
-1. Once single colonies appear (2 days up to 4 days), grow 2 Kan<sup>R</sup> colonies overnight in CPG+Kan broth. *Optional: Create a temporary freezer stock in cheap 1.5 ml tubes in case the counter-selection fails*
+1. Once single colonies appear (2 days up to 4 days), grow 2 Kan<sup>R</sup> colonies overnight in CPG+Kan broth. 
+*Optional: Create a temporary freezer stock in cheap 1.5 ml tubes in case the counter-selection fails*
 
 1. Wash each in 3x in CPG without antibiotic. Dilute and plate 200 μl of the 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions on CPG + 5% w/v sucrose plates. 
 *Optional: plate the dilutions on CPG without sucrose to verify* sacB *is conferring sucrose susceptibility.*
