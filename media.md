@@ -35,6 +35,8 @@ All recipes are reported as per L
 
 For solid CPG media, always add 1 ml 1% TZC per 500 ml media after media is autoclaved and cooled. 
 
+*Note: Some Ralstonia labs call this media "BG" media*
+
 ## LB
 
 <font color='BLUE'>BLUE stripe = LB plates</font> 
