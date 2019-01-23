@@ -49,10 +49,11 @@ Lab protocols for the Lowe-Power lab
 * [x] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
 * [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
 
-### Workbooks
+### Workbooks and Excel templates
+
 * [x] [(Gibson) assembly](workbooks/assembly_workbook.xlsx)
 * [x] [bacterial density](workbooks/bacterial_density_workbook.xlsx)
 * [x] [chemistry calculations](workbooks/chemistry_calc_workbook.xlsx)
 * [x] [PCR](workbooks/pcr_workbook.xlsx)
-
+* [x] [96- and 24-well microplate templates](template_plate_layouts.xlsx)
 This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. 

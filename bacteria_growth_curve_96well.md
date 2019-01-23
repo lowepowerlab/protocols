@@ -11,7 +11,6 @@
 #### Reusables 
 1. Plate reader capable of incubating at 28C with shaking and A 600 readings
 1. Plate sealing device e.g. 3M P.A.-1
-1. 
 
 ### Experimental Design
 * Sign up for plate reader at XXX. *Try to schedule long experiments (>24 h) to run during the weekend.*
@@ -25,6 +24,7 @@ Growth curves should be performed in the dynamic range of the instrument (e.g. a
 Because microplates have a smaller pathlength where the light passes through the sample, A600 in the plate reader is not equivalent to OD600. 
 
 ### Loose Methods
+
 *Note this protocol assumes use of typical 96-well plates. Half-area well or 24 well plates will require appropriately scaled volumes*
 
 **Use multichannel P20 and P200 where possible**
