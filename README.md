@@ -37,6 +37,7 @@ Lab protocols for the Lowe-Power lab
 * [x] [Colonization: tomato stem](col_tomato_stem.md)
 * [] [Colonization: tomato roots](col_tomato_root.md)
 * [x] [Xylem sap harvesting by root pressure](xylem_sap_root_pressure.md)
+* [] [Tobacco Mosaic Virus & other things to worry about](tomato_problems_misc.md)
 
 ### Lab Maintenence
 
