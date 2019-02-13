@@ -2,6 +2,11 @@
 
 Lab protocols for the Lowe-Power lab
 
+### General
+
+* [x] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
+* [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
+
 ### Molecular Biology
 
 * [x] [Gene deletion in *Ralstonia solanacearum*](gene_deletion.md)
@@ -45,11 +50,6 @@ Lab protocols for the Lowe-Power lab
 * [x] [Shelf stocking](shelf_stocking.md)
 * [x] [Autoclave](autoclave.md)
 
-### Computational
-
-* [x] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
-* [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
-
 ### Workbooks and Excel templates
 
 * [x] [(Gibson) assembly](workbooks/assembly_workbook.xlsx)
@@ -57,4 +57,6 @@ Lab protocols for the Lowe-Power lab
 * [x] [chemistry calculations](workbooks/chemistry_calc_workbook.xlsx)
 * [x] [PCR](workbooks/pcr_workbook.xlsx)
 * [x] [96- and 24-well microplate templates](template_plate_layouts.xlsx)
-This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. 
+
+## References & Acknowledgement (and great resources)
+This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. Additional labs with great protocol repositories are [Barrick lab](http://barricklab.org/twiki/bin/view/Lab/ProtocolList), ...

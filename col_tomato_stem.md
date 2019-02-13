@@ -53,27 +53,7 @@ Repeat for 12-24 samples.
     Homogenization will release nutrients that can promote bacterial growth before dilution plated.*  
 1. After homogenization, inspect samples to verify complete homogenization. 
 *Protip*: incompletely homogenized samples usually have less chlorophyll in suspension.
-1. Dilute samples:
-    * *Dilution and plating can usually be done on the open bench without significant contamination. 
-    Contaminating fungi usually originate from plant sample*
-    1. Add 20 ul of plant homogenate from bead tube (10<sup>0</sup> dilution) to 180 di H2O in row A (10<sup>-1</sup> dilution). 
-        * *Make sure 20 ul is transfered--it's possible for plant debris to clog tip. 
-        Gently pipette to relieve clog. 
-        An accurate 20 ul will come to the 20 ul line without bubbles*
-    1. With multichannel P20, THOROUGHLY pipette to mix row A (~10 pipette pulses), and transfer 20 ul to row B. 
-    Mix THOROUGHLY again and discard tips. 
-    1. Continue down plate, discarding tip after mixing each new row. 
-    * *Tip*: If you lose your place, look at the microplate from the side for the row with 200 ul. 
-    * *Tip*: If you are unsure your pipette-to-mix skill is adequate, practice with crystal violet, DNA loading dye, or even chlorophyll-pigmented plant homogenate. 
-1. Plate dilutions:
-    1. Moving from most dilute (row H) to least dilute (row A, then bead tube), plate 3x 10ul drops on labeled CPG plate. 
-        * Avoid letting droplets merge. If unavoidable, droplets merging within the dilution is acceptable
-        * If minor errors are made, gouge the agar with your tip. 
-    1. Allow drops to absorb into agar. 
-1. Finish homogenizing samples in batches of 12 or 24. 
-1. Incubate 28 C for ~2 days (40 h is best) or 3 days on the bench before counting colonies.  
-    * *The mucoid colony morphology can cause the colonies to merge; count colonies before that happens. 
-    A sweet spot of 28 C vs benchtop is useful*
+1. Dilute samples according to [dilution plating protocol](cfus.md). Finish homogenizing samples in batches of 12 or 24. 
 
 ## Data Analysis: 
 * Copy calculations from [bacterial density workbook](workbooks/bacterial_density_workbook.xlsx) into a digital lab notebook entry and calculate CFU / g stem. 

@@ -14,14 +14,14 @@ This corresponds to ~4e8 to 8e8 cells, approx 500-1000x library size.
    *  *Note*: This is 1/4th the normal Kan concentration.
    Wildtype GMI1000 is inhibited by as little as 2.5 mg / ml Kan, so this will still be selective. 
    But it might be 'gentler' on any mutants with increased Kan sensitivity.
-1. Incubated at 28C with shaking overnight.
+1. Incubate at 28C with shaking overnight.
     * *XXX to update -- amount of time this takes on new shaker.  In Lindow lab, a timing of overnight starting at 4pm resulted in culture being ready at 9am-11am.*
 
 ### Harvest cells, adjust inoculum, save time 0, dilution plate
 
 1. When cultures reach OD of 0.4 - 0.7, harvest cells.
 Centrifuge 10 min 5k *xg* RT. 
-1. Remove supernatant and resuspend cells. Measure OD. Adjust OD. 
+1. Remove supernatant (wash 2x if residual rich media is likely to skew experimental results) and resuspend cells. Measure OD. Adjust OD. 
     * Volume of resuspension depends on experimental design. 
     For in vitro experiments, resuspending in a few ml makes sense. 
     For petiole inoculation experiments, keep cells concentrated and measure OD of a 1:100 to 1:1000 dilution. 
