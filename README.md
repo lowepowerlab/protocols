@@ -30,18 +30,19 @@ Lab protocols for the Lowe-Power lab
 * [x] [Conjugation with *E. coli* WM3064](conjugation_WM3064.md)
 * [] [Growth curve: test tube](bacteria_growth_curve_tube.md)
 * [x] [Growth curve: 96 well microplate](bacteria_growth_curve_96well.md)
-* [] [Dilution plating & colony forming units](cfus.md)
+* [x] [Dilution plating & colony forming units](cfus.md)
 
 ### Plants
 
 * [x] [Tomato: sowing, growing, & transplanting](tomato_growth.md)
 * [x] [Tomato: petiole inoculation](tomato_petiole_inoc.md)
 * [x] [Tomato: soil soak inoculation](tomato_ss_inoc.md)
+* [x] [Tomato: xylem sap harvesting by root pressure](tomato_xylem_sap_root_pressure.md)
 * [] [Melon: inoculations](melon_inoc.md)
-* Wilt 
+* [] Wilt 
 * [x] [Colonization: tomato stem](col_tomato_stem.md)
 * [] [Colonization: tomato roots](col_tomato_root.md)
-* [x] [Xylem sap harvesting by root pressure](xylem_sap_root_pressure.md)
+* [w.i.p.] [Growing Tomato for seed](tomato_seed_bulking.md)
 * [] [Tobacco Mosaic Virus & other things to worry about](tomato_problems_misc.md)
 
 ### Lab Maintenence
