@@ -7,7 +7,7 @@ Protocol modified from [Tomato Genetics Resource Center TGRC](https://tgrc.ucdav
 ## Bleach seed
 *Necessary for seed sources outside our lab that could come in with TMV, Clavibacter, or another seed-coat pathogen*
 
-1. Incubate 5-10 tomato seeds in 50% commercial bleach (2.7% sodium hypochlorite) for 90 min. 
+1. Incubate 5-10 tomato seeds in 50% commercial bleach (2.7% sodium hypochlorite) for 90 min (in 1.5 ml tubes)
     * *Note: this will degrade the seed coat (removing pathogens), but leave very fragile endosperms. Avoid squishing with your fingers*
 1. Rinse the seeds well by pouring them through a fine mesh strainer (e.g. tea ball) and rinsing in a gentle stream of tap water. 
 1. Return fragile seeds to 1 ml water in 1.5 ml tube and sow ~immediately. 
