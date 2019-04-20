@@ -23,7 +23,6 @@ Detects a region present in most *R. solanacearum, R. pseudosolanacearum, R. syz
 * Resolve on **2%** agarose gel
 
 ## 2. Phylotype PCR (Multiplex)
-**If reaction is positive, notify Tiffany Lowe-Power immediately.**
 
 **Citation**: Fegan, M, and P. Prior 2005. How complex is the R. solanacearum species complex? In: Bacterial Wilt: The Disease and the Ralstonia solanacearum species complex (C. Allen, P. Prior, and A.C. Hayward, editors). APS Press, St Paul.
 

@@ -29,6 +29,7 @@ Follow the [petiole](tomato_petiole_inoc.md) or [soil soak](tomato_ss_inoc.md) i
 1. `Bead tubes`: **1 per sampling site**; filled with 4x 2.22 mm metal beads & 900 ul dI H2O;  
     * ***labeled on side**--powerlyzer rubs labels off top*
     * Can prepare up to 1 week in advance
+    * **Major tip**: Use a pipette tip to quickly load beads into tubes: https://www.reddit.com/r/labrats/comments/59ojh8/glass_bead_dispenser/d9an6ge/
 1. Check consumable levels in advance: 
     * 200 ul tips (1 box per 12 samples) - autoclaved
     * 96-well **round-bottom** microplate (1 per 12 samples) - sterilized in 10% bleach 30 min, 4x thorough rinses with diH2O, dried in 50C oven... or new microplate.
