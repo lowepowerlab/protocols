@@ -7,6 +7,8 @@
 * **Timing**:
     * *Colonization assays (e.g. comparing two strains) should be **sampled at specific time points** (will show delay(s) in colonization if time points are before population levels saturate) and not at specific symptom level (even if a strain takes longer to initiate symptoms, at symptom onset, plants will have ~5x10<sup>8</sup>-5x10<sup>9</sup> CFU/g)*
     * Growth curve after **tomato petiole inoculation**: 0, 1, 2, 3 dpi
+        * Sample size, for time 0, N=3 per condition (plant genotype/strain/etc) is sufficient because there shouldn't be much variation here. For other time points, larger N is better.  Aim for at least N = 8 for other time points. 
+        * Note, it's recommended that you transplant extra plants in case you mess up your inoculation. 
     * Growth curve (stem) after **soil drench inoculation**: 4, 6, 8 dpi
         * Time 0 is not informative because bacteria are sampled into the soil and sampling is in the stem. 
         * Infection via soil-drench is stochastic. 4 dpi is probably the earliest you want to do, but even then, many plants will be uncolonized. 
