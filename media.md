@@ -60,9 +60,9 @@ For solid CPG media, always add 1 ml 1% TZC per 500 ml media after media is auto
 # Minimal Media
 
 ## <sup>1</sup>/<sub>4</sub> M63  Medium
-Also referred to as 'BMM / Boucher's Minimal Medium' after the researcher who determined that this Na-free medium was suitable for *Ralstonia* growth. 
+Also referred to as 'BMM / Boucher's Minimal Medium' after the researcher who determined that this Na-free medium was suitable for *Ralstonia* growth.  
 
-*Note*: This medium has a low-buffering capacity so depending on final pH of medium, Tris or MES can be added (50 mM final concentration). 
+*Note*: This medium has a low-buffering capacity so depending on final pH of medium, Tris or MES can be added (10 mM final concentration). 
 
 Prepare:
 
@@ -83,7 +83,7 @@ Then add the following sterile solutions (**per 100 ml**)
 |Amount per 100 ml | Reagent                             |
 |---------:|:--------------------------------------------|
 |    10 ul | 1.25 mg/ml FeSO<sub>4</sub>·7H<sub>2</sub>O |
-|   517 ul | 1 M MgSO<sub>4</sub>                        |
+|   51.7 ul | 1 M MgSO<sub>4</sub>                        |
 
 Add carbon source at 10 mM final (e.g. 10 ml of sterile 1 M stock per L )
 
