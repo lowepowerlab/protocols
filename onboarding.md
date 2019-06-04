@@ -9,11 +9,13 @@ Important information for new hires. We highly recommend getting a UCD email add
 
 http://plantpathology.ucdavis.edu/safety.cfm
 
-* UCD **Online safety training** through (LMS)[https://lms.ucdavis.edu/] > Required Training. If you do not see the following online safety trainings, email Andy Ross (abross@ucdavis.edu) to request the training and copy Tiffany. These trainings are long, but that is because they cover safety in sufficient detail to be useful. Although it's technically possible to "test out" of the training with the quiz, I expect you to watch the videos in full with your full attention. 
+* UCD **Online safety training** through (LMS)[https://lms.ucdavis.edu/] aka UC Learning Center. Look for the courses below in `Required Training`. If you do not see them, use the `Find A Course` search. If all else fails, email the plant pathology Safety guru Andy Ross (abross@ucdavis.edu) to request the training and copy Tiffany. These trainings are long, but that is because they cover safety in sufficient detail to be useful. Although it's technically possible to "test out" of the training with the quiz, I expect you to watch the videos in full with your full attention and then completing the quiz. 
 
     1. eCourse:UC Laboratory Safety Fundamentals (Initial Training)
     1. eCourse:UC Laboratory Safety Fundamentals Refresher  
     1. eCourse:Cryogen Safety 
+    1. UC DAVIS BIOSAFETY LEVEL 2 ONLINE TRAINING
+    1. Safe Use of Biological Safety Cabinets
 
 * **Department Safety Training**. Navigate to to the Department's Safety website. Familiarize yourself with the contents.  Review and sign the following documents (XXX Note: We need to clarify with Andy Ross how to Read/sign these since we aren't required to keep paper copies)
     * Injury and Illness Prevention Program (IIPP)
@@ -32,12 +34,14 @@ http://plantpathology.ucdavis.edu/safety.cfm
     * I encourage 
 
 
-## Software recommendations
-* Graphpad Prism: Full time staff should ask Tiffany for a license. (Unfortunately, we don't currently have funding to purchase licenses for undergraduate researcher's computers). 
+## Software recommendations (all)
 * Slack will be our lab's preferred communication tool (to keep it separate from noisy email boxes). I encourage labbies to install the Slack desktop app and smartphone apps and create an account to access LowePowerLab.slack.com
-* Benchling will be our lab's cloning / short DNA management software. Create an (academic) account and request access to the . 
+* Benchling will be our lab's cloning / short DNA management software.  
+    * Create an (academic) account and request access to the organization: https://benchling.com/organizations/lowepowerlab/members
     * Keep "cloning plans" in your personal folders.  Once you create & validate a vector, copy it to the shared inventory. 
 
+## Software recommendations (full time labbies)
+* Graphpad Prism: Full time staff should ask Tiffany for a license. (Unfortunately, we don't currently have funding to purchase licenses for undergraduate researcher's computers). 
 
 ## Recommended reading
 * See this Google Doc: 

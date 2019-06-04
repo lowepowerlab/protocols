@@ -19,7 +19,7 @@ Lab protocols for the Lowe-Power lab
 ### Microbiology
 
 * [x] [General growth of *Ralstonia*](growing_ralstonia.md)
-* [x] [Glycerol stocks (-80C)](glycerol_stocks.md)
+* [x] [Glycerol stocks (-70C)](glycerol_stocks.md)
 * [x] [Media recipes](media.md)
     * [] Add table of contents
 * [draft] [Buffers and Reagents](buffers.md)
