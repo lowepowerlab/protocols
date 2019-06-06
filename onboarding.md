@@ -25,6 +25,11 @@ http://plantpathology.ucdavis.edu/safety.cfm
 
 ## Lab Organization 
 
+* **Lab Notebooks** are property of the lab and will digital and be backed up regularly (Bonus--you can keep a copy to use as a reference when you leave the lab!). I recommend using Microsoft OneNote and following the practices recommended here. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006918 I suggest labbies use the YYYY/MM/DD datestamp format because it's easiest to sort numerically. 
+    * If you make scratch paper notes, take photos & attach it to your notebook.  Same with scratch calculations in excel -- screenshots. 
+    * Notebook should be completed by the end of the week. 
+    * Notebook should be backed up monthly to the cloud.
+
 * **Lab protocols** are hosted on Github: https://github.com/lowepowerlab/protocols. 
     * Create a Github account for yourself and apply for an [academic account](https://help.github.com/en/articles/applying-for-an-educator-or-researcher-discount) to have the option of private repositories. I expect all repositories to be shared within the lab and any validated data or protocol to eventually be publicly published and shared with the scientific community. 
     * As we optimize/improve/change protocols, please commit updates to the shared lab protocols, and list yourself as a contributer. 
