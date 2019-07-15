@@ -70,3 +70,4 @@ Option 2: If you want to frequently write & edit protocols, you can `clone` the 
 * Edit a Markdown or other file (.md are markdown files)
 * Save the Changes locally
 * To commit to your git account, Open `Source Control` Menu (left). Add an informative description of the changes to the "Message", such as "*Fixed typos*", "*Improved clarity*", "*wrote protocol XXX*". Then `commit` by clicking the checkmark. Verify your changes have registered on the [`master`](https://.github.com/lowepowerlab/protocols)
+* Currently... Tiffany's computer is configured such that commiting in VS Code doesn't push to the master.  Tiffany uses the GitHub Desktop program to push & pull commits from the master. 
