@@ -1,4 +1,4 @@
-Content was forked and minorly adapted from [Mark Mandel/mjmlab](https://github.com/mjmlab/protocols/blob/master/git-github.md). This probably needs to be significantly updated once Tiffany or a lab member has a better handle of Git. 
+Content was forked and from [Mark Mandel/mjmlab](https://github.com/mjmlab/protocols/blob/master/git-github.md). A lot of content was removed to streamline, but it's not a bad idea to review it when we become more Git-competent. 
 
 # Cloning and contributing to a lab Git repo on GitHub: `lowepowerlab/protocols` as an example
 
@@ -13,15 +13,7 @@ This is a bit meta: a protocol to demonstrate how to contribute to the protocols
 	- [Play with GitHub](#play-with-github)
 	- [Set Up a Text Editor on your computer](#set-up-a-text-editor-on-your-computer)
 	- [Install Git on your computer](#install-git-on-your-computer)
-	- [Play with Git](#play-with-git)
-	- [Some notes about local Git repos:](#some-notes-about-local-git-repos)
-- [Forking and cloning the `protocols` repo](#forking-and-cloning-the-protocols-repo)
-	- [Fork the repo to your GitHub account](#fork-the-repo-to-your-github-account)
-	- [Upstream vs Remote vs Local versions of the repo](#upstream-vs-remote-vs-local-versions-of-the-repo)
 	- [Modify a lab protocol](#modify-a-lab-protocol)
-	- [Short commit message](#short-commit-message)
-	- [Pull Request: Now suggest this change to the lab](#pull-request-now-suggest-this-change-to-the-lab)
-- [Dealing with the situation where your Remote repo (`mandel01/protocols`) is different from the lab Upstream repo (`mjmlab/protocols`)](#dealing-with-the-situation-where-your-remote-repo-mandel01protocols-is-different-from-the-lab-upstream-repo-mjmlabprotocols)
 
 <!-- /TOC -->
 
@@ -77,4 +69,4 @@ If you want to frequently write & edit protocols, you can `clone` the protocols 
 * Open the protocols `repo` in VS Code. 
 * Edit a Markdown or other file (.md are markdown files)
 * Save the Changes locally
-* Push the commit with `Source Control` Button (left). Add an informative description of the changes to the "Message", such as "*Fixed typos*", "*Improved clarity*", "*wrote protocol XXX*", etc. 
+* Push the commit with `Source Control` Button (left). Add an informative description of the changes to the "Message", such as "*Fixed typos*", "*Improved clarity*", "*wrote protocol XXX*",
