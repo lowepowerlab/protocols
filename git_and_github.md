@@ -59,9 +59,9 @@ Recommendation is `Visual Studio Code`
 
 ### Modify a lab protocol
 
-Follow the instructions on [Mark Mandel's Tutorial](https://github.com/mjmlab/protocols/blob/master/git-github.md#forking-and-cloning-the-protocols-repo).  
+Option 1: Follow the instructions on [Mark Mandel's Tutorial](https://github.com/mjmlab/protocols/blob/master/git-github.md#forking-and-cloning-the-protocols-repo).  
 
-If you want to frequently write & edit protocols, you can `clone` the protocols repository into VS Code & `push` changes to the `master` from your computer/account. 
+Option 2: If you want to frequently write & edit protocols, you can `clone` the protocols repository into VS Code & `push` changes to the `master` from your computer/account. 
 
 * Open VS Code
 * Ctrl+Shift+P to open the `search commands` dialog. Type "*clone*", hit enter.
@@ -69,4 +69,4 @@ If you want to frequently write & edit protocols, you can `clone` the protocols 
 * Open the protocols `repo` in VS Code. 
 * Edit a Markdown or other file (.md are markdown files)
 * Save the Changes locally
-* Push the commit with `Source Control` Button (left). Add an informative description of the changes to the "Message", such as "*Fixed typos*", "*Improved clarity*", "*wrote protocol XXX*",
+* To commit to your git account, Open `Source Control` Menu (left). Add an informative description of the changes to the "Message", such as "*Fixed typos*", "*Improved clarity*", "*wrote protocol XXX*". Then `commit` by clicking the checkmark. Verify your changes have registered on the [`master`](https://.github.com/lowepowerlab/protocols)
