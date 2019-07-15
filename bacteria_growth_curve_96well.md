@@ -30,7 +30,7 @@ Because microplates have a smaller pathlength where the light passes through the
 **Use multichannel P20 and P200 where possible**
 
 1. Streak out relevant strains on CPG agar and incubate at 28C for 2 d.
-1. Starting from single colonies, start 3 biological replicate cultures in 1 ml CPG broth in XXX mm test tube each. 
+1. Starting from single colonies, start 3 biological replicate cultures in 1 ml CPG broth in individual XXX mm test tubes. 
 Incubate overnight at 28C with 180 rpm shaking.
    * Doing a low culture volume ensures most *Ralstonia* will reach stationary phase by the next morning. 
    Empirically, starting the growth curves from stationary phase cultures provides high consistency between biological replicates. 
