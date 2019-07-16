@@ -100,6 +100,9 @@ You can request read (part-time labbies) and edit (full-time labbies) access to 
 ### Graphpad Prism
 * Graphpad Prism: Full time staff should ask Tiffany how to get a license. (Unfortunately, we don't currently have funding to purchase licenses for undergraduate researcher's computers).  We are currently using this software for graphing & basic statistics, but my hope is that we will develop competencies for open-source graphing and statistics (e.g. Python/Pandas/Seaborn or R)
 
+### Visual Studio Code (VS Code)
+* Probably useful for a lot of new territory that the lab is going into. But definitely good for updating the lab Github pages. [See here](https://github.com/lowepowerlab/protocols/blob/master/git_and_github.md#set-up-a-text-editor-on-your-computer)
+
 # Living in Davis
 
 ## Places to find short-term rentals (< 1 yr>)
