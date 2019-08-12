@@ -28,6 +28,12 @@ http://plantpathology.ucdavis.edu/safety.cfm
 
 * **Safety questions**.  It is important to identify safety risks and work with Tiffany, labmates, and EH&S to identify safe ways to proceed. Bring up all safety concerns on the lab's Slack (there is a #safety channel) to open a discussion. Public discussion will help your labmates also adopt safety best-practices.
 
+* **Lab-safe clothing**--make sure you have appropriate attire:
+    * **Shoes**: closed-toe, closed heel. Non-absorbant material is *strongly* recommended. 
+        * Need inspiration for smart-looking shoes that are also lab safe? Check out online communities: [1](https://www.reddit.com/r/femalefashionadvice/search?q=lab+shoes&restrict_sr=on&sort=relevance&t=all) and [2](https://www.reddit.com/r/malefashionadvice/search?q=lab+shoes&restrict_sr=on&sort=relevance&t=all). 
+    * **Pants / other bottoms**: Between tall socks, leggings, or pants, you'll need to ensure you don't have skin exposed. 
+    * Avoid clothing that is too drapey & could fall into a bunsen burner / beaker of bacteria / etc. (Especially trendy sleeves on shirts)
+
 ### Where to find administrative help (HR, Purchasing, Travel, IT, etc)
 
 The Plant Pathology dept shares admin staff with the Entomology & Nematology depts. They are named the Phoenix Cluster. Familiarize yourself with [the Phoenix Website](https://phoenix.ucdavis.edu/)--especially the links to the side of the page. Also, you might have reasons to direct questions to a specific department (e.g. HR, Purchasing, Travel, IT, etc.), so you can find their (mailing lists here)[https://phoenix.ucdavis.edu/departmental-mailing-lists]. The staff's offices are located on the 3rd floor of Hutchison and in Briggs Hall, and they are friendly people who can help you with walk-in questions. 
@@ -39,7 +45,7 @@ Tiffany and current lab members can also point you in the direction of an admin 
 * **Lab Notebooks** are property of the lab and will digital and be backed up regularly (Bonus--you can keep a copy to use as a reference when you leave the lab!). I recommend using Microsoft OneNote and following the practices recommended here. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006918 I suggest labbies use the YYYY/MM/DD datestamp format because it's easiest to sort numerically. 
     * If you make scratch paper notes, take photos & attach it to your notebook.  Same with scratch calculations in excel -- screenshots. If you are transitioning from a paper labnotebook, you can also use photos --> OneNote as an interim solution. 
     * Notebook should be completed by the end of the week. 
-    * Notebook should be backed up monthly to the cloud.
+    * Notebook should be backed up monthly to the cloud (automatically preferred).
     * Although your data is the property of the lab, a digital lab notebook is in your best interest.  You'll always be able to look back at the methods you optimized & potentially write your papers on a beach / coffee shop / ski lodge in Tahoe. 
 
 
@@ -51,7 +57,7 @@ Tiffany and current lab members can also point you in the direction of an admin 
 * **Strain lists:**. Work-In Progress strains/plasmids should be kept in personal freezer boxes, which is a short-to-medium term storage. Once validated I expect strains & plasmids to be added to the core strain inventory (detailed in the ["Glycerol stocks" lab protocol](https://github.com/lowepowerlab/protocols/blob/master/glycerol_stocks.md)). All validated plasmids should be added to a core folder on the lab's Benchling account. 
     * I encourage everyone to do monthly audits of their strains and make sure any confirmed strains are moved to the permanent collection & incorrect strains are put in biohazard waste. 
 
-## Software recommendations (all)
+## Software / Website recommendations (all)
 
 ### Slack 
 * Slack will be our lab's preferred communication tool (to keep it separate from noisy email boxes). I encourage labbies to install the Slack desktop app and smartphone apps and create an account to access LowePowerLab.slack.com
@@ -81,12 +87,15 @@ Drawbacks of Box:
 * **Sync Speed** -- it can be slow to sync files (minutes). 
 * **Multiple People Issues** -- If 2 people have a document open, edit it, & save their changes, box creates 2 files that a human then has to manually merge the changes. This is most likely a problem when co-writing a paper with your PI. If it's a word Doc the "Compare" feature in "Review" can cut down on how annoying this problem is. 
 
+### Google Drive
+UC Davis pays for google services accounts.  We have a "Team Drive" called the "Lowe-Power Lab Drive".  Make sure you are added to this.  This is where we keep documents that all users will want to view (and most will want to edit).
+
 ### Managing the Literature 
 
 #### Reference Management Software
 They are all flawed, but nonetheless superior to manually curating citations in your papers, grants, theses, etc. This software both serves as a paper database (local, but you )
 
-Options include Mendeley, Zotero, Endnote, and more. I encourage use of the free ones, but you can use personal money (a fellowship or your own pocket) if you think EndNote is worth the cost. 
+Options include Mendeley, Zotero, Endnote, and more. I encourage use of the free ones (so ... not EndNote). 
 
 (If the lab comes up with a great solution, please update this section)
 
@@ -102,6 +111,32 @@ You can request read (part-time labbies) and edit (full-time labbies) access to 
 
 ### Visual Studio Code (VS Code)
 * Probably useful for a lot of new territory that the lab is going into. But definitely good for updating the lab Github pages. [See here](https://github.com/lowepowerlab/protocols/blob/master/git_and_github.md#set-up-a-text-editor-on-your-computer)
+
+## Non-essential software
+
+* [ACD Chemsketch](https://www.acdlabs.com/resources/freeware/chemsketch/) - Chemistry drawing program. (There's also a UCD license to ChemDraw, but it's a very bloated program & you probably don't need all the features.)
+
+* [BioRender](https://biorender.com/) -- Quick biology diagrams. Unfortunately, they only export as JPGs on the free version. You should avoid JPGs for graphs / text / cartoons because of the compression.  PNG and TIFs have better compression for line-art. 
+
+* Mac-Users: [Spectacle]: Split your screen / resume fullscreen with keystroke commands. (This function is built into Windows OS)
+
+# Purchasing lab materials
+
+Account information is in the Lab Google Drive "Accounts/Passwords - lowepower lab". Please don't share this information outside of the lab. x`
+
+## Local shop 
+XXX-update with location information
+
+great for gloves, etc.
+
+## SWAP -- 
+
+
+## Try to use AggieBuy & punch-outs
+
+## Shipping Address
+355 Hutchison Hall
+Davis, CA 95616
 
 # Living in Davis
 
