@@ -78,14 +78,17 @@ Tiffany and current lab members can also point you in the direction of an admin 
 ### Box -- Cloud Back-Up
 **You *must* back up your data**. UC Davis pays for unlimited storage through Box (a Dropbox competitor). Once you have a UC Davis "Kerberos" account, you can use your UCD credentials to log into [Box at ucdavis.box.com](ucdavis.box.com). Your data is the property of the lab, and it must be backed up.  Please Set up a lab-notebook folder and set Box to watch & sync that folder. Make sure this folder is shared with the lab Box organization (XXXFigure this out & describe it better)
 
-Good things about Box:
+#### Good things about Box:
 * **Version-Control** -- (Tiffany) accidentally deleted 40 pages of my PhD thesis without noticed & then saved changes.  Because I was working from a Box-synced folder, I was able to go back to the web interface of Box and download previous iterations of my thesis to find that text. 
 * **Shared-Access** -- Please make all of your data accessible to the lab, but especially Tiffany. 
 
-Drawbacks of Box:
+#### Drawbacks of Box:
 * It only syncs one folder. For this reason, save all of your lab material in that folder
 * **Sync Speed** -- it can be slow to sync files (minutes). 
-* **Multiple People Issues** -- If 2 people have a document open, edit it, & save their changes, box creates 2 files that a human then has to manually merge the changes. This is most likely a problem when co-writing a paper with your PI. If it's a word Doc the "Compare" feature in "Review" can cut down on how annoying this problem is. 
+* **Multiple People Issues** 
+    * If 2 people have a document open, edit it, & save their changes, box creates 2 files that a human then has to manually merge the changes. This is most likely a problem when co-writing a paper with your PI. If it's a word Doc the "Compare" feature in "Review" can cut down on how annoying this problem is. 
+    * Be conscious when deleting synced files / folders(or renaming folders / moving them to a new path) on your personal computer. After you delete / move a folder, Box Sync will eventually pop up an error window (usually a few minutes later when you've in the middle of a different task). Be thoughtful about which option you choose. (Make sure you don't permanently lose data!)
+    ![Decision tree for responding to box error](images/Box_Sync_Delete_Error.png)
 
 ### Google Drive
 UC Davis pays for google services accounts.  We have a "Team Drive" called the "Lowe-Power Lab Drive".  Make sure you are added to this.  This is where we keep documents that all users will want to view (and most will want to edit).
@@ -118,7 +121,7 @@ You can request read (part-time labbies) and edit (full-time labbies) access to 
 
 * [BioRender](https://biorender.com/) -- Quick biology diagrams. Unfortunately, they only export as JPGs on the free version. You should avoid JPGs for graphs / text / cartoons because of the compression.  PNG and TIFs have better compression for line-art. 
 
-* Mac-Users: [Spectacle]: Split your screen / resume fullscreen with keystroke commands. (This function is built into Windows OS)
+* Mac-Users: [Spectacle]: Split your screen / resume full-screen with keystroke commands. (This function is built into Windows OS)
 
 # Purchasing lab materials
 
