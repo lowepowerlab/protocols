@@ -9,12 +9,15 @@ Lab protocols for the Lowe-Power lab
 
 ### Molecular Biology
 
+* [draft] [DNA Electrophoresis](dna_electrophoresis.md)
+* [x] [PCRs to detect & classify *Ralstonia*](pcr_classify_ralstonia.md)
+* [x] [Primer Design with PrimerBlast](primerblast.md)
 * [x] [Gene deletion in *Ralstonia solanacearum*](gene_deletion.md)
 * [x] [Gibson assembly](gibson_assembly.md)
 * [x] [Colony PCR](colony_pcr.md)
-* [x] [Primer Design with PrimerBlast](primerblast.md)
 * [draft] [Sanger Sequencing](sanger.md)
-* [x] [PCRs to detect & classify *Ralstonia*](pcr_classify_ralstonia.md)
+
+
 
 ### Microbiology
 

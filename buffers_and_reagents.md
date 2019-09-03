@@ -22,23 +22,22 @@ Good Resource: **[Sigma Buffer Reference Center](https://www.sigmaaldrich.com/li
 
 # Common Buffers
 
-## 50x TAE
-**Purpose:** Stock solution for DNA electrophoresis (dilute to 1x before use).
+## LAB Buffer - Lithium Acetate Borate Buffer
+**Purpose**: Faster & Cheaper DNA electrophoresis. Compared to TAE/TBE, it can be run at much faster speed (100V/cm gel) because it produces less heat. 
+**Reference** [Faster, even cooler DNA gels](https://bitesizebio.com/25078/faster-even-cooler-dna-gels/)
 
-| Amount     | Reagent              |
-|-----------:|:---------------------|
-|     242 g  | Tris Base            |
-|     57.1 g | Acetic acid, glacial |
-|     100 ml | EDTA (0.5 M pH 8.0)  |
-| to 1000 ml | dI H<sub>2</sub>O    |
+**25x LAB Buffer**
+| Amount    | Reagent           |
+|----------:|:------------------|
+|    16.5 g | lithium acetate dihydrate (MW 102.02)      |
+|   15.46 g | boric acid (MW 61.83)      |
+| to 1 L | dI H<sub>2</sub>O |
 
-Glacial acetic acid is irritating, so open & dispense in fume hood. 
+Concentrations at 1x:
+* 10 mM Lithium Acetate 
+* 10 mM Boric Acid
 
-Store at room temperature. 
-Dilute 1:50 before use in gel electrophoresis (as running buffer or solvent for agarose gel)
-
-**Worth considering**: There are some other fancy running buffers that are supposed to speed up gel run-time without compromising quality. 
-Feel free to test those & make them the lab SOP. 
+Verify the pH is between 6.5 - 7.0
 
 ## EDTA 0.5 M, pH 8.0
 `ethylenediaminetetraacetic acid`
@@ -153,3 +152,5 @@ Autoclave, then store at room temp.
 
 Vortex before adding to media.  
 
+## Old buffer recipes
+Retired buffers can be found at [retired buffers](retired_buffers.md) for posterity. 
