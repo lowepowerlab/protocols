@@ -34,6 +34,22 @@ http://plantpathology.ucdavis.edu/safety.cfm
     * **Pants / other bottoms**: Between tall socks, leggings, or pants, you'll need to ensure you don't have skin exposed. 
     * Avoid clothing that is too drapey & could fall into a bunsen burner / beaker of bacteria / etc. (Especially trendy sleeves on shirts)
 
+## Expectations
+
+### Meetings with your Mentor
+
+* **Research meetings**: Full-time labbies (postdocs, graduate students, junior specialists, etc) should schedule weekly 1-on-1 research meetings (1 hr) with Tiffany. 
+    * Tiffany prefers afternoon meetings (trying to reserve mornings for concentrated work: grant writing, manuscript revisions, etc). 
+    * Once your project takes off, we will convert to every-other-week research meetings.
+* To get the most out of meetings with your mentor, prioritize the facetime and manage your mentor.  
+[**Essential Reading**: What to bring to a meeting with your advisor](http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/)
+    * This especially applies to 1-on-1 research meetings with Tiffany.  
+    * Undergrads: at early stages, your graduate student / postdoc mentor will work directly with you.  But you should work independently to deepen your understanding of your project & protocol details. Our goal is for you to reach autonomy/indepedence and manage your mentor as described above. 
+* **Career Planning meetings**: In January and July, we will hold career planning meetings. 
+      
+
+## 
+
 ### Where to find administrative help (HR, Purchasing, Travel, IT, etc)
 
 The Plant Pathology dept shares admin staff with the Entomology & Nematology depts. They are named the Phoenix Cluster. Familiarize yourself with [the Phoenix Website](https://phoenix.ucdavis.edu/)--especially the links to the side of the page. Also, you might have reasons to direct questions to a specific department (e.g. HR, Purchasing, Travel, IT, etc.), so you can find their (mailing lists here)[https://phoenix.ucdavis.edu/departmental-mailing-lists]. The staff's offices are located on the 3rd floor of Hutchison and in Briggs Hall, and they are friendly people who can help you with walk-in questions. 
