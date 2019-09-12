@@ -22,3 +22,12 @@ XXX-update with location information.  It's somewhere near the vetschool.
 * Reach out to sales representatives and ask for a competitive quote -- get quotes from several manufacturer's / vendors to bargain for the best price.
 * If they won't lower the list price to < 40% of list price, then negotiate for complimentary consumables. 
 * Limit the # of face-to-face meetings or phone calls during the negotiation.  Your time is valuable, so aim for email or phone. 
+
+## Consumables
+We have a **competitive quote with XXX** for plastics and some common chemicals (CPG ingredients, antibiotics).  
+Contact the Rep, XXXX, if we identify a new consumable item that we will regularly purchase to get a strong discount. 
+
+
+## New Lab deals we need to negotiate:
+* NEB -- First order will be 40% off list price.  We'll need RE, Assembly Mix, maybe ladders
+* Zymo -- First order will be 50% off. If we also do $850, we get a free $200 starter kit.  We'll consider if this is worth it. 
