@@ -24,8 +24,14 @@ XXX-update with location information.  It's somewhere near the vetschool.
 * Limit the # of face-to-face meetings or phone calls during the negotiation.  Your time is valuable, so aim for email or phone. 
 
 ## Consumables
-We have a **competitive quote with XXX** for plastics and some common chemicals (CPG ingredients, antibiotics).  
-Contact the Rep, XXXX, if we identify a new consumable item that we will regularly purchase to get a strong discount. 
+We have a **competitive quote with Genesee** for plastics and some common chemicals (CPG ingredients, antibiotics). 
+Genesee .  When checking out from Genesee, always place the following info:  25-0055499 and PG-APEX and PG-GURL19 and PG-NEWLAB in the `Note to all Suppliers` in `General` tab after you click `Check out`.
+PG-20ORDER
+"90-131G for $50"
+“However Jason & I agreed to price tips."
+"extra mini-mag" 
+
+Contact the Rep, Jason Isaac, if we identify a new consumable item that we will regularly purchase to get a strong discount. 
 
 
 ## New Lab deals we need to negotiate:
