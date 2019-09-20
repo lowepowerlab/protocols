@@ -49,7 +49,7 @@ Expected results:
 ![gel image of phylotype pcr results](images/phylotype_pcr_result.png)
 
 ## 3. Detection of Race 3 Biovar 2 strains
-**If reaction is positive, notify Tiffany Lowe-Power immediately.**
+**If reaction is positive, notify Tiffany Lowe-Power immediately.** We are not permitted to receive, use, or store R3B2 organisms. If there is a positive reaction with the R3B2-specific primers, secure any materials with the R3B2 positive organism in a locked cabinet or freezer until they have been deactivated by autoclave. Tiffany will notify Aphis about the receipt of R3B2 organisms. 
 
 **Citation**: Opina et al. 1997. A Novel Method For Development Of Species And Strain-Specific DNA Probes And PCR Primers For Identifying Burkholderia solanacearum (Formerly Pseudomonas solanacearum). Asia Pacific Journal of Molecular Biology and Biotechnology Volume 5, No. I, April, 1997 pp. l9-30.)
 
