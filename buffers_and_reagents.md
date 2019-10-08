@@ -27,6 +27,7 @@ Good Resource: **[Sigma Buffer Reference Center](https://www.sigmaaldrich.com/li
 **Reference** [Faster, even cooler DNA gels](https://bitesizebio.com/25078/faster-even-cooler-dna-gels/)
 
 **25x LAB Buffer**
+
 | Amount    | Reagent           |
 |----------:|:------------------|
 |    16.5 g | lithium acetate dihydrate (MW 102.02)      |
