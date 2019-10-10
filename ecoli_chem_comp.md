@@ -17,7 +17,7 @@ Cells should be "good" for > 1 yr if stored at -80C.
 ## Important notes:
 * Growth temperature: Generally the cooler the growth temperature, the slower the E. coli grow, which dramatically improves competence.
   * Lowe-Power lab has a room-temperature shaker incubator that should be used for competent E. coli. 
-  * In the Cook lab, ambient temperature around 22 degrees C, Stratton saw 20 mL of zymobroth inoculated with 0.5 mL overnight culture grew to an OD600 of 0.792 in 21.5 hours.
+  * In the Cook lab, ambient temperature around 22 degrees C, Stratton saw 20 mL of zymobroth inoculated with 0.5 mL overnight culture grow to an OD600 of 0.792 in 21.5 hours.
 * Growth medium ... to be determined in our own hands. 
 We have ZymoBroth. 
 First person in the lab gets to compare that to LB & update this protocol with a note about (1) relative efficiency of the resulting cells (2) how long it took cells to reach the proper OD for harvesting. Thanks!
