@@ -2,10 +2,16 @@
 
 Lab protocols for the Lowe-Power lab
 
-### General
+### Lab Management & Maintenence
+**Important information** for all full-timers!
+* [Chemical Management](chemical_management.md)
+* [Purchasing](purchasing.md)
 
-* [x] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
-* [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
+**Undergrad Relevant Information**
+* [Preparing sterile supplies](preparing_sterile_supplies.md)
+* [Shelf stocking](shelf_stocking.md)
+* [Autoclave](autoclave.md)
+
 
 ### Molecular Biology
 
@@ -16,8 +22,6 @@ Lab protocols for the Lowe-Power lab
 * [x] [Gibson assembly](gibson_assembly.md)
 * [x] [Colony PCR](colony_pcr.md)
 * [draft] [Sanger Sequencing](sanger.md)
-
-
 
 ### Microbiology
 
@@ -48,12 +52,6 @@ Lab protocols for the Lowe-Power lab
 * [w.i.p.] [Growing Tomato for seed](tomato_seed_bulking.md)
 * [] [Tobacco Mosaic Virus & other things to worry about](tomato_problems_misc.md)
 
-### Lab Maintenence
-
-* [x] [Preparing sterile supplies](preparing_sterile_supplies.md)
-* [x] [Shelf stocking](shelf_stocking.md)
-* [x] [Autoclave](autoclave.md)
-
 ### Workbooks and Excel templates
 
 * [x] [(Gibson) assembly](workbooks/assembly_workbook.xlsx)
@@ -61,6 +59,12 @@ Lab protocols for the Lowe-Power lab
 * [x] [chemistry calculations](workbooks/chemistry_calc_workbook.xlsx)
 * [x] [PCR](workbooks/pcr_workbook.xlsx)
 * [x] [96- and 24-well microplate templates](template_plate_layouts.xlsx)
+
+### GitHub
+
+* [x] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
+* [draft] [Git and Github](git_and_github.md) e.g. How to Update lab protocols with forking, committing, and pushing 
+
 
 ## References & Acknowledgement (and great resources)
 This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. Additional labs with great protocol repositories are [Barrick lab](http://barricklab.org/twiki/bin/view/Lab/ProtocolList), ...

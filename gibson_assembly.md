@@ -2,10 +2,12 @@
 
 **Writing/editing credits:** Tiffany Lowe-Power
 
+This protocol walks through all steps of designing a vector with Gibson Assembly. 
+
 ## Resources
 * [Workbook for PCR reaction calculations](workbooks/pcr_workbook.xlsx)
 * [Workbook for Gibson Assembly rxn calculations](workbooks/assembly_workbook.xlsx)
-* [Manufacturer's instructions: NEB HiFi Assembly](https://www.neb.com/products/e2621-nebuilder-hifi-dna-assembly-master-mix)
+* [Manufacturer's instructions: NEB HiFi Assembly](https://www.neb.com/products/e2621-nebuilder-hifi-dna-assembly-master-mix). See tips below on conserving buffer. 
 * [Background Reading on Gibson Assembly](http://en.wikipedia.org/wiki/Gibson_assembly)
 * [Another protocol for Gibson](http://openwetware.org/wiki/Janet_B._Matsen:Guide_to_Gibson_Assembly)
 * [Benchling](benchling.com) for plasmid maps. Create an account and email Tiffany with your account name to be added to the lab Benchling organization.
@@ -152,17 +154,21 @@ Kapa HiFi with the GC buffer is very effective at amplifying the high GC (>65% a
   * Run next to 1 Kb+ or appropriate DNA ladder.
   * Image on XXX
 
-* If PCR was specific (a single bright band), use the Zymo DNA clean & concentrator kit to clean up the PCR product.
+* If PCR was specific (a single bright band), you can use it directly in the Gibson assembly mix.  If you are having difficulties, you can:
+  * clean up the PCR product with Zymo DNA clean & concentrator kit (if you had a single band).
   * If the PCR has nonspecific bands, decide whether to run the remaining reaction on a gel & gel extract it (Zymo Gel extraction kit) or optimize the PCR rxn.
 
 ### Gibson assembly
-* Quantify DNA on nanodrop
+Upon receipt of a new mix, aliquot it into 1.5 ml tubes labeled "2x Assembly mix". 
+
+* Quantify plasmid DNA on nanodrop. 
+  * If using PCR products straight from a reaction mixture, you can't quantify them because of dTNPs. 
 * Use ['assembly_workbook.xlsx'](workbooks/assembly_workbook.xlsx) to calculate reactions.
   * If using newly prepped plasmid backbone, include a "no insert" negative control in the Gibson reaction + *E. coli* transformation.
   * Although manufacturer recommends 20 ul reaction, 10 ul reactions work great & save money.
 * Thaw a 50 ul aliquot of the NEB HiFi Assembly mix (#E2621L) on ice.
-* Prepare reaction and incubate in thermocycler at 50C for 15-60 min.
-  * If assembling many constructs into a plasmid, it can be helpful to mix everything except the vector backbone (mix+water+inserts), and incubate at 50 for 10 minutes before adding in the backbone.
+* Prepare reaction on ice and incubate in thermocycler at 50C for 15-60 min.
+  * If assembling many constructs into a plasmid, it can be helpful to mix everything except the vector backbone (2x enzyme mix + water + inserts), and incubate at 50 for 10 minutes before adding in the vector backbone. Then incubate for the remaining 60 min. 
 
 ## Transform *E. coli*
 Follow the transformation protocol in the [Mix&Go E. coli kit](ecoli_chem_comp.md).
@@ -171,6 +177,6 @@ This is not necessary for the Zymo Mix&Go preps of NEB5alpha *E. coli*.
 * If vector allows Blue-White screening, don't forget to add XGal+IPTG to your LB.
 
 ## Verify the vector
-Use [Sanger sequencing](sanger.md) to verify the plasmid. Save correct clones as glycerol stocks in -80.
+Use [Sanger sequencing](sanger.md) to verify the plasmid. Save correct clones as glycerol stocks in -80. (In the E. coli box series)
 
 [upstream params link]: https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=bookmark&PRIMER_RIGHT_INPUT=ggtgcgaatttgccggagac&OVERLAP_5END=7&OVERLAP_3END=4&PRIMER_PRODUCT_MIN=800&PRIMER_PRODUCT_MAX=1200&PRIMER_NUM_RETURN=20&PRIMER_MIN_TM=57.0&PRIMER_OPT_TM=61.0&PRIMER_MAX_TM=66.0&PRIMER_MAX_DIFF_TM=3&PRIMER_ON_SPLICE_SITE=0&SEARCHMODE=0&SPLICE_SITE_OVERLAP_5END=7&SPLICE_SITE_OVERLAP_3END=4&SPAN_INTRON=off&MIN_INTRON_SIZE=1000&MAX_INTRON_SIZE=1000000&SEARCH_SPECIFIC_PRIMER=on&EXCLUDE_ENV=off&EXCLUDE_XM=off&TH_OLOGO_ALIGNMENT=off&TH_TEMPLATE_ALIGNMENT=off&ORGANISM=Ralstonia%20solanacearum%20GMI1000%20%28taxid%3A267608%29&PRIMER_SPECIFICITY_DATABASE=refseq_representative_genomes&TOTAL_PRIMER_SPECIFICITY_MISMATCH=1&PRIMER_3END_SPECIFICITY_MISMATCH=1&MISMATCH_REGION_LENGTH=5&TOTAL_MISMATCH_IGNORE=6&MAX_TARGET_SIZE=4000&ALLOW_TRANSCRIPT_VARIANTS=off&HITSIZE=50000&EVALUE=30000&WORD_SIZE=7&MAX_CANDIDATE_PRIMER=500&PRIMER_MIN_SIZE=15&PRIMER_OPT_SIZE=20&PRIMER_MAX_SIZE=25&PRIMER_MIN_GC=20.0&PRIMER_MAX_GC=80.0&GC_CLAMP=0&NUM_TARGETS_WITH_PRIMERS=1000&NUM_TARGETS=20&MAX_TARGET_PER_TEMPLATE=100&POLYX=5&SELF_ANY=8.00&SELF_END=3.00&PRIMER_MAX_END_STABILITY=9&PRIMER_MAX_END_GC=5&PRIMER_MAX_TEMPLATE_MISPRIMING_TH=40.00&PRIMER_PAIR_MAX_TEMPLATE_MISPRIMING_TH=70.00&PRIMER_MAX_SELF_ANY_TH=45.0&PRIMER_MAX_SELF_END_TH=35.0&PRIMER_PAIR_MAX_COMPL_ANY_TH=45.0&PRIMER_PAIR_MAX_COMPL_END_TH=35.0&PRIMER_MAX_HAIRPIN_TH=24.0&PRIMER_MAX_TEMPLATE_MISPRIMING=12.00&PRIMER_PAIR_MAX_TEMPLATE_MISPRIMING=24.00&PRIMER_PAIR_MAX_COMPL_ANY=8.00&PRIMER_PAIR_MAX_COMPL_END=3.00&PRIMER_MISPRIMING_LIBRARY=AUTO&NO_SNP=off&LOW_COMPLEXITY_FILTER=on&MONO_CATIONS=50.0&DIVA_CATIONS=1.5&CON_ANEAL_OLIGO=50.0&CON_DNTPS=0.6&SALT_FORMULAR=1&TM_METHOD=1&PRIMER_INTERNAL_OLIGO_MIN_SIZE=18&PRIMER_INTERNAL_OLIGO_OPT_SIZE=20&PRIMER_INTERNAL_OLIGO_MAX_SIZE=27&PRIMER_INTERNAL_OLIGO_MIN_TM=57.0&PRIMER_INTERNAL_OLIGO_OPT_TM=60.0&PRIMER_INTERNAL_OLIGO_MAX_TM=63.0&PRIMER_INTERNAL_OLIGO_MAX_GC=80.0&PRIMER_INTERNAL_OLIGO_OPT_GC_PERCENT=50&PRIMER_INTERNAL_OLIGO_MIN_GC=20.0&PICK_HYB_PROBE=off&NEWWIN=on&NEWWIN=on&SHOW_SVIEWER=true
