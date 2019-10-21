@@ -154,7 +154,7 @@ Kapa HiFi with the GC buffer is very effective at amplifying the high GC (>65% a
   * Run next to 1 Kb+ or appropriate DNA ladder.
   * Image on XXX
 
-* If PCR was specific (a single bright band), you can use it directly in the Gibson assembly mix.  If you are having difficulties, you can:
+* If PCR was specific (a single bright band), you can use it directly in the Gibson assembly mix (*keep PCR products to <20% of reaction volume unless you clean it up).  If you are having difficulties, you can:
   * clean up the PCR product with Zymo DNA clean & concentrator kit (if you had a single band).
   * If the PCR has nonspecific bands, decide whether to run the remaining reaction on a gel & gel extract it (Zymo Gel extraction kit) or optimize the PCR rxn.
 
