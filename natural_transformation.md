@@ -12,31 +12,37 @@ Methods for optimizing natural transformation for a new strain can be found in:
 
 ### Protocol
 
+#### Required media
+
+1. Liquid MM: quarter-strength M63 MM with 2% v/v glycerol as a carbon source
+2. Solid MM: quarter-strength M63 MM with 2% v/v glycerol as a carbon source. *Importantly, when preparing MM agar, the agar and MM components should be autoclaved separately and mixed before plates are poured. Otherwise the mineral components in MM can react with the agar to yield toxic products*
+
+
 #### Inducing competent state
 
 1. Grow *Ralstonia* strain on CPG (+antibiotics) for 2 d at 28 C. 
 1. Inoculate a single, isolated colony into 10 ml of quarter-strength M63 MM with 2% v/v glycerol as a carbon source. 
 Grow at 28 C for 2 day with 180 rpm shaking
-    * *XXX to optimize ... does volume of this overnight matter?  Lower volume = more oxygen.  10 ml is a pretty anoxic environment.*
+    * Glycerol is a very poor carbon source for *Ralstonia*. The nutrient-limiting conditions promotes natural competence. 
+    * For max competence, culture should be at OD 0.5 to OD 1.0. OD 0.8 is ideal. 
 
 #### Natural Transformation
 
 1. In 1.5 ml tube, mix 50 ul of competent cells with DNA:
+
     | DNA type  |  DNA volume (approx)   | DNA amount (ng) |
     |:----------|:--------------|:----------------|
     |Plasmid    | 5 ul          | 300-500         |
     |Genomic    | 10 ul         | 2,000-4,000     |
-1. Mix gently and spot the entire volume into the center of a CPG-glucose-TZC plate.
-    * Plate should only contain agar, casamino acids, peptone, and yeast extract
-    * Alternatively: plate bacteria on a minimal media plate with 2% glycerol, which may increase transformation efficiency. 
+1. Mix gently and spot the entire volume into the center of a solid MM plate.
     * Alternatively, first overlay a sterile 0.45 um pore nitrocellulose filter onto the plate, and spot bacteria+DNA mixture onto the filter. 
     This will make it easier to harvest bacteria from the plate, but heresay suggests this will reduce transformation efficiency.
     *XXX test this and report results at end of lab protocol.*  
-1. Incubate at 28C for 2d.
+1. Incubate at 28C for 3 h-2d.
 
 #### Select Transformants
 
-1. Add 1 ml di H2O broth to 1.5 ml tube. 
+1. Add 1 ml CPG broth to 1.5 ml tube. 
 Transfer the entire spot of bacteria into the tube.
    * Either using sterile forceps to transfer the filter, a sterile inoculating loop, or a sterile swab. 
 1. Thoroughly mix suspension by low speed vortexing. 
