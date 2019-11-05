@@ -23,7 +23,7 @@ CAUTION: Beware of small, round, dark red, non-mucoid colonies surrounded by red
 
 * Do not store *Ralstonia* at 4C or above 35C. 
     * If you want to halt growth on dilution plates, you can store them at 4C short term. 
-* Keep plates of *Ralstonia* for no longer than 1 week before restreaking the strain from a glycerol stock. 
-    * Do not repeatedly transfer bacteria from plate-to-plate. They will evolve. 
+* Keep plates of *Ralstonia* for no longer than 1 week before restreaking the strain from a glycerol or water stock. 
+    * Do not repeatedly transfer bacteria from plate-to-plate. They will evolve to be great at growing on plates. They will lose virulence. 
 * When using erlenmeyer flasks, keep broth volume less than 50% of the flasks "capacity" to ensure proper aeration and growth of the bacteria. 
 If you need more bacteria, use a larger flask or multiple flasks. 
