@@ -25,6 +25,7 @@ CAUTION: Beware of small, round, dark red, non-mucoid colonies surrounded by red
     * If you want to halt growth on dilution plates, you can store them at 4C short term. 
 * Keep plates of *Ralstonia* for no longer than 1 week before restreaking the strain from a glycerol or water stock. 
     * Do not repeatedly transfer bacteria from plate-to-plate. They will evolve to be great at growing on plates. They will lose virulence. 
-    * Generally 2 days at 28 C, then at RT for up to 1 week total on the plate
+    * Generally 2 days at 28 C, then at RT for up to 1 week total on the plate.
 * When using erlenmeyer flasks, keep broth volume less than 50% of the flasks "capacity" to ensure proper aeration and growth of the bacteria. 
-If you need more bacteria, use a larger flask or multiple flasks. 
+If you need more bacteria, use a larger flask or multiple flasks.
+* If you are making a new strain, it can take up to 3-4 days for colonies to appear on a selection plate.  Then, subsequent streaks of the bacteria will form visible colonies at the normal rate (2 days)
