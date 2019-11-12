@@ -1,15 +1,29 @@
 # Sanger Sequencing Guide
 This tells the SOP for Sanger Sequencing at UC Davis.
 
-Generally, sequence 2-4 clones of every vector you intend to use & save down. 
+Generally, sequence 2-4 clones of every vector you intend to use & save down the E. coli in glycerol stocks.
+
 Ideally sequence only after you have done colony PCR to confirm the vectors have an appropriately sized insert.
 
 ## Submitting sanger sequencing runs
-Things to figure out:
-1. How labs in Hutch do sanger sequencing -- Genome center?
-1. How the seq center prefers to receive tubes (strip tubes? 1.5 mls?). How much primer, how much Template
-1. How to access the sanger files
-1. SOP for naming the file... e.g. systematic plasmid & primer names?  Date stamp is usually applied by the seq center
+Sequence with the UCD college of Biological Sciences DNA Sequencing facility: http://dnaseq.ucdavis.edu. 
+
+### Prepare your sample:
+
+Follow guidelines on Website: http://dnaseq.ucdavis.edu/SampleSubmission.cfm. Brief things:
+
+1. Primers (4 ul / sequencing run; 3 uM concentration*) and template DNA (6 ul / seq run; [concentration depends on size](http://dnaseq.ucdavis.edu/DNAPrep-Concentration.html) ) must be in 0.5 ml tubes with clear labels.
+    * *Dilute the 10 uM working stocks of primers. e.g. 9 ul of 10 uM stock + 21 ul H2O = 30 ul. 
+
+### Drop-off your sample:
+
+* Submit an order: http://dnaseq.ucdavis.edu/orders/. You'll need an account, a 
+
+* Place in a ziplock bag & label with your name & the order number (generated when you submit)
+
+* Drop off reaction in **0280 Storer Hall** (basement in the building connected to Hutchison)
+
+
 
 ## What to do after you've downloaded the sanger files
 probably .ab1 traces

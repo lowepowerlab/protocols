@@ -15,16 +15,18 @@ Methods for optimizing natural transformation for a new strain can be found in:
 #### Required media
 
 1. Liquid MM: quarter-strength M63 MM with 2% v/v glycerol as a carbon source
-2. Solid MM: quarter-strength M63 MM with 2% v/v glycerol as a carbon source. *Importantly, when preparing MM agar, the agar and MM components should be autoclaved separately and mixed before plates are poured. Otherwise the mineral components in MM can react with the agar to yield toxic products*
+2. Transformation plates
+    * Option 1. CPG plates that **lack glucose** and **lack TZC**.
+    * Option 2. Solid MM: quarter-strength M63 MM with 2% v/v glycerol and 10 mM glucose as a carbon source. *Importantly, when preparing MM agar, the agar and MM components should be autoclaved separately and mixed before plates are poured. Otherwise the mineral components in MM can react with the agar to yield toxic products*
 
 
 #### Inducing competent state
 
 1. Grow *Ralstonia* strain on CPG (+antibiotics) for 2 d at 28 C. 
 1. Inoculate a single, isolated colony into 10 ml of quarter-strength M63 MM with 2% v/v glycerol as a carbon source. 
-Grow at 28 C for 2 day with 180 rpm shaking
+Grow at 28 C for 2 day with 180 rpm shaking.
     * Glycerol is a very poor carbon source for *Ralstonia*. The nutrient-limiting conditions promotes natural competence. 
-    * For max competence, culture should be at OD 0.5 to OD 1.0. OD 0.8 is ideal. 
+    * For max competence, culture should be at OD 0.5 to OD 1.0. OD 0.8 is ideal. *On 2019-11-04, OD was 0.338, 0.557, and 0.634 for 3 biological replicates.* 
 
 #### Natural Transformation
 
@@ -46,14 +48,19 @@ Grow at 28 C for 2 day with 180 rpm shaking
 Transfer the entire spot of bacteria into the tube.
    * Either using sterile forceps to transfer the filter, a sterile inoculating loop, or a sterile swab. 
 1. Thoroughly mix suspension by low speed vortexing. 
-1. Plate 100 ul cells onto CPG plates with appropriate selective [antibiotics](antibiotics.md). 
+1. Spread plate 100 ul cells onto CPG plates with appropriate selective [antibiotics](antibiotics.md). 
 1. Plate a 1:10 dilution:
 Mix 10 ul cells with 90 ul diH2O.
 1. Plate the remaining cells:
 Centrifuge remaining suspension at 13k-16k *xg* for 1 min. 
 Discard supernatant, resuspend pellet in ~100 ul diH2O, and plate.
-   * Hopefully this dilution range will result in a plate with isolated colonies. Some plates may be lawns if transformation was efficient.
+   * *Hopefully this dilution range will result in a plate with isolated colonies. Some plates may be lawns if transformation was highly efficient.*
 1. Incubate plates at 28 C for 2 days. 
 Restreak isolated colonies as described in the [gene_deletion protocol](gene_deletion.md) before confirming genotype with [colony pcr](colony_pcr.md).
+
+#### Expected results
+
+* Transformation efficiency will be 10^-6 to 10^-9 transformants / total cells. 
+* For your first transformation or troublesome transformations, you should dilution plate the transformed cells onto CPG without antibiotics to quantify total cells and transformation efficiency.
 
 
