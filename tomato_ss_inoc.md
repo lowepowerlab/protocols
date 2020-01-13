@@ -25,7 +25,7 @@ Avoid dry soil for 4-5 days post inoculation.
 1. **Day 3** - Pellet culture in 50 ml tubes (8k *xg* for 5 min in fixed angle rotor or 5k *xg* in swinging bucket) and resuspend pellet in dI H2O. If you have multiple pellets/strain, pool them.
 Measure and record the OD600 of a 1:10 or 1:100 dilution. 
 1. Plants will be inoculated with 50 ml of OD=0.1 bacterial suspension. 
-The ['bacterial_density_workbook.xlsx'](bacterial_density_workbook.xlsx) may help you adjust cell density to inoculum. 
+The ['bacterial_density_workbook.xlsx'](/workbooks/bacterial_density_workbook.xlsx) may help you adjust cell density to inoculum. 
     * *Note*: You may need to validate the OD to CFU/ml conversion when working with new wildtype backgrounds or EPS- mutants. 
     * Depending on research question, you might change the target inoculum density.
     * Sterile water is unnecessary. 
