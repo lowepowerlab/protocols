@@ -25,3 +25,6 @@ Generally, try to be organized. For example, if we were a lab that researches th
 * `T3e KOs` sub folder for plasmids that can make knockout mutants of T3es. 
 * etc. 
 
+What to do with old projects: Feel free to Archive any project that fizzles before it starts.  If any project has strains (E. coli or Ralstonia) that end up in the strain list, don’t archive them.  When they are complete or stalled indefinitely, add a “z-“ to the beginning of the name so it’s alphabetically at the bottom. 😊  For example, if we realize we could never make a dent in the T3SS Ralstonia world, we could rename that Project "z-T3SS"
+
+![Star benchling projects](images/benchling_tip1.png)
