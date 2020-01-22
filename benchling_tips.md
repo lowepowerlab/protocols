@@ -19,7 +19,7 @@ Core folders have the “1-“ prefix and are owned by the LowePower Lab admin a
 
 Generally, try to be organized. For example, if we were a lab that researches the T3SS, we might have a project with the following organization:
 
-* `T3SS` -- Project level
+* `T3SS 2019` -- Project level. Add the year the project started (helps us keep track...)
 * `T3SS genomic regions` sub folder that contains genomic regions exported from NCBI’s ‘graphic view’ of a DNA region as a Genbank flat file, uploaded to Benchling & tidied (named something like “GMI_ripAB_region_WT”
 * `T3e overexpression` sub folder for plasmids that can overexpress a T3e.
 * `T3e KOs` sub folder for plasmids that can make knockout mutants of T3es. 
