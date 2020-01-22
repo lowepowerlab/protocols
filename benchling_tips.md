@@ -13,6 +13,7 @@ Core folders have the “1-“ prefix and are owned by the LowePower Lab admin a
 * `1 – Common lab vectors`: This has common multi-purpose plasmids that the lab uses.  These should be organized into folders that provide information on their use cases, e.g. Ralstonia KOs, Ralstonia complementation, inducible expression, etc. 
 * `1-Oligos`:  All primers should be uploaded from your personal excel sheets to this folder. This will allow you to “append” any primer sequences to plasmids or genomic regions that you are working with. 
 * `1-Scratchpad`:  Sometimes we just want to play around with DNA sequences & we’re not sure it if it will lead to anything.  Create folders for these in the Scratchpad folder.  Then move into a full Project folder if the project lifts off. **It is possible to bulk move files in Benchling but not very intuitive**. This tutorial page will help: https://help.benchling.com/en/articles/1315560-move-or-copy-files
+* `1-Misc. Cloning Projects`: A location to store cloning projects that aren't large enough to require their own project folder... yet.
 
 ## Project Folders
 
