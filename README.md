@@ -47,7 +47,7 @@ Lab protocols for the Lowe-Power lab
 * [x] [Tomato: soil soak inoculation](tomato_ss_inoc.md)
 * [x] [Tomato: xylem sap harvesting by root pressure](tomato_xylem_sap_root_pressure.md)
 * [] [Melon: inoculations](melon_inoc.md)
-* [x] [Measuring wilt symptoms for a disease progress assay](tomato_wilt.md)
+* [x] [Measuring wilt symptoms for a disease progress assay](tomato_symptoms.md)
 * [x] [Colonization: tomato stem](col_tomato_stem.md)
 * [] [Colonization: tomato roots](col_tomato_root.md)
 * [w.i.p.] [Growing Tomato for seed](tomato_seed_bulking.md)
