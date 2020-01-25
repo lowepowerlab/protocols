@@ -68,4 +68,6 @@ Lab protocols for the Lowe-Power lab
 
 
 ## References & Acknowledgement (and great resources)
-This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. Additional labs with great protocol repositories are [Barrick lab](http://barricklab.org/twiki/bin/view/Lab/ProtocolList), ...
+This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. Additional labs with great protocol repositories are [Barrick lab](http://barricklab.org/twiki/bin/view/Lab/ProtocolList), ..
+
+I also *highly* recommend using the AddGene website as a resource on molecular biology.  http://www.addgene.org/mol-bio-reference/
