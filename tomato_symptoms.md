@@ -1,6 +1,8 @@
 # Wilt Disease Ratings
 ## Tomato plants
 This protocol is more of a series of guidelines than steps in a particular order.
+
+* Measure symptoms as long as is necessary.  Generally daily measurements for 1-14 days for susceptible tomato grown at 28C.  If you do a cool temperature assay or a more resistant plant, you might want to rate longer.  Basically... rate long enough to get the full disease progression (where it plateaus)
 * Measure symptoms on individual plants daily using the 0-4 Disease scale:
 	* 0: asymptomatic
   * 1: up to 25% leaflets wilted
