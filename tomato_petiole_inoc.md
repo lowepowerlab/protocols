@@ -10,6 +10,12 @@ Sow seed 3 weeks before inoculation date.
 
 Follow directions in [Growing Tomato Plants Protocol](tomato_growth.md)
 
+It's recommended to have several "extra plants" in case you mess up on a plant.  Common problems even for experienced labbies:
+1. Cutting into the plant stem. (you should only excise a single petiole)
+2. Inoculum doesn't form a droplet bubble on the stump and instead it immediately is pulled to the outside of the stem by capillary action. This problem is more likely to happen if your plant surface is wet. So don't water plants immediately before inoculations. Also don't water immediately after unless you are very careful to not wash off the petiole inoculation.
+
+If these mistakes happen, don't trust the data from those plants.  Either immediately put it in a bag to be autoclaved or break the stem in half so you know that it was a failed inoculation. 
+
 ### 2. Prepare bacterial inocula
 
 1. **Day 0** - Three days prior to plant inoculation, plate the relevant bacterial strains on CPG agar.
