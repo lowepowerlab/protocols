@@ -2,6 +2,8 @@
 
 **Writing/Editing credits:** Tiffany Lowe-Power, 
 
+![Image of petiole inoculation photo](images/plants/petiole_inoculation.png)
+
 ### 1. Prepare Plants
 
 Sow seed 3 weeks before inoculation date. 
