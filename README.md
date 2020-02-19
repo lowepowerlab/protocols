@@ -16,6 +16,7 @@ Lab protocols for the Lowe-Power lab
 ### Molecular Biology
 
 * [draft] [DNA Electrophoresis](dna_electrophoresis.md)
+* [x] [Plasmid and DNA sequence management in the lab Benchling folder](benchling_tips.md)
 * [x] [PCRs to detect & classify *Ralstonia*](pcr_classify_ralstonia.md)
 * [x] [Primer Design with PrimerBlast](primerblast.md)
 * [x] [Gene deletion in *Ralstonia solanacearum*](gene_deletion.md)
@@ -46,7 +47,7 @@ Lab protocols for the Lowe-Power lab
 * [x] [Tomato: soil soak inoculation](tomato_ss_inoc.md)
 * [x] [Tomato: xylem sap harvesting by root pressure](tomato_xylem_sap_root_pressure.md)
 * [] [Melon: inoculations](melon_inoc.md)
-* [] Wilt 
+* [x] [Measuring wilt symptoms for a disease progress assay](tomato_symptoms.md)
 * [x] [Colonization: tomato stem](col_tomato_stem.md)
 * [] [Colonization: tomato roots](col_tomato_root.md)
 * [w.i.p.] [Growing Tomato for seed](tomato_seed_bulking.md)
@@ -67,4 +68,6 @@ Lab protocols for the Lowe-Power lab
 
 
 ## References & Acknowledgement (and great resources)
-This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. Additional labs with great protocol repositories are [Barrick lab](http://barricklab.org/twiki/bin/view/Lab/ProtocolList), ...
+This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. Additional labs with great protocol repositories are [Barrick lab](http://barricklab.org/twiki/bin/view/Lab/ProtocolList), ..
+
+I also *highly* recommend using the AddGene website as a resource on molecular biology.  http://www.addgene.org/mol-bio-reference/

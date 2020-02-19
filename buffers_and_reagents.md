@@ -26,11 +26,11 @@ Good Resource: **[Sigma Buffer Reference Center](https://www.sigmaaldrich.com/li
 **Purpose**: Faster & Cheaper DNA electrophoresis. Compared to TAE/TBE, it can be run at much faster speed (100V/cm gel) because it produces less heat. 
 **Reference** [Faster, even cooler DNA gels](https://bitesizebio.com/25078/faster-even-cooler-dna-gels/)
 
-**25x LAB Buffer**
+**25x Li-Bor Buffer**
 
 | Amount    | Reagent           |
 |----------:|:------------------|
-|    16.5 g | lithium acetate dihydrate (MW 102.02)      |
+|    25.5 g | lithium acetate dihydrate (MW 102.02)      |
 |   15.46 g | boric acid (MW 61.83)      |
 | to 1 L | dI H<sub>2</sub>O |
 
