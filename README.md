@@ -7,7 +7,7 @@ Lab protocols for the Lowe-Power lab
 * [Chemical Management](chemical_management.md)
 * [Purchasing](purchasing.md)
 * [Misc. Lab Management](lab_management.md)
-* [What to do if the building loses elecctricity goes out](power_outage.md)
+* [What to do if the building loses electricity](power_outage.md)
 
 **Undergrad Relevant Information**
 * [Preparing sterile supplies](preparing_sterile_supplies.md)
