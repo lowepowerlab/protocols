@@ -23,6 +23,19 @@ Follow guidelines on Website: http://dnaseq.ucdavis.edu/SampleSubmission.cfm. Br
 
 * Drop off reaction in **0280 Storer Hall** (basement in the building connected to Hutchison)
 
+## Submitting sanger sequencing runs externally
+Sequence with Eurofins Genomics: https://eurofinsgenomics.com/en/home/
+
+### Prepare your sample:
+
+Follow guidelines on Website: https://eurofinsgenomics.com/en/products/dna-sequencing/seq-sample-submission-guidelines/
+
+### Drop off your sample:
+
+* Follow shipping preparation guidelines on Website: https://eurofinsgenomics.com/en/products/dna-sequencing/submitting-samples/
+
+* Bring package to Hutchison Mailroom (Rm 361) before 8:30 AM to ensure UPS picks up 
+  * Outgoing packages are placed inside the room on floor in the area immediately to the right of the door - big sign on wall says "Outgoing FedEx and UPS Shipments"
 
 
 ## What to do after you've downloaded the sanger files
