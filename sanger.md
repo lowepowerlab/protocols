@@ -35,7 +35,7 @@ Follow guidelines on Website: https://eurofinsgenomics.com/en/products/dna-seque
 * Follow shipping preparation guidelines on Website: https://eurofinsgenomics.com/en/products/dna-sequencing/submitting-samples/
 
 * Bring package to Hutchison Mailroom (Rm 361) before 8:30 AM to ensure UPS picks up 
-  * Outgoing packages are placed inside the room on floor in the area immediately to the right of the door - big sign on wall says "Outgoing FedEx and UPS Shipments"
+  * Outgoing packages are placed inside the room on floor in the area immediately to the right of the door - big sign on wall says "FedEx and UPS Pick Up"
 
 
 ## What to do after you've downloaded the sanger files
