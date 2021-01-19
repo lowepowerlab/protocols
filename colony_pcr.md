@@ -1,6 +1,7 @@
 # Colony PCR
 
 **Writing/editing credits:** Tiffany Lowe-Power
+Updated 20210118
 
 ## General Tips
 
@@ -10,44 +11,48 @@
 Bacterial cells and EPS can interfer with PCR. 
 If you add enough cells so that it's cloudy... that's >10<sup>6</sup> cells. 
 PCR doesn't need that much DNA template.
-* Colony PCR with Ralstonia straight from a plate works poorly, so see the modified protocol. 
+* Colony PCR works better from liquid cultures than from colonies from plates. 
 This protocol can likely be optimized further. 
 
 ## Colony PCR for *E. coli*
 
 This “protocol” is an outline that you should amend with manufacturer’s instructions and internet searches.
 
-### Step 1: Create a water suspension of colonies
+### Step 1: Patch E. coli and create liquid overnights 
 
-1. Add 50 ul sterile diH2O to PCR strip tubes with multichannel pipette.
-Label the ends. 
-Do 8-24 colonies per construct.
-Label LB + antibiotic plate with construct name and 1-*n*.
-1. With sterile toothpick, pick colonies and deposit toothpick into water. 
-*Note:* toothpicks are preferred over plastic tips due to electrostatic issues with plastic. 
-1. Once all colonies are picked, use the same toothpick to patch each colony onto the LB plate, taking care to keep patches from merging. 
-*Note*: You can fit upwards of 50 patches per plate. 
-1. Incubate LB plate in 37 C incubator overnight. 
-1. Add caps to PCR strip tube and run a "lyse" thermocycler program (10 min at >96 C; hold at 22 C)
+1. Label a patch plate (LB+antibiotics) like the photo below.  You will screen multiple "clones" of your construct.  We refer to these as "pTLP54.1", "pTLP54.2", ...  Date the plate. Initials are optional (if not included in the plasmid name)
+
+![Photograph of an E. coli Patch plate](images/colPCR_patch_plate.png)
+
+1. Prep LB+antiobiotic in a 48-well deep plates with baffles (autoclavable and reusable).  In your notebook, record the planned location where you will put each colony (use a plate layout excel template). Use the AliQ pipette handler to repeatedly dispense the broth. 
+1. Using 1 sterile toothpick per colony, pick a silnge well-isolated colony.  Patch it over a number on the patch plate. Then swirl the toothpick in the broth and discard. 
+1. Incubate the 48-deep well plate at 37C with shaking overnight.  Incubate the patch plate at 37C stationary overnight. 
 
 ### Step 2: Colony PCR
 Set up the reactions on wet ice.
 If appropriate for the vector (Inspecting vector seq on Benchling can help you determine this), use M13F/R primers for PCR screen.
 Alternatively, use a pair of your Gibson cloning primers to PCR screen.
 
-1. Use Benchling to plan your PCR screen approach (i.e. which primers to use) and the ['pcr_workbook.xlsx'](workbooks/pcr_workbook.xlsx) to plan your PCR Mastermix using a cheap Taq-PCR kit. 
-    * Use **2 ul of colony lysate** as the template DNA 
-    * Do ≤ 20 ul reactions per colony. 
-1. Prepare the mastermix, and aliquot to PCR strip-tubes.
-1. Use multichannel to add 2 ul colony lysate to PCR mix. 
+1. Use Benchling to plan your PCR screen approach (i.e. which primers to use) and the ['pcr_workbook.xlsx'](workbooks/pcr_workbook.xlsx) to plan your PCR Mastermix using a cheap Taq-PCR kit. Plan to use the parental vector as a negative control, if you have the parental vector. 
+    * Use **1 ul of colony lysate** as the template DNA 
+    * Do 10 ul reactions per colony. 
+1. Using a P200 multichannel, add 90 ul (sterile) milliQ water to PCR strip tubes. (n=however many colonies you are screening). Add 10 ul of the overnight liquid culture to the PCR strip tube.  In the thermal cycler, incubate at 96-98C for 10 minutes. 
+1. Prepare the PCR mastermix, and aliquot to PCR strip-tubes.
+1. Use P20 multichannel to add 1 ul colony lysate to PCR mix. 
 1. Run a PCR reaction on the thermocycler with a program that matches the PCR kit, necessary extension time, and an anneal temperature suitable with your PCR screening primers. 
 
 ### Step 3: Run Agarose Gel to determine result of PCR screen
-* Use 0.8 % w/v agarose in TAE (or appropriate higher/lower agarose concentration).
-* Mix 5 ul PCR product with 1 ul 6x DNA loading dye.
-* Image gel on XXXX in room XXX.
-* Print an image of the gel for your lab notebook. 
-*Note:* Faint bands often print better if you invert the colors. 
+* Use 0.8 % w/v agarose in LiBOR (or appropriate higher/lower agarose concentration--google for why you would want to do this if you do not know). Note: thinner combs/wells will yield tighter bands than thick combs/wells. Your gel should have 1-2 drops of ethidium bromide solution in it. 
+* Load 5 ul ladder on either side of your gel/samples.  Load your 10 ul reaction. 
+* Run gel at 200 V for 20-30 minutes.  You can run LIBOR even faster, but don't let it run off!
+* Image gel on the antique (but functioning) gel imager in the 2nd floor common space (beyond the autoclaves). Bring your flash drive to save the gel photo. *Safety* do not touch door handles with gloves that have touched the ethidium bromide. Remove glove / put glove back on as needed. We have a "gel carrying container" above the gel station. 
+* Image the gel with UV light (button is rubbed off). You can zoom in/out and adjust the aperture (amout of light) manually on the camera.  Only do this if you are previewing the gel with the software--this way you can undo if you make a bad adjustment. Capture an image and save it to your flash drive.
+* If the gel had any successes, spend a moment to label the gel in powerpoint. Example below. (ProTip: Keep a Cloning.pptx in your digital lab notebook to quickly label each gel. You can copy/paste a lot of elements). 
+*Note:* Faint bands are often more clear if you invert the colors. 
+![Photograph of a labeled gel](images/colPCR_labeled_gel.png)
+
+
+*Cleaning up note:* 1x LIBOR tends to grow mold in our lab.  Don't leave it in the gel boxes. Pour it into a 1L bottle. Cap. Reuse until it's moldy, then start a new batch. 
 
 ## Colony PCR on *Ralstonia* colonies
 *Ralstonia* has always proven tricky for colony PCR. 
