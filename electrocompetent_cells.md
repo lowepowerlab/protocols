@@ -40,7 +40,8 @@ The cultures should be good for >6 months.
 Date the outside of the box or include a paper tag with the cells to indicate their "Best Buy" date.
 
 # Electroporation Protocol
-1.	Turn on the electroporator and set to 0.9 kv, 400 ohms and 25 µF.
+1.	Turn on the electroporator and set to 900 V.  
+    * *Note: We don't adjust ohms/µF on our electroporator, but these conditions worked in Lindow lab: 0.9 kv, 400 ohms and 25 µF.* 
 
 2.	Thaw cells on ice for 10 min or use freshly made cells on ice. 
 
@@ -53,7 +54,8 @@ Date the outside of the box or include a paper tag with the cells to indicate th
 6.	Incubate with shaking at 28C for ~4 hr to allow cells to recover (Lie tube ~horizontally e.g. in an empty Erlenmeyer flask). 
 Pre-warm CPG +TZC +antibiotic plates at 28°C.
 
-7.	Dilution plate onto CPG-antibiotic media. Plate 200 ul of undiluted, 1:10, 1:100 and 1:1000 diluted cells. Use sterile glass beads. 
+7.	Dilution plate onto CPG-antibiotic media. Plate 200 ul of undiluted, 1:10, 1:100 and 1:1000 diluted cells.  Use sterile glass beads to spread.  Then dump the beads in the "dirty beads" reservoir.   
+    * To reuse beads:  Add 10% bleach to the dirty beads container. Incubate 30 min.  Then dump beads into a metal strainer.  Rince very well with water.  Line a plastic bin with a paper towel.  Dump in wet beads.  Allow to dry overnight.  Use a funnel to pour beads into small glass bottles.  Label with autoclave tape & autoclave with a dry cycle. 8433
     * Optional: spin down the remaining culture & resuspend in 200 ul to spread on a plate. 
     * Optional control: plate some of the bacteria on CPG without antibiotics to verify viability & verify the antibiotic plates are appropriately selective.
 
