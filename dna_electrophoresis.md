@@ -17,15 +17,22 @@
 * When using LAB buffer, you can run at over 30 V per cm gel length. (xxxFigure out what size gels we'll be using). 
 
 ## Visualize the Gel
-* Carry gel in a secondary containment tray to room XXX.  Use the 1 glove-rule (touch gel with your non-dominant gloved hand.  Keep your dominant hand glove-free to open doors, use computer mice, etc without contaminating it). 
-* xxx Add any info about the software quirks if necessary
+* Carry gel in a secondary containment tray to the gel doc room (2nd floor common lab space, past the autoclaves/ice machine and on the left).  Use the 1 glove-rule (touch gel with your non-dominant gloved hand.  Keep your dominant hand glove-free to open doors, use computer mice, etc without contaminating it). 
+   * Bring a flash drive to save your gel image 
+* Geldoc quirks:
+   * Open the gel software. With the door open, preview the gel.  Carefully adjust the zoom/aperture size on the camera by rotating the camera (not software buttons).  Center your gel. 
+   * Close the gel doc
+   * The UV transillumination button has been worn off. After closing the door, press the button without a label.  
+   * Take an image.  Make sure you can see the intensity of both (1) the bands in your ladder (necessary to determine sizing) and (2) your products and any non-specific products.  Sometimes you need to take photos with 2 different exposure times to capture everything on the gel. 
+   * Inverting/Reversing the colors can make it easier to see bands (white background with black bands where there is DNA fluorescence)
+   * Save the image on your flash drive.
+   * Wipe the gel doc platform with a paper towel to remove buffer salt residue. 
 
 ## Clean-Up
 * Discard DNA gel in the trash (xxxI think this is okay at Davis. We should check)
-* Use a funnel to carefully pour used LAB buffer back into the "Used 1x LAB buffer" bottle, and seal it. Add a hash-mark to the label to indicate # of uses.  (xxx eventually we'll determine when to toss the buffer.)
+* Use a funnel to carefully pour used LAB buffer back into the "Used 1x LAB buffer" bottle, and seal it. The 1x LAB buffer seems to grow black fuzzy mold in our lab (thanks former mycology occupants). When you see mold, disgard the buffer and get a new bottle.  Mold doesn't seem to grow in the 10x LAB, but keep an eye on it too. 
 * make sure gel comb is free of residual agar
 * Clean up any other mess at the gel doc area
 
 ## Planning ahead
 * Agarose gels can be pre-poured, solidified, wrapped in cellophane, and stored at 4C for up to 2 weeks. 
-
