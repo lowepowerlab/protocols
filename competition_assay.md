@@ -35,3 +35,7 @@ Follow the [petiole](tomato_petiole_inoc.md) or [soil soak](tomato_ss_inoc.md) i
 Note: you will have to dilution plate onto agar with each antibiotic. 
 
 Tiffany has an example lab notebook entry (word doc plan, excel spreadsheet with data, and GraphPad Prism visualization of the data) for a tomato petiole inoculation at: LPlab > nb-LowePower, Tiff > PI_science > Plant experiments. The files are datestamped with 20210224
+
+## Recommended reading
+
+To see how to calculate competitive indices, read Yao and Allen 2006. [doi: 10.1128/JB.188.10.3697-3708.2006](https://dx.doi.org/10.1128%2FJB.188.10.3697-3708.2006). 
