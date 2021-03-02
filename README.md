@@ -34,13 +34,14 @@ Lab protocols for the Lowe-Power lab
     * [] Add table of contents
 * [draft] [Buffers and Reagents](buffers.md)
 * [x] [Antibiotics](antibiotics.md)
-* [draft] [Chemically competent *E. coli* - Mix&Go](ecoli_chem_comp.md)
+* [x] [Chemically competent *E. coli* - Mix&Go](ecoli_chem_comp.md)
 * [x] [Electrocompetent *Ralstonia* cells](electrocompetent_cells.md)
 * [x] [Natural transformation of *Ralstonia*](natural_transformation.md)
 * [x] [Conjugation with *E. coli* WM3064](conjugation_WM3064.md)
 * [] [Growth curve: test tube](bacteria_growth_curve_tube.md)
 * [x] [Growth curve: 96 well microplate](bacteria_growth_curve_96well.md)
 * [x] [Dilution plating & colony forming units](cfus.md)
+* [x] [Competition Assay](competition_assay.md) This is written for an in planta assay, but could be adapted to in vitro experiments. 
 
 ### Plants
 
@@ -51,6 +52,7 @@ Lab protocols for the Lowe-Power lab
 * [] [Melon: inoculations](melon_inoc.md)
 * [x] [Measuring wilt symptoms for a disease progress assay](tomato_symptoms.md)
 * [x] [Colonization: tomato stem](col_tomato_stem.md)
+* [x] [Competition Assay](competition_assay.md) This is written for cut-petiole competitions, but it can be adapted to soil soak. 
 * [] [Colonization: tomato roots](col_tomato_root.md)
 * [w.i.p.] [Growing Tomato for seed](tomato_seed_bulking.md)
 * [] [Tobacco Mosaic Virus & other things to worry about](tomato_problems_misc.md)
