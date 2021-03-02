@@ -3,6 +3,7 @@
 **Written/Edited by**: Tiffany Lowe-Power, Madeline Hayes, Mandel lab
 
 ## Experimental Design:
+Note: This is the protocol where 1 strain is inoculated per plant.  Sometimes we want to do competitive inoculations where 2 strains are co-inoculated. For those, see the [competition protocol.](competition_assay.md) 
 
 * **Timing**:
     * *Colonization assays (e.g. comparing two strains) should be **sampled at specific time points** (will show delay(s) in colonization if time points are before population levels saturate) and not at specific symptom level (even if a strain takes longer to initiate symptoms, at symptom onset, plants will have ~5x10<sup>8</sup>-5x10<sup>9</sup> CFU/g)*
@@ -14,7 +15,7 @@
         * Infection via soil-drench is stochastic. 4 dpi is probably the earliest you want to do, but even then, many plants will be uncolonized. 
         * Even though you will probably plan days 1-3 over a weekend, it is *crucial* to keep soil moisture level high during this window.
 * **Sampling site**:
-    * **Cut-Petiole**: Sample at the site of inoculation `'+0'`and a distal site (e.g. 3 cm above the site of inoculation `'+3'`).
+    * **Cut-Petiole**: Sample at the site of inoculation `'+0'`and a distal site (e.g. 2 cm below the site of inoculation `'-2'`).
         * After cut-petiole, the bacteria will first establish at the site of inoculation, then below the site of inoculation before establishing above the site of inoculation. 
         *This probably reflects connectivity of vascular architecture*
     * **Soil-Soak**: Sample at the cotyledon junction
