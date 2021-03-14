@@ -69,3 +69,49 @@ Expected results:
 * Resolve on **2%** agarose gel
 * **If reaction is positive, notify Tiffany Lowe-Power immediately.**
 
+## 4. Determine Sequevar of an Isolate
+*This can be updated with more specific details*
+
+The sequevar system is a DNA based taxonomic system of plant pathogenic *Ralstonia*. The system is based on DNA sequence alignments of a 750 bp region of the *egl* endoglucanase gene. 
+
+### Step 1: Purify genomic DNA from the isolate
+
+* Streak out the isolate on CPG+TZC and obtain single colonies. 
+* Inoculate a single colony into CPG broth and incubate overnight.
+* Extract DNA from 1 ml of a dense culture using the DNeasy Blood & Tissue kit. 
+
+### Step 2: Amplify a 750 bp region of the *egl* gene
+
+| Primer Name |  Sequence (5' to 3')             | 
+|:-----------:|:---------------------------------|
+|    Endo-F      | ATGCATGCCGCTGGTCGCCGC      |
+|    Endo-R      | GCGTTGCCCGGCACGAACACC      | 
+
+Follow instructions for a High Fidelity PCR reaction (E.g. Kapa HiFi) to amplify the band.  You will add 50 ng of purified genomic DNA as template. Run a program that is appropriate for a 750 bp target. Use an anneal temperature of 60 C (it looks like anything from 55-64C has been used in the literature). 
+
+### Step 3: Visualize on an agarose gel to confirm a successful amplification
+See the [DNA electrophoresis protocol](dna_electrophoresis.md) for more details.
+
+* Make a 0.8% w/v agarose gel in 1x LAB buffer with ethidium bromide. 
+* Load 2 ul of your PCR reaction (mix with loading buffer). Don't forget to run DNA ladder in a well. 
+* Run the gel
+* Visualize the gel on a UV box. Save a photograph. 
+* Analyze the gel -- annotate a few size markers on the ladder.  You should have 1 strong, single band at 750 bp in your PCR wells. 
+
+#### Troubleshoot the PCR if necessary, otherwise proceed to step 4
+
+### Step 4: Purify the PCR reaction
+
+Use the Zymo DNA clean & concentrator kit to purify your PCR products (1 prep per reaction). 
+
+Check DNA purity on the nanodrop.  Record the estimated DNA concentration and 260/280 and 260/230 ratios.  Also save a photograph of the full spectra of you DNA.  Discuss with someone whether it looks "pure" or whether there are contaminant peaks. 
+
+### Step 5: Submit the sample for Sanger Sequencing
+
+Follow the [Sanger Sequencing protocol](sanger.md).  Sequence the reactions with both the Endo-F and Endo-R primers (separate reactions)
+
+### Step 6: Interpret the sequence.  
+
+Import the sequencing trace (.ab1 file) into Benchling in the "1-egl (partial) sequences".  Align the F and R and proofread the sequences. 
+
+After this point ... Tiffany has a word protocol from Caitilyn's lab that we can adapt to assign a sequevar based on the sequence. 
