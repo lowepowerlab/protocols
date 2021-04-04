@@ -1,3 +1,5 @@
+To open protocols as a printer-friendly format, go to <http://lowepowerlab.ucdavis.edu/protocols/>
+
 # Protocols
 
 Lab protocols for the Lowe-Power lab
