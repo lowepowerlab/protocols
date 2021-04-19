@@ -11,7 +11,7 @@ Prepare 20 mls at a time and aliquot
 |    Kanamycin    | <font color='PURPLE'>PURPLE</font> | Kan  |          25           |                  dH<sub>2</sub>0                   | Filter                                                        |
 |   Gentamicin    | <font color='654321'>BROWN</font>  |  Gm  |          10           |                  dH<sub>2</sub>0                   | Filter                                                        |
 |  Spectinomycin  |  <font color='BLACK'>BLACK</font>  |  Sp  |          40           |                  dH<sub>2</sub>0                   | Filter                                                        |
-|  Tetracycline   |  <font color='Green'>GREEN</font>  | Tet  |          10           | 100% ethanol (dH<sub>2</sub>0 if tetracycline HCl) | Filter if dissolved in dH<sub>2</sub>0. Keep dark (foil wrap) |
+|  Tetracycline   |  <font color='Green'>GREEN</font>  | Tet  |          10           |  dH<sub>2</sub>0                                   | Filter;  Keep dark (foil wrap) |
 |   Ampicillin    |    <font color='Red'>RED</font>    | Amp  |          100          |                  dH<sub>2</sub>0                   | Filter                                                        |
 | Chloramphenicol | <font color='Yellow'>Yellow</font> | Cam  |          25           |                  dH<sub>2</sub>0                   | Filter                                                        |
 
