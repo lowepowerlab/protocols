@@ -9,6 +9,9 @@ This protocol describes the unmarked gene deletion strategy in *Ralstonia*.
 
 ## Unmarked gene deletion (sacB)
 
+### Overview of how clean deletions with sacB works
+[Video by David Baltrus](https://www.youtube.com/watch?v=kU2U5YVSVBQ&ab_channel=UAMicro428).  Note: Baltrus lab uses a slightly different vector, but the molecular mechanisms are the same. Both sacB and the kanR genes in pUFR80 work in Ralstonia. 
+
 ### Clone the knockout vector:
 
 #### Resources:
