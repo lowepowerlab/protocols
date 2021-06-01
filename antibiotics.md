@@ -4,6 +4,8 @@
 
 ## Preparation of 1000x stocks
 
+**NOTE: Our first Tet stocks are not 1000x.  I prepped 10 mg/ml stocks.  But we need 30 ug/ml final concentration.  So add 1.5 ml tet per 500 ml CPG** 
+
 Prepare 20 mls at a time and aliquot
 
 |   Antibiotic    |               Color                | Abbr | Concentration (mg/ml) |                      Solvent                       | Stock notes                                                   |
@@ -11,7 +13,7 @@ Prepare 20 mls at a time and aliquot
 |    Kanamycin    | <font color='PURPLE'>PURPLE</font> | Kan  |          25           |                  dH<sub>2</sub>0                   | Filter                                                        |
 |   Gentamicin    | <font color='654321'>BROWN</font>  |  Gm  |          10           |                  dH<sub>2</sub>0                   | Filter                                                        |
 |  Spectinomycin  |  <font color='BLACK'>BLACK</font>  |  Sp  |          40           |                  dH<sub>2</sub>0                   | Filter                                                        |
-|  Tetracycline   |  <font color='Green'>GREEN</font>  | Tet  |          10           |  dH<sub>2</sub>0                                   | Filter;  Keep dark (foil wrap) |
+|  Tetracycline   |  <font color='Green'>GREEN</font>  | Tet  |          30           |  dH<sub>2</sub>0                                   | Filter;  Keep dark (foil wrap) |
 |   Ampicillin    |    <font color='Red'>RED</font>    | Amp  |          100          |                  dH<sub>2</sub>0                   | Filter                                                        |
 | Chloramphenicol | <font color='Yellow'>Yellow</font> | Cam  |          25           |                  dH<sub>2</sub>0                   | Filter                                                        |
 
