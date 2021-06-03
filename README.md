@@ -28,6 +28,9 @@ Lab protocols for the Lowe-Power lab
 * [x] [Colony PCR](colony_pcr.md)
 * [x] [Sanger Sequencing](sanger.md)
 
+In addition to our lab protocols, here are resources that are very useful:
+* [x] [A Primer on Cloning in E. coli](https://sites.wustl.edu/nonetlab/files/2018/07/How-to-clone-ref-v1-2.pdf) by Michael Nonet at Wash U
+
 ### Microbiology
 
 * [x] [General growth of *Ralstonia*](growing_ralstonia.md)
