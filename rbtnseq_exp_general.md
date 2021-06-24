@@ -11,7 +11,7 @@ This corresponds to ~4e8 to 8e8 cells, approx 500-1000x library size.
 
 2. Transfer to 100 ml CPG media containing 12.5 mg / ml Kan. 
    * Use an approach to temper the temperature change from 4 C to RT: Add some RT media to the 4C tube, transfer some cells to the flask.  Add more RT media to 4C tube, until all cells are transferred
-   *  *Note*: This is 1/4th the normal Kan concentration.
+   *  *Note*: This is 1/2 the normal Kan concentration.
    Wildtype GMI1000 is inhibited by as little as 2.5 mg / ml Kan, so this will still be selective. 
    But it might be 'gentler' on any mutants with increased Kan sensitivity.
 1. Incubate at 28C with shaking overnight.
