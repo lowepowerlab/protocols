@@ -1,5 +1,7 @@
 ## Growing Tomato plants
 
+# Please refer to the protocols in our shared Box until we standardize growth protocols that work consistently for many people in the lab.  Jonathan's protocols are located: Box > LPlab > 1-shared > 1 - protocols > Plant protocols > "J Beutlers Plant Propagation Protocols.docx"
+
 **Writing/Editing by**: Tiffany Lowe-Power, Patrizia Ricca,
 
 ### Sowing Seed 
