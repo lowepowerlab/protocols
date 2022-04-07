@@ -53,7 +53,7 @@ Method:
 
 * The catalase stock can be made up, filter—sterilized, aliquoted, and stored at -20C for at least 1 year.
 
-* Catalase source: Sigma C-1435-10g, "Catalase From Bovine Liver, powder, 2,000-5000 units per mg"
+* Catalase source: Sigma C1345-10G, "Catalase From Bovine Liver, powder, suitable for cell culture,  2,000-5000 units per mg"
 
 ### Misc. Advice
 
