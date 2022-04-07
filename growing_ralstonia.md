@@ -12,7 +12,7 @@ Colonies that are visible by 24 hours are not *R. solanacearum*.
 
 TZC (tetrazolium chloride) is a redox indicator that helps you keep an eye on Ralstonia colony morphology (see phc mutants section). 
 
-*R. solanacearum* strain GMI1000 growing on TZC plates at 28˚C for 55 hours:
+*R. solanacearum* strain GMI1000 growing on TZC plates at 28˚C for 55 hours:<br>
 <img src="images/ralstonia_colony_morphology.jpg" width="300">
 
 #### Beware of spontanenous phc mutants
