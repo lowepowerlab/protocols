@@ -44,6 +44,17 @@ Methods:
    *  Note, the natural isolates in UCD Boxes 3-6 (UCD163-UCD459) were acquired after multi-year to multi-decade storage in waterstocks in the Allen lab. When Tiffany replicated this collection from the Allen lab, some of the waterstocks had multiple colony morphologies (indicating mutation accumulation). Single colonies were restruck for purity before saving in our collection, but due to the magnitude of work, some of these isolates may be mixed populations. So every time you work with a new isolate in this range, you should first streak out the strain on CPG+TZC to determine whether the culture is homogenous or has multiple colony morphologies.  If there are multiple colony morphologies, discuss with Tiffany and she will pick a "virulent looking" colony to work with.
    *  Once you have a good-looking colony that's isolated from other colonies (might require a second streak on CPG+TZC to ensure purity), make a new glycerol stock from that colony and also streak it on CPG plates without TZC to make a medium-term water stock. You can use the same wooden stick to inoculate both cultures at the same time. Cross out, but do not delete, the previous mixed culture from the strain list & make a note to "See UCD###" which indicates the new pure strain that your future labmates should work with.  
 
+## Catalase
+Sometimes Ralstonia enters a viable but not culturable state (VBNC). Empirically, adding catalase to plates before growing the bacteria can sometimes coax the cells to grow again. 
+
+Method:
+
+* Right before spreading/streaking bacteria, spread on each CPG plate 100 µl of a 10 mg/ml catalase solution (dissolved in water)
+
+* The catalase stock can be made up, filter—sterilized, aliquoted, and stored at -20C for at least 1 year.
+
+* Catalase source: Sigma C-1435-10g, "Catalase From Bovine Liver, powder, 2,000-5000 units per mg"
+
 ### Misc. Advice
 
 * Do not store *Ralstonia* at 4C or above 35C if you want to use them for experiments.
