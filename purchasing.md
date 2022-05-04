@@ -1,6 +1,8 @@
 # General Rules
 
-Typically we have one or two people who carry the "lab job" of ordering supplies. When items get low, please post them to the #ordering channel on our Slack. If it's a routine item, it is helpful to post a picture of the "product number" or "item number" so that it can be searched on the ordering databases. The Ordering person should place orders at least weekly. 
+When items get low, please post them to the #ordering channel on our Slack. **Please look at the Pinned Information within the #Ordering channel**. Typically we have one or two people who carry the "lab job" of ordering supplies.
+
+If it's a routine item, it is helpful to post a picture of the "product number" or "item number" so that it can be searched on the ordering databases. The Ordering person should place orders at least weekly. 
 
 * **Do not openly publish the lab's financial information to the internet**. Store private information either in the "Lab Management" folder in Box Sync database or in a Google Sheet that is shared with the lab. 
 * Purchase items with the correct funding string. Ask on #ordering Slack channel if you are confused. 
