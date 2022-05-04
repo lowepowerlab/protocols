@@ -8,7 +8,6 @@ Lab protocols for the Lowe-Power lab
 **Important information** for all full-timers!
 * [Chemical Management](chemical_management.md)
 * [Purchasing](purchasing.md)
-* [Misc. Lab Management](lab_management.md)
 * [What to do if the building loses electricity](power_outage.md)
 
 **Undergrad Relevant Information**
