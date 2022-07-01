@@ -45,11 +45,7 @@ The following protocol assumes a vector containing kanamycin resistance was used
     * *Optional: plate the dilutions on CPG without sucrose to verify* sacB *is conferring sucrose susceptibility.*
 
 1. Once single colonies appear (2 days up to 4 days), select approximately 24 isolated colonies (transformants) and restreak on CPG for single colonies. 
-Grow for 2 days at 28C or 3 days at RT. 
-(Note that you can streak more than 1 transformant per plate as long as you end up with single colonies. 
-See image below. [image source](http://www.sci.sdsu.edu/~smaloy/Research/pdf%20files/Basic_techniques.pdf))
-
-![Save plates with multiple colonies per streak](images/streak_for_single_colonies.png)
+Grow for 2 days at 28C or 3 days at RT. Tip: Streaking one colony per plate is the best way to avoid mixing up colonies from different streaks. If streaking more than one colony per plate, leave a couple centimeters between streaks to avoid mixing up colonies from each streak. 
 
 1. Grow double recombinants overnight in 1.5 ml CPG in 24-well plate (28C with shaking) and perform [colony PCR](colony_pcr.md) with 3 μl culture. 
     * Note: colony PCR directly from colonies on the plate tends to yield false-negatives in EPS<sup>+</sup> Ralstonia strains. 
