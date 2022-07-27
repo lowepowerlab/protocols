@@ -46,7 +46,7 @@ Date the outside of the box or include a paper tag with the cells to indicate th
 2.	Thaw cells on ice for 10 min or use freshly made cells on ice. 
 
 3.	Add up to 8 µL of plasmid DNA (approximately 2 µg) to cells. 
-   * *Note: This volume of plasmid has not been optimized, but we have seen more success using a larger amount of plasmid* 
+    * *Note: This volume of plasmid has not been optimized, but we have seen more success using a larger amount of plasmid* 
 
 4.	Gently pipette to mix and transfer the DNA-cell mixture to a 1 mm electroporation cuvette, tap on countertop 2x to reduce bubbles, dry exterior of cuvette, and place in the electroporator & shock.
 
