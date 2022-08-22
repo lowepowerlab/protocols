@@ -8,7 +8,12 @@ Make a large batch.
 Cells should be "good" for > 1 yr if stored at -80C.
 
 ## Protocol
-This protocol takes 3 days. The most time intensive step is the morning of the 3rd day. 
+This protocol takes 4 days if desired strain of <i>E. coli</i> must be streaked from the -80C freezer. The most time intensive step is the morning of the fourth day. Briefly: 
+1. Streak desired <i>E. coli</i> strain from -80C freezer. 
+1. Pick a single colony into a 2-5 mL overnight culture.
+1. Use 2-5 mL culture to start a larger overnight culture in a flask.
+1. Harvest cells from flask at mid-log phase and prepare + save competent cells.
+
 ### Prep Checklist
 * Zymo Mix & Go buffers (2x stocks). You need > 2.5 ml of each. These are stored in the 4C fridge, and must be used ice-cold. 
 * Sterile flask (125 ml - 250 ml)
