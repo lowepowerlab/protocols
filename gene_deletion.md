@@ -41,7 +41,7 @@ The following protocol assumes a vector containing kanamycin resistance was used
     * *Optional: Create a temporary freezer stock in cheap 1.5 ml tubes in case the counter-selection fails*
 
 1. Wash each in 3x in CPG without antibiotic. Dilute and plate 200 μl of the 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions on CPG + 5% w/v sucrose plates. **Note -- we need to update this protocol with better advice about the dilutions. We might need to dilute further if we do the overnight incubation.**
-    * Looping out of the plasmid is a much more frequent genetic even than the original integration of the plasmid into the genome
+    * Looping out of the plasmid is a much more frequent genetic event than the original integration of the plasmid into the genome
     * *Optional: plate the dilutions on CPG without sucrose to verify* sacB *is conferring sucrose susceptibility.*
 
 1. Once single colonies appear (2 days up to 4 days), select approximately 24 isolated colonies (transformants) and restreak on CPG for single colonies. 
