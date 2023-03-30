@@ -13,7 +13,7 @@
 1. Plate sealing device e.g. 3M P.A.-1
 
 ### Experimental Design
-* Sign up for plate reader at XXX. *Try to schedule long experiments (>24 h) to run during the weekend.*
+* Sign up for plate reader at "Plate Reader Sign up" Google calendar. *Try to schedule long experiments (>24 h) to run during the weekend.*
 * Use your [Plate Layout Template](workbooks/template_plate_layouts.xlsx) to plan your experiment. 
 Include 1-3 technical replicates of appropriate blank(s) per plate. 
 * Consider appropriate negative controls (e.g. "no carbon" control when testing carbon sources or "no bacteria" control when testing new media with components that can oxidize and change colors)
