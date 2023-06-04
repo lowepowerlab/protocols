@@ -81,3 +81,5 @@ This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mj
 I also *highly* recommend using the AddGene website as a resource on molecular biology.  http://www.addgene.org/mol-bio-reference/
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lowepowerlab.protocols)
