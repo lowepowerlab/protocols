@@ -33,5 +33,5 @@
 11. If autoclaving biohazardous waste:
    * Label bag in sharpie with Lab name (TLP date ... ? <-- we need to figure this out)
    * If there is a lot of boil over, place autoclaved bag into another biohazard bag, dump the boiled over liquid into the bag as well, tie the bag closed for disposal
-   * Once the trash is cooled, bring it to the du,,,,,,,,,,,,,,,,,,
+   * Once the trash is cooled, bring it to the dumpster at the loading dock of Hutchison Hall. 
    * ~~Make sure the big black trashcan isn't too full; if it's full, take the bag out, tie it closed, label with an "OK to trash" sticker, and set the bag to the side of the trashcan~~
