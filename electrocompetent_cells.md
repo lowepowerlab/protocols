@@ -37,7 +37,7 @@ Resuspend the cells in 6 ml glycerol and re-centrifuge.
 To freeze, add 80 ul of the culture to 1.5 ml tubes on wet ice. 
 Once aliquoted, transfer the tubes to dry ice for ~10 minutes before transfer them to a -80°C freezer. 
 The cultures should be good for >6 months. 
-Date the outside of the box or include a paper tag with the cells to indicate their "Best Buy" date.
+Date the outside of the box or include a paper tag with the cells to indicate their "Best By" date.
 
 # Electroporation Protocol
 1.	Turn on the electroporator and set to 900 V.  
@@ -46,16 +46,17 @@ Date the outside of the box or include a paper tag with the cells to indicate th
 2.	Thaw cells on ice for 10 min or use freshly made cells on ice. 
 
 3.	Add up to 8 µL of plasmid DNA (approximately 2 µg) to cells. 
-    * *Note: This volume of plasmid has not been optimized, but we have seen more success using a larger amount of plasmid* 
+    * *Note: This volume of plasmid has not been optimized, but we have seen more success using a larger amount of plasmid up to 20uL of volume*
+   
 
 4.	Gently pipette to mix and transfer the DNA-cell mixture to a 1 mm electroporation cuvette, tap on countertop 2x to reduce bubbles, dry exterior of cuvette, and place in the electroporator & shock.
 
-5.	~Immediately add 1 ml of CPG broth (no antibiotics), mix gently by slowly pipetting up and down once and transfer to a pre-labeled 2.0 ml tube.
+5.	~__Immediately__ add 1 ml of CPG broth (no antibiotics) to electroporation cuvette, mix gently by slowly pipetting up and down once and transfer mixture to a pre-labeled 2.0 ml tube.
 
-6.	Incubate with shaking at 28C for ~4 hr to allow cells to recover (Lie tube ~horizontally e.g. in an empty Erlenmeyer flask). 
+6.	__Immediately__ incubate with shaking at 28C for ~4 hr to allow cells to recover (Lie tube ~horizontally e.g. in an empty Erlenmeyer flask). 
 Pre-warm CPG +TZC +antibiotic plates at 28°C.
 
-7.	Dilution plate onto CPG-antibiotic media. Plate 200 ul of undiluted, 1:10, 1:100 and 1:1000 diluted cells.  Use sterile glass beads to spread.  Then dump the beads in the "dirty beads" reservoir.   
+7.	Dilution plate onto CPG-antibiotic media. Plate 200 ul of undiluted, 1:10, 1:100 and 1:1000 diluted cells.  Use sterile glass beads to spread.  Then dump the beads in a "dirty beads" reservoir.   
     * To reuse beads:  Add 10% bleach to the dirty beads container. Incubate 30 min.  Then dump beads into a metal strainer.  Rince very well with water.  Line a plastic bin with a paper towel.  Dump in wet beads.  Allow to dry overnight.  Use a funnel to pour beads into small glass bottles.  Label with autoclave tape & autoclave with a dry cycle. 8433
     * Optional: spin down the remaining culture & resuspend in 200 ul to spread on a plate. 
     * Optional control: plate some of the bacteria on CPG without antibiotics to verify viability & verify the antibiotic plates are appropriately selective.
