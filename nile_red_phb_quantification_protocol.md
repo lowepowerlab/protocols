@@ -1,7 +1,7 @@
 # Nile Red PHB Quantification Protocol
-1. **Day 1:** Streak out wild-type and knockout on CPG+TZC plates, incubate at 28C for two days.
-1. **Day 3:** Make three overnight cultures from each plate using 5mL of CPG broth and a different colony for each culture tube. Incubate in shaker incubator overnight at 28C and 250rpm. Include a negative control.
-1. **Day 4 *(~24h later)*:** Check the OD of the cultures. Dilute cultures to an OD of 0.001 using water and a serial dilution method: original to 1 to 0.1 to 0.01 to 0.001. Add 100µL of diluted culture to 5mL of CPG broth in new culture tubes. Incubate in shaker incubator overnight at 28C and 250rpm.
+1. **Day 1:** Streak out strains on CPG+TZC plates, incubate at 28C for two days.
+1. **Day 3:** Inoculate 3-5mL overnight cultures using a colony from each plate for each culture tube. Incubate in a shaker incubator overnight at 28C and 250rpm. Include a no-inoculum negative control to check for contamination of media.
+1. **Day 4 *(~24h later)*:** Check the OD600 of the cultures. Dilute cultures to an OD of 0.001 using water and a serial dilution method: original to 1 to 0.1 to 0.01 to 0.001. Add 100µL of diluted culture to 5mL of CPG broth in new culture tubes. Incubate in shaker incubator overnight at 28C and 250rpm.
 1. **Day 5 *(ex-p. ~20h, st-p. ~26h)*:** Check the OD of the cultures to determine phase. Prepare 1.7mL suspensions with 0.2 OD from each culture by diluting with water.
     1. Add 100µL of suspension per well in a 96-well plate. Repeat for each technical rep. Save and use for dilution plating.
     1. Pellet the remaining suspension at 10,000rcf for 5 minutes. Pipet off the supernatant and resuspend the pellet in 1mL of water.
