@@ -21,6 +21,19 @@ CAUTION: Beware of small, round, dark red, non-mucoid colonies surrounded by red
 
 <img src="images/ralstonia_good_bad_colonies.png" width="400">
 
+---
+
+### Subculturing
+1. Check the OD of the liquid cultures.
+2. Dilute cultures to desired OD using water and a serial dilution method.
+     1. Example: original to 1 to 0.1 to 0.01 to 0.001.
+4. Add diluted culture to CPG broth in new culture tubes. Incubate in shaker incubator overnight at 28C and 250rpm.
+
+#### Example
+For GMI1000, when 100µL of stationary phase culture, at an OD of 0.001, is added to 5mL of CPG broth and grown for ~20 hours in the shaker incubator at 28C and 250rpm, the cultures grow to an average OD of 0.29.
+
+---
+
 ### Waterstocks
 
 Bacterial -70 C glycerol stocks can lose viability and pathogenicity during subtle thaw/freeze events. To preserve these long-term stocks, our lab members routinely creates "waterstocks" of Ralstonia isolates that they are actively using in their project.
