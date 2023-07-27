@@ -12,6 +12,7 @@
         1. Transfer pattern: 20µL from A to B, B to C, and so on.
         1. On CPG+TZC plates: 8µL from rows E-H.
         1. Incubate plates at room temperature for 2-3 days. Count colonies as soon as they are visible and countable.
+        2. See our cfu.md protocol for a more detailed explanation of dilution plating.
     1. After the 45 minute Nile Red incubation, add 200µL of dyed suspension per well in a black-walled 96-well plate. Repeat for each technical rep. Include the blank.
     1. Use the microplate reader with the black-walled 96-well plate and the nile red measurement setting.
 1. **Day 7/8:** Check the dilution plates and count colonies.
