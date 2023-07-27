@@ -15,7 +15,7 @@ Lab protocols for the Lowe-Power lab
 * [Shelf stocking](shelf_stocking.md)
 * [Autoclave](autoclave.md)
 
-## Familiarize Yourself with Common Lab Terms
+### Familiarize Yourself with Common Lab Terms
 
 [Lowe-Power Lab Glossary](https://docs.google.com/document/d/19AsPkU6nHJzNodnoK5z-z4G0OHRLERk6mvZZazWm8Hs/edit?usp=sharing)
 
