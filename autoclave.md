@@ -22,6 +22,7 @@
    * Dry items (e.g. tips, tubes, empty glass flasks) = **Cycle 4**
    * Autoclave trash = **Cycle 6**
    * Autoclave liquid trash = **Cycle 3**
+  
   As a general rule of them, dry biohazardous trash should be autoclaved for a minimum of 2 hours at 121 degrees celsius, and liquid biohazardous trash should be autoclaved for a minimum of 1 hour.
 6. Press "Start" to start cycle.
 7. ~~When cycle is finished, autoclave will ring~~
