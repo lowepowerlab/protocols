@@ -50,10 +50,10 @@ The following protocol assumes a vector containing kanamycin resistance was used
 
 3. Once single colonies appear (2 days up to 4 days), select approximately 24 isolated colonies (transformants) and restreak on CPG for single colonies. 
 Grow for 2 days at 28C or 3 days at RT.
-   Tip: Streaking one colony per plate is the best way to avoid mixing up colonies from different streaks. If streaking more than one colony per plate, leave a couple centimeters between streaks to avoid mixing up colonies from each streak.
-   Tip 2: Patch colonies onto both a CPG plate and CPG + Antibiotic plate to test for antibiotic sensitivity.
+    * Tip: Streaking one colony per plate is the best way to avoid mixing up colonies from different streaks. If streaking more than one colony per plate, leave a couple centimeters between streaks to avoid mixing up colonies from each streak.
+    * Tip 2: Patch colonies onto both a CPG plate and CPG + Antibiotic plate to test for antibiotic sensitivity.
 
-4. Grow double recombinants overnight in 1.5 ml CPG in 24-well plate (28C with shaking) and perform [colony PCR](colony_pcr.md) with 3 μl culture. 
+5. Grow double recombinants overnight in 1.5 ml CPG in 24-well plate (28C with shaking) and perform [colony PCR](colony_pcr.md) with 3 μl culture. 
     * Note: colony PCR directly from colonies on the plate tends to yield false-negatives in EPS<sup>+</sup> Ralstonia strains. 
     * Note 2: if short on time, add glycerol to the plate to create a temporary freezer stock until you have time to confirm the strains.*
 
