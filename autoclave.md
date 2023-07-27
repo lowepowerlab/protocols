@@ -14,7 +14,7 @@
 3. Place the autoclave bin into the autoclave.
    * Biohazard bags shouldn't be touching the sides of the autoclave. Biohazard bags should be loosely tied so that steam can escape. 
 4. Shut autoclave door and fully secure.
-   * 106 Robbins autoclave doesn't seal perfectly unless you babysit it. You must hold the door up after starting the cycle until the cycle started & the door seals (~1 min)
+   * 106 Robbins autoclave doesn't seal perfectly unless you babysit it. You must hold the door up after starting the cycle until the cycle started & the door seals (~1 min). This is also the case for the Steris autoclave on the 2nd floor of Hutchison hall. The Castle autoclave has the ability for users to change the temperature. PLEASE MAKE SURE THE TEMPERATURE IS NOT CHANGES FROM 121 DEGREES CELCIUS.
 5. Select the proper protocol from the menu.
    <img src="images/autoclave_106_robbins.jpeg" height="200">
    * Liquid =< 2 L = **Cycle 1**
