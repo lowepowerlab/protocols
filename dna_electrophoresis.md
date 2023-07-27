@@ -7,7 +7,9 @@
 * Modifications:
     * Use 1x LAB buffer instead of TAE or TBE buffer. We have a stock of 25x LAB buffer.  Dilute this 1:25 to yield a 1x solution (40 ml of 25X solution into 960 ml diH2O).  If buffer is transfered to a sealed container between gel runs, we can re-use the buffer many times. 
     * Always prepare agarose gels with un-used 1x LAB buffer. 
-    * Prepare 0.8% agarose gels for standard applications (1.0 kb to 5 kb). If looking for larger or smaller fragments, adjust agarose concentration lower or higher. 
+    * Prepare 0.8% agarose gels for standard applications (1.0 kb to 5 kb). If looking for larger or smaller fragments, adjust agarose concentration lower or higher.
+       * Note: Lower concentrations of agarose are useful for adding defintion to larger bands. An example of this can be found [here](https://openwetware.org/wiki/BE.109:DNA_engineering/Agarose_gel_electrophoresis).
+  
     * Add 2-3 ul of ethidium bromide solution to a 100 ml gel. Don't add extra EtBr to the running buffer. 
     * Use 1 Kb Plus DNA ladder
     * Always add DNA to a loading buffer before loading into a gel. (xxxNot sure what we'll use, but Ficoll based buffers apparently result in cleaner bands than glycerol based loading buffers)
