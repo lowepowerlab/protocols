@@ -10,30 +10,31 @@ If properly prepared and stored in -80, cells should be viable for over 6 months
 2.	Add 50 ul of the overnight culture to 100 ml CPG in 250 ml flask. 
 *Note: If performed around 5pm, the culture will be mid-log (OD 0.5 to 0.7) by 9 to 10am the following day. 
 Make sure you have 10% glycerol in the 4 °C fridge for the next morning.*
+**_Second note:_ For GMI1000, PSI07, and IBSBF1503, diluting your overnight cultures to an OD600 of 0.02, adding 1 mL of this suspension into 100 mL of CPG broth, and incubating (28c, 250 rpm) this culture around 5pm results in an OD of about 0.3 (the range was .29-.34) at 9am the next morning*
 
-3.	Shake at 28°C and 250 rpm until the culture reach mid-log (OD600 of 0.5-0.7).
+4.	Shake at 28°C and 250 rpm until the culture reach mid-log (OD600 of 0.5-0.7).
 
-4.	Place culture on ice for 10 min. 
+5.	Place culture on ice for 10 min. 
 From this point keep the cultures ice cold. 
 Pour the culture into chilled 50 ml conical tubes.
 
-5.	Centrifuge at 5000 xg (xxx rpm in xxx rotor) for 10 min. 
+6.	Centrifuge at 5000 xg (xxx rpm in xxx rotor) for 10 min. 
 Carefully pour off the supernatant and aspirate any residual broth. 
 For EPS<sup>+</sup> *Ralstonia* cells, it may not be possible to aspirate the residual broth without loss of cells. 
 If so, make sure to perform an extra 10% glycerol wash.
 
-6.	Add 10 ml of cold 10% glycerol to cell pellet & resuspend the cells by pipetting up and down. 
+7.	Add 10 ml of cold 10% glycerol to cell pellet & resuspend the cells by pipetting up and down. 
 To pool the pellets between tubes, use this glycerol cell suspension to resuspend the second pellet. 
 Transfer to 15 ml tube.
 
-7.	Centrifuge at 5000 xg for 10 min.
+8.	Centrifuge at 5000 xg for 10 min.
 
-8.	Pour off the supernatant. 
+9.	Pour off the supernatant. 
 Resuspend the cells in 6 ml glycerol and re-centrifuge.
 
-9.	Remove supernatant by pipetting (EPS+ Ralstonia strains will have a loose pellet) and suspend the cells in the residual glycerol by pipetting up and down. 
+10.	Remove supernatant by pipetting (EPS+ Ralstonia strains will have a loose pellet) and suspend the cells in the residual glycerol by pipetting up and down. 
 
-10.	Cells can aliquoted and saved in -80 or used immediately for electroporation. 
+11.	Cells can aliquoted and saved in -80 or used immediately for electroporation. 
 To freeze, add 80 ul of the culture to 1.5 ml tubes on wet ice. 
 Once aliquoted, transfer the tubes to dry ice for ~10 minutes before transfer them to a -80°C freezer. 
 The cultures should be good for >6 months. 
