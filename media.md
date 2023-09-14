@@ -57,6 +57,15 @@ For solid CPG media, always add 1 ml 1% TZC per 500 ml media after media is auto
 |             10 g | NaCl                   |
 | to 1000 ml total | with dI H<sub>2</sub>O |
 
+## NYGA
+
+|           Amount per L | Reagent                |
+|-----------------:|:-----------------------|
+|              5 g | Peptone                |
+|              3 g | Yeast extract          |
+|            20 mL | Glycerol               |
+| to 1000 ml total | with dI H<sub>2</sub>O |
+
 # Minimal Media
 
 ## <sup>1</sup>/<sub>4</sub> M63  Medium
