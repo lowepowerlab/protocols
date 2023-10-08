@@ -65,6 +65,9 @@ Lab protocols for the Lowe-Power lab
 * [x] [PCR](workbooks/pcr_workbook.xlsx)
 * [x] [96- and 24-well microplate templates](template_plate_layouts.xlsx)
 
+### KBase and Bioinformatics
+* [Useful KBase narratives](kbase.md)
+
 ### GitHub
 
 * [x] [Best Practices for Markdown / editing protocols](markdown_best_practices.md)
