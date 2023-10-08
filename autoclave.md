@@ -14,13 +14,15 @@
 3. Place the autoclave bin into the autoclave.
    * Biohazard bags shouldn't be touching the sides of the autoclave. Biohazard bags should be loosely tied so that steam can escape. 
 4. Shut autoclave door and fully secure.
-   * 106 Robbins autoclave doesn't seal perfectly unless you babysit it. You must hold the door up after starting the cycle until the cycle started & the door seals (~1 min)
+   * 106 Robbins autoclave doesn't seal perfectly unless you babysit it. You must hold the door up after starting the cycle until the cycle started & the door seals (~1 min). This is also the case for the Steris autoclave on the 2nd floor of Hutchison hall. The Castle autoclave has the ability for users to change the temperature. PLEASE MAKE SURE THE TEMPERATURE IS NOT CHANGES FROM 121 DEGREES CELCIUS.
 5. Select the proper protocol from the menu.
    <img src="images/autoclave_106_robbins.jpeg" height="200">
    * Liquid =< 2 L = **Cycle 1**
    * Liquid =< 4 L = **Cycle 2**
    * Dry items (e.g. tips, tubes, empty glass flasks) = **Cycle 4**
-   * Autoclave trash = **Cycle 5**
+   * Autoclave trash = **Cycle 6**
+   * Autoclave liquid trash = **Cycle 3**.
+     <br> As a general rule of them, dry biohazardous trash should be autoclaved for a minimum of 2 hours at 121 degrees celsius, and liquid biohazardous trash should be autoclaved for a minimum of 1 hour. 
 6. Press "Start" to start cycle.
 7. ~~When cycle is finished, autoclave will ring~~
 8. If autoclaving liquids, take items out of autoclave
@@ -33,5 +35,5 @@
 11. If autoclaving biohazardous waste:
    * Label bag in sharpie with Lab name (TLP date ... ? <-- we need to figure this out)
    * If there is a lot of boil over, place autoclaved bag into another biohazard bag, dump the boiled over liquid into the bag as well, tie the bag closed for disposal
-   * Once the trash is cooled, bring it to the du,,,,,,,,,,,,,,,,,,
+   * Once the trash is cooled, bring it to the dumpster at the loading dock of Hutchison Hall. 
    * ~~Make sure the big black trashcan isn't too full; if it's full, take the bag out, tie it closed, label with an "OK to trash" sticker, and set the bag to the side of the trashcan~~

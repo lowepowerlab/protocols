@@ -9,6 +9,9 @@ This protocol describes the unmarked gene deletion strategy in *Ralstonia*.
 
 ## Unmarked gene deletion (sacB)
 
+### Overview of how clean deletions with sacB works
+[Video by David Baltrus](https://www.youtube.com/watch?v=kU2U5YVSVBQ&ab_channel=UAMicro428).  Note: Baltrus lab uses a slightly different vector, but the molecular mechanisms are the same. Both sacB and the kanR genes in pUFR80 work in Ralstonia. 
+
 ### Clone the knockout vector:
 
 #### Resources:
@@ -16,6 +19,7 @@ This protocol describes the unmarked gene deletion strategy in *Ralstonia*.
 * [Primer Design with PrimerBlast](primerblast.md)
 * [Plasmid Assembly with Gibson Assembly](gibson_assembly.md)
 * [Proof Checking your assembled plasmid](plasmid_proofing.md)
+* [NEB Builder Plasmid Assembly tool](https://nebuilder.neb.com/#!/) 
 
 Clone approximately 0.9-1.2 kb upstream DNA and 0.9-1.2 kb downstream DNA adjacent to each other. 
 Aim for similar sized upstream and downstream fragments so that crossovers on either flanking side are equally likely. 
@@ -34,21 +38,25 @@ The following protocol assumes a vector containing kanamycin resistance was used
 
 #### Counter-select on 5% w/v sucrose plates ###
 
+   **Note: If having issues with getting individual colonies, increase concentration to __10% w/v__ sucrose plates.* 
+
 1. Once single colonies appear (2 days up to 4 days), grow 2 Kan<sup>R</sup> colonies for ~6 hrs or overnight in CPG broth. 
     * *Optional: Create a temporary freezer stock in cheap 1.5 ml tubes in case the counter-selection fails*
+    * *Optional: Streak directly from CPG+KAN plate onto sucrose plate* 
 
-1. Wash each in 3x in CPG without antibiotic. Dilute and plate 200 μl of the 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions on CPG + 5% w/v sucrose plates. **Note -- we need to update this protocol with better advice about the dilutions. We might need to dilute further if we do the overnight incubation.**
-    * Looping out of the plasmid is a much more frequent genetic even than the original integration of the plasmid into the genome
+2. Wash each in 3x in CPG without antibiotic. Dilute and plate 200 μl of the 10<sup>-1</sup>, 10<sup>-2</sup>, 10<sup>-3</sup> dilutions on CPG + 5% w/v sucrose plates. **Note -- we need to update this protocol with better advice about the dilutions. We might need to dilute further if we do the overnight incubation.**
+    * Looping out of the plasmid is a much more frequent genetic event than the original integration of the plasmid into the genome
     * *Optional: plate the dilutions on CPG without sucrose to verify* sacB *is conferring sucrose susceptibility.*
 
-1. Once single colonies appear (2 days up to 4 days), select approximately 24 isolated colonies (transformants) and restreak on CPG for single colonies. 
-Grow for 2 days at 28C or 3 days at RT. 
-(Note that you can streak more than 1 transformant per plate as long as you end up with single colonies. 
-See image below. [image source](http://www.sci.sdsu.edu/~smaloy/Research/pdf%20files/Basic_techniques.pdf))
+3. Once single colonies appear (2 days up to 4 days), select approximately 24 isolated colonies (transformants) and restreak on CPG for single colonies. 
+Grow for 2 days at 28C or 3 days at RT.
+    * Tip: Streaking one colony per plate is the best way to avoid mixing up colonies from different streaks. If streaking more than one colony per plate, leave a couple centimeters between streaks to avoid mixing up colonies from each streak.
+    * Tip 2: Patch colonies onto both a CPG plate and CPG + Antibiotic plate to test for antibiotic sensitivity. Reference image below.
+<p align="center">
+  <img width="300" height="300" src="https://github.com/lowepowerlab/protocols/assets/108542039/b946ee9c-fc2e-48ec-841d-d05cb69cae08">
+</p>
 
-![Save plates with multiple colonies per streak](images/streak_for_single_colonies.png)
-
-1. Grow double recombinants overnight in 1.5 ml CPG in 24-well plate (28C with shaking) and perform [colony PCR](colony_pcr.md) with 3 μl culture. 
+4. Grow double recombinants overnight in 1.5 ml CPG in 24-well plate (28C with shaking) and perform [colony PCR](colony_pcr.md) with 3 μl culture. 
     * Note: colony PCR directly from colonies on the plate tends to yield false-negatives in EPS<sup>+</sup> Ralstonia strains. 
     * Note 2: if short on time, add glycerol to the plate to create a temporary freezer stock until you have time to confirm the strains.*
 

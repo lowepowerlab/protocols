@@ -69,3 +69,6 @@ For two treatments, use the Wilcoxon Rank Sum test.
 For comparisons among greater than two treatments, use the Kruskal-Wallis test with appropriate post-tests for multiple comparisons. 
 * *Recommendation*: Keep track of experiment throughout digital files with a timestamp on the inoculation day. 
 e.g 20191231 (year, month, day is sequential *in computer* and compatible for US vs. International dating norms)
+
+## Advice
+(1) After running the powerlyzer, visually inspect each tube to ensure that the tissue was homogenized.  Especially when stems are rigid (i.e. older tomatoes), they become more difficult to grind. I inspect as I move tubes from the powerlyzer to my tube-rack. As I do this, I tilt the tube so that the liquid goes from top to bottom, and I watch for plant chunkies. If there are large chunks, then I run the sample for a second homogenization.  Do be careful to not over-heat samples with repeated homogenization cycles.  The moving beads = kinetic energy = heat generation.  It might kill Ralstonia if it rises too high (i.e. probably above 50C if I recall...)

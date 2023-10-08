@@ -27,4 +27,8 @@ Generally, try to be organized. For example, if we were a lab that researches th
 
 What to do with old projects: Feel free to Archive any project that fizzles before it starts.  If any project has strains (E. coli or Ralstonia) that end up in the strain list, don’t archive them.  When they are complete or stalled indefinitely, add a “z-“ to the beginning of the name so it’s alphabetically at the bottom. 😊  For example, if we realize we could never make a dent in the T3SS Ralstonia world, we could rename that Project "z-T3SS"
 
+## Searching tips
+
+If you are using the search bar under the "Projects" tab, the search results will be limited and you may not be able to find old files (i.e., our common lab vectors aren't easily searchable under the "Projects" tab). The "Search" tab has more encompassing results for everything with the lab's Benchling organization.
+
 ![Star benchling projects](images/benchling_tip1.png)

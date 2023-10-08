@@ -1,3 +1,5 @@
+To open protocols as a printer-friendly format, go to <http://lowepowerlab.ucdavis.edu/protocols/>
+
 # Protocols
 
 Lab protocols for the Lowe-Power lab
@@ -6,7 +8,6 @@ Lab protocols for the Lowe-Power lab
 **Important information** for all full-timers!
 * [Chemical Management](chemical_management.md)
 * [Purchasing](purchasing.md)
-* [Misc. Lab Management](lab_management.md)
 * [What to do if the building loses electricity](power_outage.md)
 
 **Undergrad Relevant Information**
@@ -14,6 +15,11 @@ Lab protocols for the Lowe-Power lab
 * [Shelf stocking](shelf_stocking.md)
 * [Autoclave](autoclave.md)
 
+### Familiarize Yourself with Common Lab Terms
+
+[Lowe-Power Lab Glossary](https://docs.google.com/document/d/19AsPkU6nHJzNodnoK5z-z4G0OHRLERk6mvZZazWm8Hs/edit?usp=sharing)
+
+This link gives access for viewing and leaving comments if you have questions or want to suggest changes.
 
 ### Molecular Biology
 
@@ -25,6 +31,9 @@ Lab protocols for the Lowe-Power lab
 * [x] [Gibson assembly](gibson_assembly.md)
 * [x] [Colony PCR](colony_pcr.md)
 * [x] [Sanger Sequencing](sanger.md)
+
+In addition to our lab protocols, here are resources that are very useful:
+* [x] [A Primer on Cloning in E. coli](https://sites.wustl.edu/nonetlab/files/2018/07/How-to-clone-ref-v1-2.pdf) by Michael Nonet at Wash U
 
 ### Microbiology
 
@@ -78,3 +87,7 @@ Lab protocols for the Lowe-Power lab
 This repo is inspired by [Mark Mandel's lab protocol repo](https://github.com/mjmlab/protocols). What a gem. Additional labs with great protocol repositories are [Barrick lab](http://barricklab.org/twiki/bin/view/Lab/ProtocolList), ..
 
 I also *highly* recommend using the AddGene website as a resource on molecular biology.  http://www.addgene.org/mol-bio-reference/
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+![visitor badge](https://vbr.wocr.tk/badge?page_id=lowepowerlab.protocols)

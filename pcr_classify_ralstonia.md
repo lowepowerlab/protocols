@@ -26,13 +26,13 @@ Detects a region present in most *R. solanacearum, R. pseudosolanacearum, R. syz
 
 **Citation**: Fegan, M, and P. Prior 2005. How complex is the R. solanacearum species complex? In: Bacterial Wilt: The Disease and the Ralstonia solanacearum species complex (C. Allen, P. Prior, and A.C. Hayward, editors). APS Press, St Paul.
 
-| Primer Name |  Sequence (5' to 3')    | Phylo specificity | Band size (bp)* |
-|:-----------:|:------------------------|:-----------------:|:---------| 
-| Nmult21:1F  | CGTTGATGAGGCGCGCAATTT   | I                 | 144      |
-| Nmult21:2F  | AAGTTATGGACGGTGGAAGTC   | II                | 372      |
-| ßNmult23:AF | ATTACSAGAGCAATCGAAAGATT | III               | 91       |
-| Nmult22:InF | ATTGCCAAGACGAGAGAAGTA   | IV                | 213      |
-| Nmult22:RR  | TCGCTTGACCCTATAACGAGTA  | all               | N/A      |
+|Common Primers (CP) Name| Primer Name |  Sequence (5' to 3')    | Phylo specificity | Band size (bp)* |
+|:-----------------------|:-----------:|:------------------------|:-----------------:|:----------------| 
+|CP1                     | Nmult21:1F  | CGTTGATGAGGCGCGCAATTT   | I                 | 144             |
+|CP2                     | Nmult21:2F  | AAGTTATGGACGGTGGAAGTC   | II                | 372             |
+|CP3                     | ßNmult23:AF | ATTACSAGAGCAATCGAAAGATT | III               | 91              |
+|CP4                     | Nmult22:InF | ATTGCCAAGACGAGAGAAGTA   | IV                | 213             |
+|CP5                     | Nmult22:RR  | TCGCTTGACCCTATAACGAGTA  | all               | N/A             |
 
 
 #### PCR conditions
@@ -69,7 +69,24 @@ Expected results:
 * Resolve on **2%** agarose gel
 * **If reaction is positive, notify Tiffany Lowe-Power immediately.**
 
-## 4. Determine Sequevar of an Isolate
+## 4. Multiplex PCR to Identify Ralstonia Species and Phylotype IIB1
+
+Citation: “RSSC-Lineage Multiplex PCR” assay detects and differentiates Ralstonia solanacearum, R. pseudosolanacearum, R. syzygii and the R3bv2 subgroup, Sujan Paudel, 2022, https://doi.org/10.21203/rs.3.rs-1693987/v1
+
+|Common Primers (CP) Name|Primer Name|Sequence (5' to 3')|Species Specificity|Band size (bp)*|
+|:-----------------------|:----------|:------------------|:------------------|:--------------|
+|CP6|RssC-wF3|TATATATCCTCGACTTTTCCATGAAGCTGTG|Ralstonia solanacearum species complex (F)|162|
+|CP7|RssCwR3|CTATATATATACCCCACTTGTTGAGGAACTG|Ralstonia solanacearum species complex (R)|162|
+|CP8|Rpseu-wF5|TTTTATTTTTTTGGTGTCCGGGCCAAGATAG|R. pseudosolanacearum (Phylotype I and III) (F)|251|
+|CP9|Rpseu-wR5|TTATATTACTCGAACGTGCTGCAAAACCACT|R. pseudosolanacearum (Phylotype I and III) (R)|251|
+|CP10|RsolP2wF2|ATTCTATTTATATCATGAGCGTTCCCCGACT|R. solanacearum (Phylotype II) (F)|478|
+|CP11|RsolP2wR2|TTTTTTTTTTTGAGGTAGCTGCTGGGGTTC|R. solanacearum (Phylotype II) (R)|478|
+|CP12|RsyzP4wF4|TTTCTTTTATTATAGTGTCGCGTCCGAACAG|R. syzygii (Phylotype IV) (F)|664|
+|CP13|RsyzP4wR4|TTTTTCTTTTTCGGTCTCTCCGTCTATCGTT|R. syzygii (Phylotype IV) (R)|664|
+|CP14|RsR3B2wF|TTTCATTACTCATGACTGCAGAAACGCTTGA|Race 3 biovar 2 (II-R3bv2)(F)|954|
+|CP15|RsR3B2wR|TATACATAACTATAGTTCGCCGTGCTCATCT|Race 3 biovar 2 (II-R3bv2) (R)|954|
+
+## 5. Determine Sequevar of an Isolate
 *This can be updated with more specific details*
 
 The sequevar system is a DNA based taxonomic system of plant pathogenic *Ralstonia*. The system is based on DNA sequence alignments of a 750 bp region of the *egl* endoglucanase gene. 

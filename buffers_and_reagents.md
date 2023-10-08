@@ -71,6 +71,22 @@ Stir on magnetic stir plate until dissolved.
 Aliquot into 50 ml conicals, and place on Buffers/Media shelf. 
 *Note: Everyone should keep a vial for personal use.* 
 
+## Potassium phosphate buffer, 0.1 M, pH 7.0
+This buffer has an effective buffering range from a pH of 5.8 to 8.0. This buffer is used to dissolve catalase, as suggested by SigmaAldrich. 
+
+In a 1 liter graduated cylinder add: 
+| Amount  | Reagent                       |
+|--------:|:------------------------------|
+| 9.343 g | Potassium phosphate dibasic   |
+| 6.309 g | Potassium phosphate monobasic |
+
+Add 800 mL of deionized water. 
+Mix until the reagents are fully dissolved
+Bring the volume up to 1 liter.
+Check the pH of the solution and adjust the pH to 7 if needed. 
+
+Autoclave or filter with a 0.2 micron filter to sterilize. 
+
 # Common Reagents
 
 ## Glycerol (50% v/v)
