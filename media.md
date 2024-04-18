@@ -134,7 +134,7 @@ Dilute the 2x minimal media solution to 1x using sterilze DI water and add the 1
 
 Growth curve data for this minimal media recipe can be seen below. Wild-type _R. pseudosolanacearum_ GMI1000 was the strain grown.
 
-<img src="images/Minimal media testing2.tif" width="300">
+<img src="images/Minimal_media_testing.png" width="300">
 
 
 # Specialized Media
