@@ -73,44 +73,52 @@ Also referred to as 'BMM / Boucher's Minimal Medium' after the researcher who de
 
 *Note*: This medium has a low-buffering capacity so depending on final pH of medium, Tris or MES can be added (10 mM final concentration). 
 
-Prepare:
+This recipe has been updated as of 04/18/2024 based on an improved recipe developed by Remi Peyraud. In particular, our recipe now includes the addition of an trace elements solution that is added to the standard BMM recipe. 
 
-|     Amount per L | Reagent                                   |
-|-----------------:|:------------------------------------------|
-|            3.4 g | KH<sub>2</sub>PO<sub>4</sub>              |
-|            0.5 g | (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>|
-|         see note | with dI H<sub>2</sub>O                    |
+To prepare one liter of **2x concentration minimal media** (aka <sup>1</sup>/<sub>2</sub> M63):
 
-First dissolve components in ~700 ml dI H<sub>2</sub>O. 
-Then adjust pH to 7.0 with 5 N KOH (*Ralstonia* is Na-sensitive). 
-Then bring up to 1000 ml. 
-Dispense 100 ml into bottles. 
-Autoclave. 
+1.) Prepare separate stock solutions:
+   -Dissolve 2.5 g of (NH<sub>4</sub>)2SO<sub>4</sub> (ammonium sulfate) in 50 mL of water
+   -Dissolve 0.5 g of MgSO<sub>4</sub>, 7H<sub>2</sub>O (magnesium sulfate heptahydrate) in 50 mL of water
+   -Dissove 0.125 g FeSO<sub>4</sub>, 7H<sub>2</sub>O (Iron (II) sulfate heptahydrate) in 50 mL of water
+2.) Prepare a potassium sulfate base solution by dissolving 6.8 g of KH<sub>2</sub>PO<sub>4</sub> in 800mL of water
+3.) Add the portions of the stock solutions to the potassium sulfate solution (volumes to add below)
 
-Then add the following sterile solutions (**per 100 ml**)
+| Chemical solution | Volume to add |
+|------------------:|:--------------|
+| Ammonium sulfate  | 20 mL         |
+| Magnesium sulfate | 10 mL         |
+| Iron (II) sulfate | 0.1 mL        |
 
-|Amount per 100 ml | Reagent                             |
-|---------:|:--------------------------------------------|
-|    10 ul | 1.25 mg/ml FeSO<sub>4</sub>·7H<sub>2</sub>O |
-|   51.7 ul | 1 M MgSO<sub>4</sub>                        |
+4.) Bring the total volume of the combined mineral solution up to 1 L.
+5.) Adjust the pH of the solution to 6.5-7 using 10 M KOH (potassium hydroxide)
+6.) Filter using a 0.22 micron-sized porous filter. **DO NOT AUTOCLAVE to sterilize**, this will change the pH and precipitate out some of the chemicals in the solution. This is the standard 2x concentration minimal media recipe without the addition of Remi's added trace elements solution. 
 
-Add carbon source at 10 mM final (e.g. 10 ml of sterile 1 M stock per L )
+To prepare a 1000x trace element solution:
 
-#### 1.25 mg / ml FeSO<sub>4</sub>·7H<sub>2</sub>O solution 
+1.) Prepare an iron solution. The recipe for this solution is below, combine the chemicals in the order they are listed.
 
-    * Prepare 10 mls at a time:
-        * 12.5 mg into 10 ml dI H<sub>2</sub>O  
-        * Filter-sterilize (0.22 um syringe filters)
-    * Aliquot < 1.4 ml into 1.5 ml tubes
-    * Store at -20 C.
-    * Only open in laminar flow hood
+| **Amount per 100 mL** | **Reagent**                         |
+|----------------------:|:------------------------------------|
+|                1.25 g | FeSO<sub>4</sub>, 7H<sub>2</sub>O   |
+|                12.5 g | Na<sub>2</sub>EDTA, 2H<sub>2</sub>O |
+2.) Adjust the pH with 10 M KOH of the iron solution until all of EDTA has dissolved. The solution should be golden yellow and the pH will likely be around 8.
+3.) Prepare an incomplete trace element solution. The recipe is below, combine the chemicals in the order they are listed.
+| **Amount per 100 mL** | **Reagent**                                                               |
+|----------------------:|:--------------------------------------------------------------------------|
+|                5.50 g | ZnSO<sub>4</sub>, 7H<sub>2</sub>O                                         |
+|                2.85 g | H<sub>3</sub>BO<sub>3</sub>                                               |
+|                1.26 g | MnCl<sub>2</sub>, 4H<sub>2</sub>O                                         |
+|                0.40 g | CoCl<sub>2</sub>, 6H<sub>2</sub>O                                         |
+|                0.39 g | CuSO<sub>4</sub>, 5H<sub>2</sub>O                                         |
+|                0.28 g | (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>, 4H<sub>2</sub>O |
+4.) Combine the Iron solution with the incomplete trace element solution. 
+5.) Adjust the pH of the solution to 6.5 using 10 N KOH.
+6.) Bring up the volume of the solution to a final volume of 250 mL.
+7.) Filter using a 0.22 micron-sized porous filter. **DO NOT AUTOCLAVE to sterilize**, this will change the pH and precipitate out some of the chemicals in the solution. This is the standard 2x concentration minimal media recipe without the addition of Remi's added trace elements solution. 
 
-#### 1 M MgSO<sub>4</sub> 
-    * MW (MgSO<sub>4</sub>): 120.36 g/mol 
-    * Weigh **6.018 g**
-    * Dissolve in dI H<sub>2</sub>O up to 50 mls
-    * Autoclave to sterilize
-    * Only open in laminar flow hood
+This complete trace element solution will initially be bright green, however it will slowly turn purple in storage. **Store at 4 degrees celsius**
+
 
 # Specialized Media
 
