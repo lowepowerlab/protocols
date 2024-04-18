@@ -159,7 +159,7 @@ Kapa HiFi with the GC buffer is very effective at amplifying the high GC (>65% a
   * If the PCR has nonspecific bands, decide whether to run the remaining reaction on a gel & gel extract it (Zymo Gel extraction kit) or optimize the PCR rxn.
 
 ### Gibson assembly
-Upon receipt of a new mix, aliquot it into 1.5 ml tubes labeled "2x Assembly mix". 
+Upon receipt of a new mix, aliquot it into 1.5 ml tubes labeled "2x Assembly mix". Check the manufacturer's website for their particular procotol. Our lab commonly use the New England Biolabs Gibson Assembly Master Mix. 
 
 * Quantify plasmid DNA on nanodrop. 
   * If using PCR products straight from a reaction mixture, you can't quantify them because of dTNPs. 
