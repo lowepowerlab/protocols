@@ -130,6 +130,8 @@ To prepare a 1000x trace element solution:
 
 This complete trace element solution will initially be bright green, however it will slowly turn purple in storage. **Store at 4 degrees celsius**
 
+Dilute the 2x minimal media solution to 1x using sterilze DI water and add the 1000x to the 1x minimal media so that it is diluted to a final concentration of 1x. 
+
 
 # Specialized Media
 
