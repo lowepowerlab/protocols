@@ -81,7 +81,9 @@ To prepare one liter of **2x concentration minimal media** (aka <sup>1</sup>/<su
    -Dissolve 2.5 g of (NH<sub>4</sub>)2SO<sub>4</sub> (ammonium sulfate) in 50 mL of water
    -Dissolve 0.5 g of MgSO<sub>4</sub>, 7H<sub>2</sub>O (magnesium sulfate heptahydrate) in 50 mL of water
    -Dissove 0.125 g FeSO<sub>4</sub>, 7H<sub>2</sub>O (Iron (II) sulfate heptahydrate) in 50 mL of water
+   
 2.) Prepare a potassium sulfate base solution by dissolving 6.8 g of KH<sub>2</sub>PO<sub>4</sub> in 800mL of water
+
 3.) Add the portions of the stock solutions to the potassium sulfate solution (volumes to add below)
 
 | Chemical solution | Volume to add |
@@ -91,7 +93,9 @@ To prepare one liter of **2x concentration minimal media** (aka <sup>1</sup>/<su
 | Iron (II) sulfate | 0.1 mL        |
 
 4.) Bring the total volume of the combined mineral solution up to 1 L.
+
 5.) Adjust the pH of the solution to 6.5-7 using 10 M KOH (potassium hydroxide)
+
 6.) Filter using a 0.22 micron-sized porous filter. **DO NOT AUTOCLAVE to sterilize**, this will change the pH and precipitate out some of the chemicals in the solution. This is the standard 2x concentration minimal media recipe without the addition of Remi's added trace elements solution. 
 
 To prepare a 1000x trace element solution:
@@ -102,8 +106,11 @@ To prepare a 1000x trace element solution:
 |----------------------:|:------------------------------------|
 |                1.25 g | FeSO<sub>4</sub>, 7H<sub>2</sub>O   |
 |                12.5 g | Na<sub>2</sub>EDTA, 2H<sub>2</sub>O |
+
 2.) Adjust the pH with 10 M KOH of the iron solution until all of EDTA has dissolved. The solution should be golden yellow and the pH will likely be around 8.
+
 3.) Prepare an incomplete trace element solution. The recipe is below, combine the chemicals in the order they are listed.
+
 | **Amount per 100 mL** | **Reagent**                                                               |
 |----------------------:|:--------------------------------------------------------------------------|
 |                5.50 g | ZnSO<sub>4</sub>, 7H<sub>2</sub>O                                         |
@@ -112,9 +119,13 @@ To prepare a 1000x trace element solution:
 |                0.40 g | CoCl<sub>2</sub>, 6H<sub>2</sub>O                                         |
 |                0.39 g | CuSO<sub>4</sub>, 5H<sub>2</sub>O                                         |
 |                0.28 g | (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>, 4H<sub>2</sub>O |
+
 4.) Combine the Iron solution with the incomplete trace element solution. 
+
 5.) Adjust the pH of the solution to 6.5 using 10 N KOH.
+
 6.) Bring up the volume of the solution to a final volume of 250 mL.
+
 7.) Filter using a 0.22 micron-sized porous filter. **DO NOT AUTOCLAVE to sterilize**, this will change the pH and precipitate out some of the chemicals in the solution. This is the standard 2x concentration minimal media recipe without the addition of Remi's added trace elements solution. 
 
 This complete trace element solution will initially be bright green, however it will slowly turn purple in storage. **Store at 4 degrees celsius**
