@@ -132,6 +132,10 @@ This complete trace element solution will initially be bright green, however it 
 
 Dilute the 2x minimal media solution to 1x using sterilze DI water and add the 1000x to the 1x minimal media so that it is diluted to a final concentration of 1x. 
 
+Growth curve data for this minimal media recipe can be seen below. Wild-type _R. pseudosolanacearum_ GMI1000 was the strain grown.
+
+
+
 
 # Specialized Media
 
