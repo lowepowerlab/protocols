@@ -2,7 +2,7 @@
 
 **Writing/editing credits:** Tiffany Lowe-Power
 
-This protocol describes the unmarked gene deletion strategy in *Ralstonia*. 
+This protocol describes the unmarked gene deletion strategy in *Ralstonia*. If you are making a marked deletion (e.g. replacing a gene with a GmR marker), pUFR80 is not the best choice. 
 **Unmarked gene deletion** involves 
 1. a **negative selection** where antibiotic selection drives a vector to integrate into the genome next to the gene-of-interest followed by a 
 1. **positive selection** where sucrose sensitivity (conferred by SacB levanosucrase expressed from the vector backbone) drives the vector to recombine out of the genome resulting in ~50% wildtype and 50% knockout genotype clones that must be genotyped by (colony) PCR
