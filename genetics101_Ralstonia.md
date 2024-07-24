@@ -32,7 +32,7 @@ What should I consider before transforming Ralstonia with my pST-Blue construct?
 
 * a **positive selection marker (sacB)** where sucrose sensitivity (conferred by SacB levanosucrase expressed from the vector backbone) 
 
-What sort of DNA inserts should you clone into pUFR80?
+What sort of DNA inserts should you clone into pST-Blue?
 * Yes: Upstream and downstream regions (~800-1000 bp) of a gene to be deleted. 
 * No: constructs to replace a gene with Kan resistance. Since KanR is in the backbone, you should use a different plasmid to make a KanR mutation. 
 
