@@ -27,7 +27,7 @@ This plasmid is used for creating marked deletion mutations via allelic exchange
 * small, high copy number plasmid. 
 * Kan and Amp resistance in the backbone. Recommended to just use Kan to maintain the plasmid in E. coli. 
 
-What should I consider before transforming Ralstonia with my pUFR80 construct?
+What should I consider before transforming Ralstonia with my pST-Blue construct?
 * DO linearize the plasmid *backbone*. Linear plasmid increases the success of the double homologous recombination event that will yield a KO. 
 
 * a **positive selection marker (sacB)** where sucrose sensitivity (conferred by SacB levanosucrase expressed from the vector backbone) 
