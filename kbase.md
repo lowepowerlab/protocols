@@ -1,7 +1,12 @@
 
 # Genome sets for comparative genomics
+
+Tiffany created a tutorial powerpoint to provide advice on setting up a KBase narrative for Ralstonia phylogenomics including insight into the quality control. It's a guide for making additional phylogenomics narratives if you want to. **[Download the tutorial .pptx from this github page](https://github.com/lowepowerlab/protocols/blob/main/resources/KBase_tips_Ralstonia.pptx).** Download button is the ↓ arrow towards the right of the page.
+
 ## Narrative: RSSC Phylogenomics
-Tiffany maintains this narrative with all of the publicly available RSSC genomes.  
+The Lowe-Power lab maintains this narrative with all of the publicly available RSSC genomes.  
+
+Contributors: Tiffany Lowe-Power, Vienna Elmgreen
 
 [https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)
 
