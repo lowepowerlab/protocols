@@ -55,3 +55,7 @@ What sort of things is pMiniTn7 useful for
 
 ### pBBR1 origins make Ralstonia sick
 This is a broad-host range replicative plasmid family. It will replicate in Ralstonia (meaning it is NOT a suicide plasmid). Unfortunately it also often yields Ralstonia colonies that look sickly. Tiffany has tried multiple versions of pBBR1-origin plasmids. pUFJ10 is a common pBBR1 origin plasmid that has been used in some Ralstonia strains successfully, but I don't recommend it. 
+
+
+### pVS1 origins
+These are broad host range replicative plasmids and will replicate in Ralstonia. The lab has empty pSW002 and pSW003 plasmids with pVS1 origins, as well as versions of pSW002 and pSW003 that consitutively express fluorescent proteins.
