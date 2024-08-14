@@ -58,4 +58,4 @@ This is a broad-host range replicative plasmid family. It will replicate in Rals
 
 
 ### pVS1 origins
-These are broad host range replicative plasmids and will replicate in Ralstonia. The lab has empty pSW002 and pSW003 plasmids with pVS1 origins, as well as versions of pSW002 and pSW003 that consitutively express fluorescent proteins.
+These are broad host range replicative plasmids and will replicate in Ralstonia. The lab has empty pSW002 and pSW003 plasmids with pVS1 origins, as well as versions of pSW002 and pSW003 that constitutively express fluorescent proteins.
