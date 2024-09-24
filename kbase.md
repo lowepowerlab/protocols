@@ -9,6 +9,7 @@ The Lowe-Power lab maintains this narrative with all of the publicly available R
 Contributors: Tiffany Lowe-Power, Vienna Elmgreen
 
 Version 2: 600-700 genomes [https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849) 
+
 Original version (don't use; keep for Legacy) [https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)
 
 Useful genome sets:
