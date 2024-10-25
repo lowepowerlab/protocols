@@ -84,7 +84,7 @@ To prepare one liter of **2x concentration minimal media** (aka <sup>1</sup>/<su
    
 2.) Prepare a potassium phosphate base solution by dissolving 6.8 g of KH<sub>2</sub>PO<sub>4</sub> in 800mL of water
 
-3.) Add the portions of the stock solutions to the potassium sulfate solution (volumes to add below)
+3.) Add the portions of the stock solutions to the potassium phosphate solution (volumes to add below)
 
 | Chemical solution | Volume to add |
 |------------------:|:--------------|
