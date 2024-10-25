@@ -8,7 +8,9 @@ The Lowe-Power lab maintains this narrative with all of the publicly available R
 
 Contributors: Tiffany Lowe-Power, Vienna Elmgreen
 
-[https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)
+Version 2: 600-700 genomes [https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849) 
+
+Original version (don't use; keep for Legacy) [https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)
 
 Useful genome sets:
 *	RSSC_for_phylogenomics_IncludesBadQualityGenomes.genomeSet 
@@ -27,7 +29,7 @@ Useful genome set:
 ## Narrative: Other Ralstonia phylogenomics
 Tiffany maintains this narrative with all of the publicly available Ralstonia genomes that are not RSSC.
 
-[https://narrative.kbase.us/narrative/127696](https://narrative.kbase.us/narrative/127696)
+[https://narrative.akbase.us/narrative/189428](https://narrative.akbase.us/narrative/189428)
 
 ## Narrative: Cupriavidus phylogenomics
 Tiffany maintains this narrative with all of the publicly available Cupriavidus genus genomes.
