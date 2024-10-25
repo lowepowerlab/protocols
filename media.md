@@ -82,7 +82,7 @@ To prepare one liter of **2x concentration minimal media** (aka <sup>1</sup>/<su
    -Dissolve 0.5 g of MgSO<sub>4</sub>, 7H<sub>2</sub>O (magnesium sulfate heptahydrate) in 50 mL of water
    -Dissove 0.125 g FeSO<sub>4</sub>, 7H<sub>2</sub>O (Iron (II) sulfate heptahydrate) in 50 mL of water
    
-2.) Prepare a potassium sulfate base solution by dissolving 6.8 g of KH<sub>2</sub>PO<sub>4</sub> in 800mL of water
+2.) Prepare a potassium phosphate base solution by dissolving 6.8 g of KH<sub>2</sub>PO<sub>4</sub> in 800mL of water
 
 3.) Add the portions of the stock solutions to the potassium sulfate solution (volumes to add below)
 
