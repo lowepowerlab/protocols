@@ -87,6 +87,27 @@ Check the pH of the solution and adjust the pH to 7 if needed.
 
 Autoclave or filter with a 0.2 micron filter to sterilize. 
 
+## 10X Phosphate buffered saline (PBS) solution, pH 7.2
+
+| Amount  | Reagent                                |
+|--------:|:---------------------------------------|
+|   80 g  | Sodium chloride (NaCl)                 |
+|    2 g  | Potassium chloride (KCl)               |
+|  2.4 g  | Monobasic potassium phosphate (KH2PO4) |
+| 14.4 g  | Dibasic sodium phosphate (Na2HPO4)     |
+
+Note: 14.4g of Na2HPO4 can be replaced with 28.18g of Na2HPO4*7H20  
+
+Add 800 mL of deinoized water.
+Mix until the reagents are fully dissolved.
+Adjust pH to 7.2 (or 7.4, if required).
+Bring the volume up to 1 liter.
+
+Dilute 10X PBS to 1X with deinoized water 
+(E.g. Add 100 mL of 10X PBS to 900 mL of deionized water)
+
+Autoclave for sterilization
+
 # Common Reagents
 
 ## Glycerol (50% v/v)
