@@ -6,7 +6,7 @@
   * 75 mM CaCl<sub>2</sub>
   * 6 mM MgCl<sub>2</sub>
   * 15% glycerol
-* Super Optimal Broth for *Ralstonia* (ROB)
+* Super Optimal Broth for *Ralstonia* (ROB), **filter sterilize**
   * 1 g Casamino acids
   * 15 g Bacto-Peptone
   * 1 g Yeast extract
