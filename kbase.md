@@ -14,7 +14,7 @@ Version with only the **genomes of strains in Lowe-Power lab strain collection:*
 
 *Original version (don't use; keep for Legacy) [https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)*
 
-Useful genome sets:
+**Useful genome sets:**
 *	RSSC_for_phylogenomics_IncludesBadQualityGenomes.genomeSet 
     * **Purpose:** place new genomes into a phylogenetic tree with all sequenced RSSC. The “Bad Quality” genomes are ones that are non-ideal for functional genomics analyses. 
 *	RSSC_highQuality_v2023-06-24.genomeSet
