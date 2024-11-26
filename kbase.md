@@ -8,9 +8,11 @@ The Lowe-Power lab maintains this narrative with all of the publicly available R
 
 Contributors: Tiffany Lowe-Power, Vienna Elmgreen
 
-Version 2: 600-700 genomes [https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849) 
+**Version 2: 600-700 genomes [https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849) **
 
-Original version (don't use; keep for Legacy) [https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)
+Version with only the **genomes of strains in Lowe-Power lab strain collection:** [https://narrative.kbase.us/narrative/199187](https://narrative.kbase.us/narrative/199187)
+
+*Original version (don't use; keep for Legacy) [https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)*
 
 Useful genome sets:
 *	RSSC_for_phylogenomics_IncludesBadQualityGenomes.genomeSet 
