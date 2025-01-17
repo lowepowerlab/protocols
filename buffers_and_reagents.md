@@ -175,7 +175,7 @@ Add 100 μl to agar plates for β-galactosidase assays.
 The most uniform distribution in an agar plate is accomplished by adding Xgal to the liquid agar after the media has been autoclaved and can be touched (~60 °C), then mix well prior to plating. 
 Alternately, if Xgal is spread on a plate directly, pipet onto multiple foci and use 10 glass beads to distribute it rapidly before it sets into local areas of the plate.
 
-## DAP (300 mM, 1000x)
+## DAP (100mg/mL)
 
 `2,6 diaminopimelic acid`
 MW = 190.19
