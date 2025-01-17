@@ -184,6 +184,7 @@ MW = 190.19
 |-------:|:-----------------|
 |   4 g  | DAP              |
 |  40 ml | 1M NaOH          |
+
 Concentration: 100mg/mL 
 
 Prepare in 50 ml tube
