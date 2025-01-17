@@ -187,7 +187,7 @@ MW = 190.19
 
 Concentration: 100mg/mL 
 
-Prepare in 50 ml tube
+Prepare in 50 ml tube.
 Dissolving may take upto a few hours and several rounds of vortexing.
 Once dissolved, use a sterile syringe to filter the DAP stock solution through 0.2 um filter.
 Aliquot filter-sterilized DAP stock solution into sterile 1.5 ml tubes.
