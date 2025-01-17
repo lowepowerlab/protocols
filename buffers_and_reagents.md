@@ -177,18 +177,28 @@ Alternately, if Xgal is spread on a plate directly, pipet onto multiple foci and
 
 ## DAP (300 mM, 1000x)
 
-`Diaminopimelic acid`
+`2,6 diaminopimelic acid`
 MW = 190.19
 
 | Amount | Reagent          |
 |-------:|:-----------------|
-|  1.14g | DAP              |
-|  20 ml | ddH<sub>2</sub>O |
+|   4 g  | DAP              |
+|  40 ml | 1M NaOH          |
+Concentration: 100mg/mL 
 
-At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. 
-Autoclave, then store at room temp.  
+Prepare in 50 ml tube
+Dissolving may take upto a few hours and several rounds of vortexing.
+Once dissolved, use a sterile syringe to filter the DAP stock solution through 0.2 um filter.
+Aliquot filter-sterilized DAP stock solution into sterile 1.5 ml tubes.
+Store at 4°C.
 
-Vortex before adding to media.  
+SPREAD 100 ul of DAP stock solution (100mg/mL) on LB plate to achieve 400 ug/mL
+
+DAP can be added to molten media 
+E.g. 400 ul of DAP stock (100mg/mL) is added to 100 mL of molten LB agar.
+
+DAP can be added to liquid meida 
+E.g. 200 ul of DAP stock (100mg/mL) is added to 100 mL of liquid LB.
 
 ## Old buffer recipes
 Retired buffers can be found at [retired buffers](retired_buffers.md) for posterity. 
