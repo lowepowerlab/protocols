@@ -23,6 +23,13 @@ CAUTION: Beware of small, round, dark red, non-mucoid colonies surrounded by red
 
 ---
 
+### Freezer stocks
+*Ralstonia* is a wimp in the freezer. With repeated freeze-thaw cycles, it gradually loses viability, even if the stock doesn't fully thaw. For this reason, it's important that each lab member has their own stock of any *Ralstonia* strains they'll be using frequently. That way, if your stock starts to die, you can make a new one starting from the lab stock.
+
+This also means that when streaking out *Ralstonia* from freezer stocks, you should have the stock tube out of the freezer for as short a time as possible. Bring your plates and sticks over by the freezer, take out the freezer stock you need (no more than ~3 at a time), do the initial streak on the plate, and get those tubes back in the freezer! You can do the subsequent streaks to spread the bacteria on the plate in the hood for sterility afterward.
+
+---
+
 ### Subculturing
 1. Check the OD of the liquid cultures.
 2. Dilute cultures to desired OD using water and a serial dilution method.
