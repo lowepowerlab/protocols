@@ -4,7 +4,7 @@
 
 This is a short guide on the common plasmids that we use. If you don't understand the jargon, try to teach it yourself and then check your knowledge with an expert. I highly drawing out your plasmid design on a white board and checking it with an expert. 
 
-### pUFR80 (https://benchling.com/s/seq-1EcihBQOL3F32gcVZQoT?m=slm-EDquvCFBqw2y6Oym205Q)
+### pUFR80 [Benchling Link](https://benchling.com/s/seq-1EcihBQOL3F32gcVZQoT?m=slm-EDquvCFBqw2y6Oym205Q)
 This plasmid is used for creating clean deletion mutations. Key elements of this plasmid include:
 * Suicide vector in Ralstonia. The oriR of this plasmid cannot replicate in Ralstonia.[xxx check this: This plasmid has an xxxx oriR, which is *E. coli* specific.]
 * a lacZ multicloning site that enables **blue/white screening** (very helpful!). 
@@ -20,7 +20,7 @@ What sort of DNA inserts should you clone into pUFR80?
 What should I consider before transforming Ralstonia with my pUFR80 construct?
 * Do NOT linearize the plasmid backbone. Circular plasmid is key to the two-step selection. 
 
-### pST-Blue (https://benchling.com/s/seq-VkuEZ844oK7l4Emsu6wk?m=slm-Vo6vME9ru9FU9NkDNCiH)
+### pST-Blue [Benchling Link](https://benchling.com/s/seq-VkuEZ844oK7l4Emsu6wk?m=slm-Vo6vME9ru9FU9NkDNCiH)
 This plasmid is used for creating marked deletion mutations via allelic exchange. Key elements of this plasmid include:
 * Suicide vector in Ralstonia. The oriR of this plasmid cannot replicate in Ralstonia.[xxx check this: This plasmid has an xxxx oriR, which is *E. coli* specific.]
 * a lacZ multicloning site that enables **blue/white screening** (very helpful!). 
@@ -36,7 +36,7 @@ What sort of DNA inserts should you clone into pST-Blue?
 * Yes: Upstream and downstream regions (~800-1000 bp) of a gene to be deleted. 
 * No: constructs to replace a gene with Kan resistance. Since KanR is in the backbone, you should use a different plasmid to make a KanR mutation. 
 
-### pMiniTn7 plasmids (https://benchling.com/s/seq-M6GRoHRzXVjjn6YfHGCJ?m=slm-cFHQLDNfptlf7DAxwLjE)
+### pMiniTn7 plasmids [Benchling Link](https://benchling.com/s/seq-M6GRoHRzXVjjn6YfHGCJ?m=slm-cFHQLDNfptlf7DAxwLjE)
 These plasmids are used for inserting genes-of-interest into a selectively neutral location on the chromosome. 
 [Read the paper on MiniTn7. Choi et al. 2006](https://www.nature.com/articles/nprot.2006.24). Chromosomal insertion has advantages -- after the initial selection and genetic confirmation, the insertion is stable, so antibiotics are not necessary to maintain the construct. There can be disadvantages: 
 
@@ -57,5 +57,6 @@ What sort of things is pMiniTn7 useful for
 This is a broad-host range replicative plasmid family. It will replicate in Ralstonia (meaning it is NOT a suicide plasmid). Unfortunately it also often yields Ralstonia colonies that look sickly. Tiffany has tried multiple versions of pBBR1-origin plasmids. pUFJ10 is a common pBBR1 origin plasmid that has been used in some Ralstonia strains successfully, but I don't recommend it. 
 
 
-### pVS1 origins (https://benchling.com/s/seq-0tJc3jKfFecAZx9RzgoE?m=slm-t6DZPGDDJci77gVUgc65, https://benchling.com/s/seq-bLgYWr1uDNjAsKGJaxVl?m=slm-zNuWqSKu2oDDYzdZHOSm, https://benchling.com/s/seq-zJSs0XSxsqFCsLVxMIhE?m=slm-7yUx5DjYqwURnymGsbPp, https://benchling.com/s/seq-FoCds1MTYxPdtdANPKat?m=slm-e809gzNIssAPQ2Xs2ExY)
+### pVS1 origins [pSW002 Link](https://benchling.com/s/seq-0tJc3jKfFecAZx9RzgoE?m=slm-t6DZPGDDJci77gVUgc65) [pSW003 Link](https://benchling.com/s/seq-bLgYWr1uDNjAsKGJaxVl?m=slm-zNuWqSKu2oDDYzdZHOSm) [pSW002-PpsbA Link](https://benchling.com/s/seq-zJSs0XSxsqFCsLVxMIhE?m=slm-7yUx5DjYqwURnymGsbPp) [pSW002-PpsbA-mTurquoise2 Link](https://benchling.com/s/seq-FoCds1MTYxPdtdANPKat?m=slm-e809gzNIssAPQ2Xs2ExY)
 These are broad host range replicative plasmids and will replicate in Ralstonia. The lab has empty pSW002 and pSW003 plasmids with pVS1 origins, as well as versions of pSW002 and pSW003 that constitutively express fluorescent proteins.
+[Read the paper on the development of the pSW00 series. Wilton et al. 2018](https://doi.org/10.3389/fpls.2017.02242)
