@@ -1,5 +1,45 @@
 # Chemically Competent *Ralstonia*
 *Written by: Tabitha Cowell*
+## Version 2
+### Reagents
+* 100 mM CaCl<sub>2</sub>
+* Transformation Salts with Glycerol (TG salt solution)
+  * 75 mM CaCl<sub>2</sub>
+  * 6 mM MgCl<sub>2</sub>
+  * 15% glycerol
+
+### Procedure (for single transformation)
+1. Growth
+    1. Streak out Ralstonia strain on CPG+TZC agar and incubate at 28°C for two days or room temperature for three to four days.
+    2. Select a single colony and add to 5 mL CPG broth and incubate overnight in shaker incubator at 250 rpm and 28°C.
+2. Preparation
+    1. Perform all steps on ice except for centrifugations.
+    2. Incubate subculture on ice for 10 min.
+    3. Add 1 mL subculture to a chilled 1.5 mL microcentrifuge tube.
+    4. Centrifuge for 30 sec at 13,000 xg and pipet off supernatant.
+    5. Resuspend pellet in 1 mL cold 100 mM CaCl<sub>2</sub>.
+    6. Incubate on ice for 20 min.
+    7. Centrifuge for 30 sec at 13,000 xg and pipet off supernatant.
+    8. Resuspend pellet in 1 mL cold TG salt solution.
+    9. Incubate on ice for 15 min.
+    10. Centrifuge for 30 sec at 13,000 xg and pipet off supernatant.
+    11. Resuspend in 100 µL cold TG salt solution and keep on ice until use.
+3. Transformation
+    1. Add plasmid DNA and 100 µL chemically competent cell suspension to a chilled 2.0 mL microcentrifuge tube.
+    2. Incubate on ice for 15 min.
+    3. Heat shock in a water bath at 45°C for 2 min.
+    4. Incubate on ice for 15 min.
+    5. Repeat steps 3iii and 3iv two additional times for a total of three heat shock steps.
+    6. Add 500 µL CPG broth and incubate in shaker incubator at 250 rpm and 28°C for 4 hours.
+    7. Label the plates and put them in the incubator at 28°C so that they are warm when it is time to plate out the cells.
+    8. Plate cells onto prewarmed plates containing selective media.
+        * Plate out 100 µL of solution and any desired dilutions.
+            * Generally, a 1:10 dilution will be enough.
+        * Optional:
+            * Centrifuge remaining solution for 1 min at 13,000 xg and pour off supernatant.
+            * Resuspend in 100 µL water and plate out the 100 µL volume.
+---
+## Version 1
 ### Reagents
 * 100 mM CaCl<sub>2</sub>
 * Transformation Salts with Glycerol (TG salt solution)
