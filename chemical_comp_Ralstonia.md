@@ -48,7 +48,7 @@
   * 15% glycerol
 * Super Optimal Broth for *Ralstonia* (ROB), **filter sterilize**
   * 1 g Casamino acids
-  * 15 g Bacto-Peptone
+  * 15 g Peptone
   * 1 g Yeast extract
   * 0.93 g KCl
   * 0.95 g MgCl<sub>2</sub>
