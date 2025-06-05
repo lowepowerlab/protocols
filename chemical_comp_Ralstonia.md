@@ -14,8 +14,8 @@
     2. Select a single colony and add to 5 mL CPG broth and incubate overnight in shaker incubator at 250 rpm and 28°C.
 2. Preparation
     1. Perform all steps on ice except for centrifugations.
-    2. Incubate subculture on ice for 10 min.
-    3. Add 1 mL subculture to a chilled 1.5 mL microcentrifuge tube.
+    2. Incubate overnight culture on ice for 10 min.
+    3. Add 1 mL overnight culture to a chilled 1.5 mL microcentrifuge tube.
     4. Centrifuge for 30 sec at 13,000 xg and pipet off supernatant.
     5. Resuspend pellet in 1 mL cold 100 mM CaCl<sub>2</sub>.
     6. Incubate on ice for 20 min.
