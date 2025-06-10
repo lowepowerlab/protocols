@@ -1,10 +1,10 @@
 # Tomato Soil Soak Inoculation
 
-**Writing/Editing credits:** Tiffany Lowe-Power, Patrizia Ricca
+**Writing/Editing credits:** Tiffany Lowe-Power, Patrizia Ricca, Noah Guillome
 
 ### 1. Prepare Plants
 
-Sow seed 17 d before inoculation date. 
+Sow seed 17-21 daus before inoculation date. 
 
 Follow directions in [Growing Tomato Plants Protocol](tomato_growth.md)
 
@@ -41,7 +41,7 @@ Use the ['bacterial_density_workbook.xlsx'](https://github.com/lowepowerlab/prot
 ### 4. Soil-Soak inoculate the plants
 
 <font color='Red'>**Soil moisture level is very important for successful inoculation.**</font>
-It must be fairly dry to absorb 50 ml bacterial suspension, so do not water plants for 1-3 days pre-inoculation. Pouring slowly the 50 ml bacterial suspension around the plant stem and not in one spot could improve bacterial suspension retention and avoid any drip outside the pot. 
+It must be fairly dry to absorb 50 ml bacterial suspension, so do not water plants for 1-2 days pre-inoculation. Pouring slowly the 50 ml bacterial suspension around the plant stem and not in one spot could improve bacterial suspension retention and avoid any drip outside the pot. 
 Post inoculation, moderately water plants frequently (at least daily) to keep soil moist, but not so wet that water runs out of pots. 
 Dry soil will crash *R. solanacearum* populations. 
 Avoid dry soil for 4-5 days post inoculation. 
