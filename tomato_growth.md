@@ -2,34 +2,34 @@
 
 # Please refer to the protocols in our shared Box until we standardize growth protocols that work consistently for many people in the lab.  Jonathan's protocols are located: Box > LPlab > 1-shared > 1 - protocols > Plant protocols > "J Beutlers Plant Propagation Protocols.docx"
 
-**Writing/Editing by**: Tiffany Lowe-Power, Patrizia Ricca,
+**Writing/Editing by**: Tiffany Lowe-Power, Patrizia Ricca, Noah Guillome
 
-### Sowing Seed 
-Sow seed 17 day before soil-soak inoculations and 21 day before cut-petiole inoculations. 
-1. Add potting soil ***XXXtype to be determined*** to a plastic seedling insert in a tray.
+### Sowing Seeds
+Sow seed 17-21 days before soil-soak inoculations and 21 day before cut-petiole inoculations. 
+1. Add potting soil Sunshine Mix #1 to a plastic seedling insert in a tray.
     * Break up large clumps of soil.
 1. Wet the soil & gently compress it. 
 1. Sow tomato seed at 3-5 seeds per insert well. 
     * Space the seeds out. Otherwise the roots will be tangled and difficult to separate. 
-1. Cover the seeds with additional soil and wet soil. 
+1. Cover the seeds with additional soil. 
 1. Label the tray with your name, sowing date, and tomato genotype.
-1. Place the tray in the XXX growth chamber (28 C) and water regularly. 
+1. Place the tray in the XXX growth chamber (28 C) and water regularly for 14 days. 
 
 <img src="images/plants/tomato_seed_sown.jpg" height="200">
 
 #### Expectations for plant growth:
-* Expect seeds to germinate and emerge from soil at XXX days
+* Expect seeds to germinate and emerge from soil at 5 days
 * After emergence, the first true-leaf should appear by XXX days. 
 * Germination frequency should be >80 %. 
 
 ### Transplanting
-2 weeks post-sowing, transplant the seedlings to individual XXX inch pots. 
+2 weeks post-sowing, transplant the seedlings to individual 3.5 by 3.5 inch pots. 
 Plants should be at 2 leaf/petiole stage.
 If you are inexperienced with petiole inoculations, transplant extra plants in case you maul one. 
 
 <img src="images/plants/tomato_seedlings_14d.png" height="200">
 
-1. Prepare XXX-inch pots with potting soil. 
+1. Prepare a tray with 3.5 by 3.5 inch pots containing Sunshine Mix #1 potting soil. 
 Fill pots with loose soil. 
 Wet the soil. 
 With your index finger, make a hole in the center of the pot. 
