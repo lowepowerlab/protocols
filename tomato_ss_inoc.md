@@ -48,7 +48,7 @@ Avoid dry soil for 4-5 days post inoculation.
 
 How plants should look at time of inoculation:
 
-<img src="images/plants/tomato_17d.jpg" height="200">
+<img src="images/plants/tomato_21d.HEIC" height="200">
 
 1. Label the plants, either with plastic stakes in the soil or with lab tape on the tray: Initials, date, & experimental variables.
     * If labeling with stakes, try to avoid damaging roots (go along pot edge). 
