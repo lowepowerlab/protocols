@@ -1,6 +1,20 @@
-# Best Practices for Writing Protocols in Markdown
+# Best Practices for Maintaining Lab Protocols
 
 **Writing/Editing by**: Tiffany Lowe-Power
+
+## Philosophy
+
+* We should have accessible, complete, and clear protocols in order to promote our own research reproducibility
+* Platforms: 
+    * GitHub provides a useful platform to host a (1) Table of Contents and (2) text-based protocols in markdown format
+    * Google Drive can be used, if and only if (1) the files are stored in the lab "Google Drive". (2) permissions are set so anyone can read the file and the file is linked in the GitHub Table of Contents
+        * If files are in a personal Google Drive linked to @ucdavis accounts, they will be deleted when you graduate / end employment. 
+    * Protocols.io can be used, if and only if (1) the files are stored in the lab organization and (2) permissions are set so anyone can read the file and the file is linked in the GitHub Table of Contents
+
+### Suggestions for maintaining protocols in GitHub
+
+* The formatting is "Markdown", which is a simple and standard language for formatting text. You can google for Markdown guides. 
+
 
 * **Use a new line for every sentence.** 
 This helps with version control -- individually changed sentences will be highlighted upon commits (easy to parse) rather than whole paragraphs (nightmare to parse).
