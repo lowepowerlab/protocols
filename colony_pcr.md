@@ -60,6 +60,11 @@ I suspect this is due to the high GC genome (difficult PCR targets) and somethin
 
 Only colony PCR *after* selected colonies have been re-struck for purity and grown.
 
+Materials per colony PCR sample:
+* 35 ul autoclaved MQ water
+* 5 ul instagene matrix
+* 1 PCR tube
+
 ### Validate the primers & PCR kit
 
 This can be performed simultaneously with screening *put*ants (putative mutants) or while you are waiting for putants to appear. 
@@ -70,19 +75,23 @@ This can be performed simultaneously with screening *put*ants (putative mutants)
 
 ### Step 1: Prepare cell lysate / boil prep
 
-1. Grow overnight culture in CPG (as single tubes or in 24 well plate). 
+Three options for cell sample:
+* single colony from plate
+* 5 ul overnight CPG liquid culture
+* small sample from cell pellet
 
-2. Transfer 50 ul culture to PCR strip tubes. 
-*Note*: Consider adding glycerol to the rest of the culture (20% final vol) and saving the plate as a temporary freezer stock while you work to screen the strains. 
-This way, you don't need to worry about the strains accumulating spurious mutations on the plate. 
-
-3. Add caps to PCR strip tube and run a "lyse" thermocycler program (10 min at >96 C; hold at 22 C). 
-
-1. Transfer tubes to -20 C until frozen.
-
-1. Thaw. 
-Spin for ~1 min in PCR tube centrifuge. 
-*XXX Timing might need to be updated here. Not sure if a PCR tube centrifuge will pellet cell gunk or whether this should be skipped. If pelleting is unsuccessful, maybe rewrite this steps as "add 200 ul water with multichannel to dilute PCR inhibitors in cloudy lysate"*
+protocol:
+1. Add 35 ul MQ or nuclease-free water to a PCR tube
+2. Mix instagene matrix using either stir plate or vortex
+3. Add 5 ul instagene matrix to PCR tube
+4. Using a 200 ul pipette tip on either a p20 or p200, grab a portion of a colony (or pellet) and re-suspend in PCR tube through pipette action
+   a. If using liquid culture - add 5 ul culture
+5. (optional) incubate at 56°C in thermocycler for 15-30 minutes then vortex 10 seconds
+6. Incubate at 100°C in thermocycler for 10 minutes (8 minutes if optional 56°C incubation performed)
+7. Vortex 10 seconds
+8. Centrifuge 2 minutes
+9. Use clear supernatant as DNA template for PCR
+10. Store at -20°C. Centrifuge before use
 
 ### Step 2: Run PCR
 
