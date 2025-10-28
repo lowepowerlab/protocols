@@ -62,8 +62,10 @@ Only colony PCR *after* selected colonies have been re-struck for purity and gro
 
 Materials per colony PCR sample:
 * 35 ul autoclaved MQ water
-* 5 ul instagene matrix
+* 5 ul stock instagene matrix
 * 1 PCR tube
+
+note: If using pre-diluted matrix, use 40 ul per sample. **Do not** dilute further
 
 ### Validate the primers & PCR kit
 
@@ -134,4 +136,5 @@ See: [Glycerol Stocks protocol](glycerol_stocks.md)
 * recommendation of polymerases. Let's get samples and try some PCRs!
     * Is this cheaper than Phusion and better than OneTaq for colony PCR? https://www.neb.com/products/m0287-longamp-taq-2x-master-mix#Product%20Information
     * How about Kapa2G? https://www.kapabiosystems.com/product-applications/products/pcr-2/kapa2g-robust-pcr-kits/
+
 
