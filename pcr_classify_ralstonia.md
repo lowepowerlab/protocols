@@ -11,6 +11,7 @@ Detects a region present in most *R. solanacearum, R. pseudosolanacearum, R. syz
 |:-----------:|:---------------------------------|
 |    759      | GTC GCC GTC AAC TCA CTT TCC      |
 |    760      | GTC GCC GTC AGC AAT GCG GAA TCG  | 
+
 **Product Size**: 281 bp
 
 #### PCR conditions
@@ -57,6 +58,7 @@ Expected results:
 |:-----------:|:---------------------------------|
 |    630      | ATA CAG AAT TCG ACC GGC ACG      |
 |    631      | ATT CAC ATG CAA TTC GCC TAC      | 
+
 **Product Size**: 307 bp
 
 #### PCR conditions
