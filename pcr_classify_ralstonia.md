@@ -7,7 +7,7 @@ Detects a region present in most *R. solanacearum, R. pseudosolanacearum, R. syz
 
 **Citation**: Opina et al. 1997. A Novel Method For Development Of Species And Strain-Specific DNA Probes And PCR Primers For Identifying Burkholderia solanacearum (Formerly Pseudomonas solanacearum). Asia Pacific Journal of Molecular Biology and Biotechnology Volume 5, No. I, April, 1997 pp. l9-30.)
 
-| Primer Name |  Sequence (5' to 3')             | 
+|Primer Name |  Sequence (5' to 3')             | 
 |:-----------:|:---------------------------------|
 |    759      | GTC GCC GTC AAC TCA CTT TCC      |
 |    760      | GTC GCC GTC AGC AAT GCG GAA TCG  | 
@@ -53,7 +53,7 @@ Expected results:
 
 **Citation**: Opina et al. 1997. A Novel Method For Development Of Species And Strain-Specific DNA Probes And PCR Primers For Identifying Burkholderia solanacearum (Formerly Pseudomonas solanacearum). Asia Pacific Journal of Molecular Biology and Biotechnology Volume 5, No. I, April, 1997 pp. l9-30.)
 
-| Primer Name |  Sequence (5' to 3')             | 
+|Primer Name |  Sequence (5' to 3')             | 
 |:-----------:|:---------------------------------|
 |    630      | ATA CAG AAT TCG ACC GGC ACG      |
 |    631      | ATT CAC ATG CAA TTC GCC TAC      | 
@@ -99,7 +99,7 @@ The sequevar system is a DNA based taxonomic system of plant pathogenic *Ralston
 
 ### Step 2: Amplify a 750 bp region of the *egl* gene
 
-| Primer Name |  Sequence (5' to 3')             | 
+|Primer Name |  Sequence (5' to 3')             | 
 |:-----------:|:---------------------------------|
 |    Endo-F      | ATGCATGCCGCTGGTCGCCGC      |
 |    Endo-R      | GCGTTGCCCGGCACGAACACC      | 
