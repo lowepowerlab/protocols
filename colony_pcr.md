@@ -65,7 +65,7 @@ Materials per colony PCR sample:
 * 5 ul stock instagene matrix
 * 1 PCR tube
 
-note: If using pre-diluted matrix, use 40 ul per sample. **Do not** dilute further
+Note: If using pre-diluted matrix, use 40 ul per sample with no MQ water added. **Do not** dilute further
 
 ### Validate the primers & PCR kit
 
@@ -77,19 +77,19 @@ This can be performed simultaneously with screening *put*ants (putative mutants)
 
 ### Step 1: Prepare cell lysate / boil prep
 
-Three options for cell sample:
+Three options for cell source:
 * single colony from plate
-* 5 ul overnight CPG liquid culture
+* 5 ul overnight liquid culture
 * small sample from cell pellet
 
 protocol:
-1. Add 35 ul MQ or nuclease-free water to a PCR tube
-2. Mix instagene matrix using either stir plate or vortex
+1. Add 35 ul MQ water to a PCR tube
+2. Mix stock instagene matrix using stir plate, vortex, or shaking
 3. Add 5 ul instagene matrix to PCR tube
-4. Using a 200 ul pipette tip on either a p20 or p200, grab a portion of a colony (or pellet) and re-suspend in PCR tube through pipette action
+4. Using a 200 ul pipette tip on either a p20 or p200, resuspend cell source in diluted matrix through pipette action
    a. If using liquid culture - add 5 ul culture
 5. (optional) incubate at 56°C in thermocycler for 15-30 minutes then vortex 10 seconds
-6. Incubate at 100°C in thermocycler for 10 minutes (8 minutes if optional 56°C incubation performed)
+6. Incubate at 100°C in thermocycler for 10 minutes (8 minutes if 56°C incubation performed)
 7. Vortex 10 seconds
 8. Centrifuge 2 minutes
 9. Use clear supernatant as DNA template for PCR
@@ -136,5 +136,6 @@ See: [Glycerol Stocks protocol](glycerol_stocks.md)
 * recommendation of polymerases. Let's get samples and try some PCRs!
     * Is this cheaper than Phusion and better than OneTaq for colony PCR? https://www.neb.com/products/m0287-longamp-taq-2x-master-mix#Product%20Information
     * How about Kapa2G? https://www.kapabiosystems.com/product-applications/products/pcr-2/kapa2g-robust-pcr-kits/
+
 
 
