@@ -49,7 +49,7 @@ Detects a region present in most *R. solanacearum, R. pseudosolanacearum, R. syz
 Expected results:
 ![gel image of phylotype pcr results](images/phylotype_pcr_result.png)
 
-## 3. Detection of Race 3 Biovar 2 strains
+## 3. Detection of Race 3 Biovar 2 strains (U.S. Select Agent)
 **If reaction is positive, notify Tiffany Lowe-Power immediately.** We are not permitted to receive, use, or store R3B2 organisms. If there is a positive reaction with the R3B2-specific primers, secure any materials with the R3B2 positive organism in a locked cabinet or freezer until they have been deactivated by autoclave. Tiffany will notify Aphis about the receipt of R3B2 organisms. 
 
 **Citation**: Opina et al. 1997. A Novel Method For Development Of Species And Strain-Specific DNA Probes And PCR Primers For Identifying Burkholderia solanacearum (Formerly Pseudomonas solanacearum). Asia Pacific Journal of Molecular Biology and Biotechnology Volume 5, No. I, April, 1997 pp. l9-30.)
@@ -78,20 +78,18 @@ Citation: “RSSC-Lineage Multiplex PCR” assay detects and differentiates Rals
 |Common Primers (CP) Name|Primer Name|Sequence (5' to 3')|Species Specificity|Band size (bp)*|
 |:-----------------------|:----------|:------------------|:------------------|:--------------|
 |CP6|RssC-wF3|TATATATCCTCGACTTTTCCATGAAGCTGTG|Ralstonia solanacearum species complex (F)|162|
-|CP7|RssCwR3|CTATATATATACCCCACTTGTTGAGGAACTG|Ralstonia solanacearum species complex (R)|162|
+|CP7|RssC-wR3|CTATATATATACCCCACTTGTTGAGGAACTG|Ralstonia solanacearum species complex (R)|162|
 |CP8|Rpseu-wF5|TTTTATTTTTTTGGTGTCCGGGCCAAGATAG|R. pseudosolanacearum (Phylotype I and III) (F)|251|
 |CP9|Rpseu-wR5|TTATATTACTCGAACGTGCTGCAAAACCACT|R. pseudosolanacearum (Phylotype I and III) (R)|251|
-|CP10|RsolP2wF2|ATTCTATTTATATCATGAGCGTTCCCCGACT|R. solanacearum (Phylotype II) (F)|478|
-|CP11|RsolP2wR2|TTTTTTTTTTTGAGGTAGCTGCTGGGGTTC|R. solanacearum (Phylotype II) (R)|478|
-|CP12|RsyzP4wF4|TTTCTTTTATTATAGTGTCGCGTCCGAACAG|R. syzygii (Phylotype IV) (F)|664|
-|CP13|RsyzP4wR4|TTTTTCTTTTTCGGTCTCTCCGTCTATCGTT|R. syzygii (Phylotype IV) (R)|664|
-|CP14|RsR3B2wF|TTTCATTACTCATGACTGCAGAAACGCTTGA|Race 3 biovar 2 (II-R3bv2)(F)|954|
-|CP15|RsR3B2wR|TATACATAACTATAGTTCGCCGTGCTCATCT|Race 3 biovar 2 (II-R3bv2) (R)|954|
+|CP10|RsolP2-wF2|ATTCTATTTATATCATGAGCGTTCCCCGACT|R. solanacearum (Phylotype II) (F)|478|
+|CP11|RsolP2-wR2|TTTTTTTTTTTGAGGTAGCTGCTGGGGTTC|R. solanacearum (Phylotype II) (R)|478|
+|CP12|RsyzP4-wF4|TTTCTTTTATTATAGTGTCGCGTCCGAACAG|R. syzygii (Phylotype IV) (F)|664|
+|CP13|RsyzP4-wR4|TTTTTCTTTTTCGGTCTCTCCGTCTATCGTT|R. syzygii (Phylotype IV) (R)|664|
+|CP14|RsR3B2-wF|TTTCATTACTCATGACTGCAGAAACGCTTGA|Race 3 biovar 2 (II-R3bv2)(F)|954|
+|CP15|RsR3B2-wR|TATACATAACTATAGTTCGCCGTGCTCATCT|Race 3 biovar 2 (II-R3bv2) (R)|954|
 
 ## 5. Determine Sequevar of an Isolate
-*This can be updated with more specific details*
-
-The sequevar system is a DNA based taxonomic system of plant pathogenic *Ralstonia*. The system is based on DNA sequence alignments of a 750 bp region of the *egl* endoglucanase gene. 
+The sequevar system is a DNA based classification system of plant pathogenic *Ralstonia*. The system is based on DNA sequence alignments of a 750 bp region of the *egl* endoglucanase gene. 
 
 ### Step 1: Purify genomic DNA from the isolate
 
@@ -133,4 +131,4 @@ Follow the [Sanger Sequencing protocol](sanger.md).  Sequence the reactions with
 
 Import the sequencing trace (.ab1 file) into Benchling in the "1-egl (partial) sequences".  Align the F and R and proofread the sequences. 
 
-After this point ... Tiffany has a word protocol from Caitilyn's lab that we can adapt to assign a sequevar based on the sequence. 
+After this point, follow the [Cellier et al. reference protocol for infering sequevar](https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/CUWA5P). Interpret the results cautiously and know that some sequevars are polyphyletic on phylogenetic trees built with genomic data.  
