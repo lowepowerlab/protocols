@@ -54,19 +54,6 @@ Alternatively, use a pair of your Gibson cloning primers to PCR screen.
 
 *Cleaning up note:* 1x LIBOR tends to grow mold in our lab.  Don't leave it in the gel boxes. Pour it into a 1L bottle. Cap. Reuse until it's moldy, then start a new batch. 
 
-## Colony PCR on *Ralstonia* colonies
-*Ralstonia* has always proven tricky for colony PCR. 
-I suspect this is due to the high GC genome (difficult PCR targets) and something inhibitory to the PCR (maybe EPS?). 
-
-Only colony PCR *after* selected colonies have been re-struck for purity and grown.
-
-Materials per colony PCR sample:
-* 35 ul autoclaved MQ water
-* 5 ul stock instagene matrix
-* 1 PCR tube
-
-Note: If using pre-diluted matrix, use 40 ul per sample with no MQ water added. **Do not** dilute further
-
 ### Validate the primers & PCR kit
 
 This can be performed simultaneously with screening *put*ants (putative mutants) or while you are waiting for putants to appear. 
@@ -75,25 +62,46 @@ This can be performed simultaneously with screening *put*ants (putative mutants)
 
 * Perform PCR reaction as below. 
 
-### Step 1: Prepare cell lysate / boil prep
+## Colony PCR on *Ralstonia* colonies
+*Ralstonia* has always proven tricky for colony PCR. 
+I suspect this is due to the high GC genome (difficult PCR targets) and something inhibitory to the PCR (maybe EPS?). 
 
-Three options for cell source:
-* single colony from plate
-* 5 ul overnight liquid culture
-* small sample from cell pellet
+Only colony PCR *after* selected colonies have been re-struck for purity and grown.
+
+Materials:
+* p20 & p200 pipettes
+* 200 ul pipette tips
+* thermocycler
+* vortex mixer
+* centrifuge
+* PCR tubes
+* cell source (plate, liquid culture, or cell pellet)
+
+reagents:
+* autoclaved MQ water
+* stock instagene matrix
+
+*or*
+
+* 40 ul .125X instagene matrix
 
 protocol:
-1. Add 35 ul MQ water to a PCR tube
-2. Mix stock instagene matrix using stir plate, vortex, or shaking
-3. Add 5 ul instagene matrix to PCR tube
-4. Using a 200 ul pipette tip on either a p20 or p200, resuspend cell source in diluted matrix through pipette action
-   a. If using liquid culture - add 5 ul culture
-5. (optional) incubate at 56°C in thermocycler for 15-30 minutes then vortex 10 seconds
-6. Incubate at 100°C in thermocycler for 10 minutes (8 minutes if 56°C incubation performed)
-7. Vortex 10 seconds
-8. Centrifuge 2 minutes
-9. Use clear supernatant as DNA template for PCR
-10. Store at -20°C. Centrifuge before use
+1. Add either 40 ul .125X matrix or 35 ul MQ water + 5 ul stock matrix to PCR tube
+4. Add cell source to PCR tube and resuspend
+
+   a. 5 ul of liquid culture, single colony, or small sample of cell pellet
+
+6. (optional) incubate at 56°C in thermocycler for 15-30 minutes then vortex 10 seconds
+7. Incubate at 100°C in thermocycler for 10 minutes (8 minutes if 56°C incubation performed)
+8. Vortex 10 seconds
+9. Centrifuge 2 minutes
+10. Use supernatant as DNA template for PCR
+
+    a. 1-3 ul supernatant for 20 ul PCR reaction
+    
+    b. 1-2 ul supernatant for 10 ul PCR reaction
+    
+12. Store at -20°C. Centrifuge before use
 
 ### Step 2: Run PCR
 
@@ -136,6 +144,7 @@ See: [Glycerol Stocks protocol](glycerol_stocks.md)
 * recommendation of polymerases. Let's get samples and try some PCRs!
     * Is this cheaper than Phusion and better than OneTaq for colony PCR? https://www.neb.com/products/m0287-longamp-taq-2x-master-mix#Product%20Information
     * How about Kapa2G? https://www.kapabiosystems.com/product-applications/products/pcr-2/kapa2g-robust-pcr-kits/
+
 
 
 
