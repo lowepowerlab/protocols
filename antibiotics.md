@@ -15,7 +15,7 @@ Prepare 20 mls at a time and aliquot
 |  Spectinomycin  |  <font color='BLACK'>BLACK</font>  |  Sp  |          40           |                  dH<sub>2</sub>0                   | Filter                                                        |
 |  Tetracycline   |  <font color='Green'>GREEN</font>  | Tet  |          30           |  dH<sub>2</sub>0                                   | Filter;  Keep dark (foil wrap) |
 |   Ampicillin    |    <font color='Red'>RED</font>    | Amp  |          100          |                  dH<sub>2</sub>0                   | Filter                                                        |
-| Chloramphenicol | <font color='Yellow'>Yellow</font> | Cam  |          25           |                  dH<sub>2</sub>0                   | Filter                                                        |
+| Chloramphenicol | <font color='Yellow'>Yellow</font> | Cam  |          25           |                  95% ethanol                       | Filter                                                        |
 
 
 Note that the dry gentimicin is stored at room temperature, but most dry antibiotics are stored at 4C.
@@ -31,3 +31,4 @@ Filter refers to filter sterilizing with 0.22 um filters.
 
 These stocks are at 1000x concentration, so add 1/1000th volume for regular use (e.g. 500 ul to 500 ml medium).
 If selecting in a minimal medium, a lower antibiotic concentration may be necessary.
+
