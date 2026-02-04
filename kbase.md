@@ -31,7 +31,8 @@ Useful genome set:
 ## Narrative: Other Ralstonia phylogenomics
 Tiffany maintains this narrative with all of the publicly available Ralstonia genomes that are not RSSC.
 
-[https://narrative.kbase.us/narrative/189428](https://narrative.kbase.us/narrative/189428)
+[https://narrative.kbase.us/narrative/216258](https://narrative.kbase.us/narrative/216258)
+~~[https://narrative.kbase.us/narrative/189428](https://narrative.kbase.us/narrative/189428)~~ depreciated
 
 ## Narrative: Cupriavidus phylogenomics
 Tiffany maintains this narrative with all of the publicly available Cupriavidus genus genomes.
