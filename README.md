@@ -32,6 +32,16 @@ This link gives access for viewing and leaving comments if you have questions or
 * [x] [Gibson assembly](gibson_assembly.md)
 * [x] [Colony PCR](colony_pcr.md)
 * [x] [Sanger Sequencing](sanger.md)
+* [x] Step-by-step guide to gene deletion (protocols.io by Noah Guillome)
+
+      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-primer-design-ewov1mrp2vr2/v1
+      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-upstream-amp-down-261ge8q6yg47/v1
+      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-gibson-assembly-a-8epv5owx6g1b/v1
+      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-colony-pcr-n92ldnojnv5b/v1
+      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-electroporation-t-5jyl8q3z6l2w/v1
+      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-external-ralstoni-8epv5k73jv1b/v1
+
+
 
 In addition to our lab protocols, here are resources that are very useful:
 * [x] [A Primer on Cloning in E. coli](https://sites.wustl.edu/nonetlab/files/2018/07/How-to-clone-ref-v1-2.pdf) by Michael Nonet at Wash U
@@ -92,3 +102,4 @@ I also *highly* recommend using the AddGene website as a resource on molecular b
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ![visitor badge](https://vbr.wocr.tk/badge?page_id=lowepowerlab.protocols)
+
