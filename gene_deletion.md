@@ -65,3 +65,11 @@ Grow for 2 days at 28C or 3 days at RT.
 Submerge in 10% bleach for >30 min. 
 Rinse ~3x in diH2O. Dry in drying oven. 
 Don't use for plate-reader experiments, but re-use for routine growth. 
+
+# Protocol.io adaptation of this protocol
+https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-primer-design-ewov1mrp2vr2/v1
+https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-upstream-amp-down-261ge8q6yg47/v1
+https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-gibson-assembly-a-8epv5owx6g1b/v1
+https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-colony-pcr-n92ldnojnv5b/v1
+https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-electroporation-t-5jyl8q3z6l2w/v1
+https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-external-ralstoni-8epv5k73jv1b/v1
