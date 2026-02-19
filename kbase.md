@@ -3,6 +3,9 @@
 
 Tiffany created a tutorial powerpoint to provide advice on setting up a KBase narrative for Ralstonia phylogenomics including insight into the quality control. It's a guide for making additional phylogenomics narratives if you want to. **[Download the tutorial .pptx from this github page](https://github.com/lowepowerlab/protocols/blob/main/resources/KBase_tips_Ralstonia.pptx).** Download button is the ↓ arrow towards the right of the page.
 
+## Protocol for annotating phylogenetic trees with Blast results (using KBase and iTol)
+https://ucdavis.box.com/s/u1tiz9r542b94ono9cidl4nvu4zgnwrv <-- Download Tiffany's word document protocol
+
 ## Narrative: RSSC Phylogenomics
 The Lowe-Power lab maintains this narrative with all of the publicly available RSSC genomes.  
 
