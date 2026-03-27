@@ -13,17 +13,17 @@ The Lowe-Power lab maintains this narrative with all of the publicly available R
 
 Contributors: Tiffany Lowe-Power, Vienna Elmgreen
 
-**Version 2: 600-700 genomes [https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849)**
-
-Version with only the **genomes of strains in Lowe-Power lab strain collection:** [https://narrative.kbase.us/narrative/199187](https://narrative.kbase.us/narrative/199187)
-
-*Original version (don't use; keep for Legacy) [https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)*
+**The current version of the narrative is "v2".** All genomesets are giving a version-control time stamp, e.g. "v2025-12-02".  
+* **[https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849)**
 
 **Useful genome sets:**
 *	RSSC_for_phylogenomics_IncludesBadQualityGenomes.genomeSet 
     * **Purpose:** place new genomes into a phylogenetic tree with all sequenced RSSC. The “Bad Quality” genomes are ones that are non-ideal for functional genomics analyses. 
 *	RSSC_highQuality_v2023-06-24.genomeSet
     * **Purpose:** Tiffany filtered these genomes based on CheckM completeness and contamination. This genomeSet can be used for functional genomics analysis. 
+
+### Narrative: genomes of Ralstonia strains present in Lowe-Power lab strain collection: 
+[https://narrative.kbase.us/narrative/199187](https://narrative.kbase.us/narrative/199187)
 
 ## Narrative: Burkholderiales Species Representatives
 Tiffany used GTDB to identify genome representatives of approx 300 species in the Burkholderiales order. All genomes were described as complete on GTDB, but it is possible that there are mistakes. The genomes are named according to GTDB taxonomy when the narrative was created in Summer 2023. 
