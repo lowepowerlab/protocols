@@ -1,5 +1,7 @@
 # Chemically Competent *Ralstonia*
 *Written by: Tabitha Cowell*
+
+*Heat-mediated transformation protocol by Giri et al. (2026): https://doi.org/10.1007/s10482-026-02298-7*
 ## Version 2
 ### Reagents
 * 100 mM CaCl<sub>2</sub>
