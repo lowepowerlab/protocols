@@ -2,6 +2,9 @@
 
 **Written/Edited by**: Tiffany Lowe-Power, 
 
+**Recommended**: Look at Tiffany's digital lab notebook files on RB-TnSeq. She can orient you to her notebook. 
+
+
 ### Revive library aliquot
 
 Library aliquots are stored in -80 C freezer as 1 ml of ~OD=0.800 culture (in 20% glycerol). 
