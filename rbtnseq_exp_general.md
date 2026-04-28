@@ -29,7 +29,7 @@ Centrifuge 10 min 5k *xg* RT.
     * Target OD will depend on experiment. Theoretically or empirically determine your target OD keeping in mind (1) Magnitude of a population bottleneck and (2) Trying to intro # of cells as >100x size of libraries (~2e5 individuals)
 3. **Crucial**: Save duplicate time 0 (1e8-2e9 cfu; pelleted) in 1.5 ml tubes and store in -20C.
 Adam D. recommends recovering a single aliquot of the mutant library in a single flask. Then collecting 8 cell pellets for the Time 0. This culture will be used to set up all of your biological replicate experiments. You can do genomic preps and barseq of at least 4 of these Time 0 samples. It's better to collect 8 because Adam can have Time 0 samples on different genomic DNA/BarSeq plates if the samples end up getting spread across multiple plates. 
-4. *Highly recommended*: Dilution plate your inoculum to estimate 'initial population size'. If your experimental design allows you to estimate initial & final population size, you can normalize fitness values by # of population doublings in experiment.
+4. *Highly recommended*: Dilution plate your inoculum to estimate 'initial population size'. If your experimental design allows you to estimate initial & final population size, you can normalize fitness values by # of population doublings in experiment.  **Take photographs of your dilution plates** to help document that "phenotype converted mutants" (e.g. quorum sensing mutants) did not take over your your experiment. 
 
 ### Perform selection experiment.
 
