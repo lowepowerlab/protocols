@@ -31,16 +31,16 @@ This link gives access for viewing and leaving comments if you have questions or
 * [x] [Gene deletion in *Ralstonia *](gene_deletion.md)
 * [x] [Gibson assembly](gibson_assembly.md)
 * [x] [Colony PCR](colony_pcr.md)
-* [x] [Sanger Sequencing](sanger.md)
-* [x] Step-by-step guide to gene deletion (protocols.io by Noah Guillome)
+* [x] Step-by-step guide to gene deletion (protocols.io by Noah Guillome):
 
-      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-primer-design-ewov1mrp2vr2/v1
-      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-upstream-amp-down-261ge8q6yg47/v1
-      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-gibson-assembly-a-8epv5owx6g1b/v1
-      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-colony-pcr-n92ldnojnv5b/v1
-      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-electroporation-t-5jyl8q3z6l2w/v1
-      https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-external-ralstoni-8epv5k73jv1b/v1
+    *  [Unmarked Gene Deletion Ralstonia Primer Design](https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-primer-design-ewov1mrp2vr2/v1). **If you are new to genetically engineering in our lab,** please have Tiffany approve your primer choices. This will be an opportunity for her to teach you more about bacterial genetics (or learn more about bacterial genetics from you)
+    *  [Upstream&Downstream PCR Amplification for Unmarked Gene Deletion Ralstonia](https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-upstream-amp-down-261ge8q6yg47/v1)
+    *  [Gibson Assembly for Unmarked Gene Deletion Ralstonia](https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-gibson-assembly-a-8epv5owx6g1b/v1)
+    *  [Colony PCR for Unmarked Gene Deletion Ralstonia](https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-colony-pcr-n92ldnojnv5b/v1)
+    *  [Ralstonia Electroporation for Unmarked Gene Deletion ](https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-electroporation-t-5jyl8q3z6l2w/v1)
+    *  [Using PCR with external primers to confirm knockout mutants, for Unmarked Gene Deletion Ralstonia](https://www.protocols.io/view/unmarked-gene-deletion-ralstonia-external-ralstoni-8epv5k73jv1b/v1)
 
+* [x] [Sanger Sequencing](sanger.md) (We tend not to do Sanger sequencing anymore, and go with whole-plasmid sequencing with Plasmidsaurus)
 
 
 In addition to our lab protocols, here are resources that are very useful:
