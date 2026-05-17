@@ -16,13 +16,14 @@ Contributors: Tiffany Lowe-Power, Vienna Elmgreen
 **The current version of the narrative is "v2".** All genomesets are giving a version-control time stamp, e.g. "v2025-12-02".  
 * **[https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849)**
 
-**Useful genome sets:**
-*	RSSC_for_phylogenomics_IncludesBadQualityGenomes.genomeSet 
-    * **Purpose:** place new genomes into a phylogenetic tree with all sequenced RSSC. The “Bad Quality” genomes are ones that are non-ideal for functional genomics analyses. 
-*	RSSC_highQuality_v2023-06-24.genomeSet
+### Useful genome sets:
+*	**RSSC_for_phylogenomics_IncludesBadQualityGenomes.genomeSet** <-- Will have a date stamp on when Tiffany last added public data from NCBI
+    * **Purpose:** place new genomes into a phylogenetic tree with all sequenced RSSC. The “Bad Quality” genomes are ones that are non-ideal for functional genomics analyses.
+    * [**CheckM Quality metrics** of the v2025-12-05 batch](https://kbase.us/dynserv/66e9a37e7d3a56b64cc372c89d1eaafaa605c397.HTMLFileSetServ/api/v1/189849/1078/1/$/0/CheckM_Table.html). *Note:* This table will take a moment to load after opening the URL. 
+*	**RSSC_highQuality_v[yyyy-mm-dd].genomeSet**  <-- Will have a date stamp on when Tiffany last added public data from NCBI
     * **Purpose:** Tiffany filtered these genomes based on CheckM completeness and contamination. This genomeSet can be used for functional genomics analysis. 
 
-### Narrative: genomes of Ralstonia strains present in Lowe-Power lab strain collection: 
+## Narrative: genomes of Ralstonia strains present in Lowe-Power lab strain collection: 
 [https://narrative.kbase.us/narrative/199187](https://narrative.kbase.us/narrative/199187)
 
 ## Narrative: Burkholderiales Species Representatives
