@@ -96,6 +96,10 @@ Do not prepare large amounts of this, it is quick to prepare and contains alcoho
 
 
 
+
+
+
+
 # Phenol:Chloroform High-Molecular-Weight Genomic DNA Extraction from Bacterial Cultures of the *Ralstonia solanacearum* Species Complex
 
 **Adapted from:** Nomenjanahary et al. 2025 (https://doi.org/10.1094/PHYTOFR-10-24-0110-A)
@@ -133,7 +137,7 @@ Prepare reagents and equipment before beginning the extraction procedure.
 
 * Chill isopropanol and 70% ethanol prior to use.
 * Preheat water baths or heating blocks to 37°C, 55°C, and 65°C.
-* Ensure phenol:chloroform:isoamyl alcohol is equilibrated to pH 8.0.
+* Ensure phenol:chloroform:isoamyl alcohol is equilibrated to pH 8.0 or use pH 8.0 equilibrated reagents.
 * Use freshly grown overnight bacterial cultures.
 
 ---
