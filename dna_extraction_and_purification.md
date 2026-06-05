@@ -90,3 +90,184 @@ Do not prepare large amounts of this, it is quick to prepare and contains alcoho
 12.	 **Incubate your column for at least 1 minute, then centrifuge your column for 1 minute at 10,000 rcf.**
 
 ***Happy pipetting!***
+
+
+
+
+
+
+# Phenol:Chloroform High-Molecular-Weight Genomic DNA Extraction from Bacterial Cultures of the *Ralstonia solanacearum* Species Complex
+
+**Adapted from:** Nomenjanahary et al. 2025 (https://doi.org/10.1094/PHYTOFR-10-24-0110-A)
+
+**Modified by:** Gina Shin (Lowe-Power Lab, UC Davis)
+
+## Overview
+
+This protocol describes the extraction of high-molecular-weight (HMW) genomic DNA from overnight cultures of members of the *Ralstonia solanacearum* species complex (RSSC). The procedure uses SDS-mediated cell lysis, Proteinase K digestion, phenol-chloroform purification, RNase treatment, and isopropanol precipitation to recover genomic DNA suitable for long-read sequencing applications.
+
+## Reagents
+
+| Reagent                                                                           | Supplier                 | Catalog Number |
+| --------------------------------------------------------------------------------- | ------------------------ | -------------- |
+| 1X TE Buffer (10 mM Tris-HCl, 1 mM EDTA, pH 8.0)                                  | In-house                 | In-house       |
+| NaCl (5 M)                                                                        | In-house                 | In-house       |
+| NaCl (0.5 M)                                                                      | In-house                 | In-house       |
+| SDS (10%)                                                                         | In-house                 | In-house       |
+| Proteinase K (20 mg/ml)                                                           | NEB                      | P8107S         |
+| RNase A (20 mg/ml)                                                                | NEB                      | T3018L         |
+| Phenol:Chloroform:Isoamyl alcohol (25:24:1, pH 8.0)                               | Thermo Fisher Scientific | 15593049       |
+| Chloroform:Isoamyl alcohol (24:1)                                                 | Sigma-Aldrich            | C0549-1PT      |
+| Isopropanol (molecular grade)                                                     | Sigma-Aldrich            | I9516          |
+| 70% ethanol (prepared using molecular-grade ethanol and DNase-, RNase-free water) | In-house                 | In-house       |
+
+**Note:** Reagents should be no older than six months.
+
+## Before You Begin
+
+### Purpose
+
+Prepare reagents and equipment before beginning the extraction procedure.
+
+### Preparation
+
+* Chill isopropanol and 70% ethanol prior to use.
+* Preheat water baths or heating blocks to 37°C, 55°C, and 65°C.
+* Ensure phenol:chloroform:isoamyl alcohol is equilibrated to pH 8.0.
+* Use freshly grown overnight bacterial cultures.
+
+---
+
+# Cell Harvesting and Washing
+
+### Purpose
+
+The NaCl wash removes residual growth medium, extracellular polysaccharides, and other contaminants that may interfere with cell lysis and downstream DNA purification.
+
+### Procedure
+
+1. Transfer 1.5 ml of overnight culture to a 2 ml microcentrifuge tube.
+2. Centrifuge for 5 min at 5,000 × g.
+3. Discard the supernatant.
+4. Resuspend the cell pellet in 1 ml of 0.5 M NaCl and mix by pipetting using a 1000 µl pipette tip.
+5. Centrifuge for 5 min at 5,000 × g.
+6. Discard the supernatant.
+
+---
+
+# Cell Lysis and Protein Digestion
+
+### Purpose
+
+TE buffer stabilizes genomic DNA during extraction. Tris-HCl maintains pH, while EDTA chelates divalent cations required by many nucleases. SDS disrupts bacterial membranes and denatures proteins, releasing nucleic acids into solution. Proteinase K digests proteins, including nucleases that could degrade genomic DNA. Addition of concentrated NaCl promotes dissociation of protein-DNA complexes and facilitates removal of protein contaminants during organic extraction.
+
+### Procedure
+
+1. Resuspend the washed cell pellet in:
+
+   * 567 µl 1X TE buffer
+   * 30 µl 10% SDS
+2. Add 3 µl Proteinase K (20 mg/ml).
+3. Gently mix by pipetting using a 1000 µl pipette tip.
+4. Incubate at 55°C for 2–3 h.
+5. Add 100 µl 5 M NaCl.
+6. Mix by pipetting using a 1000 µl pipette tip.
+7. Incubate at 65°C for 10 min.
+
+---
+
+# Organic Extraction and RNA Removal
+
+### Purpose
+
+Phenol:chloroform:isoamyl alcohol separates proteins and other cellular contaminants from nucleic acids. Phenol denatures proteins, chloroform improves phase separation, and isoamyl alcohol reduces foaming. RNase A removes co-purifying RNA. A final chloroform extraction removes residual phenol, which can interfere with downstream applications and reduce DNA purity.
+
+### Procedure
+
+1. Add an equal volume (approximately 700 µl) of phenol:chloroform:isoamyl alcohol (25:24:1).
+2. Mix by pipetting using a 1000 µl pipette tip.
+3. Centrifuge for 20 min at 4°C at maximum speed.
+4. Transfer the aqueous upper phase to a new 1.5 ml tube.
+5. Add 10 µl RNase A (20 mg/ml).
+6. Incubate for 30 min at 37°C.
+7. Add an equal volume of phenol:chloroform:isoamyl alcohol (25:24:1).
+8. Mix by pipetting using a 1000 µl pipette tip.
+9. Centrifuge for 20 min at 4°C at maximum speed.
+10. Transfer the aqueous upper phase to a new 1.5 ml tube.
+11. Add an equal volume of chloroform:isoamyl alcohol (24:1).
+12. Mix by pipetting using a 1000 µl pipette tip.
+13. Centrifuge for 20 min at 4°C at maximum speed.
+14. Transfer the aqueous upper phase to a new 1.5 ml tube.
+
+---
+
+# DNA Precipitation
+
+### Purpose
+
+Isopropanol reduces DNA solubility and promotes precipitation of high-molecular-weight genomic DNA. The presence of salt facilitates efficient DNA recovery. Overnight incubation at −20°C improves precipitation yield.
+
+### Procedure
+
+1. Add 0.6 volumes of ice-cold isopropanol.
+2. Gently invert the closed tube to facilitate filamentous DNA precipitation.
+3. Incubate at −20°C overnight.
+4. Centrifuge for 20 min at 4°C at maximum speed.
+5. Discard the supernatant.
+
+---
+
+# DNA Washing
+
+### Purpose
+
+Ethanol washes remove residual salts, phenol, and other contaminants while maintaining DNA precipitation. Two washes improve DNA purity for downstream sequencing applications.
+
+### Procedure
+
+1. Add 1 ml of ice-cold 70% ethanol.
+2. Centrifuge for 20 min at 4°C at maximum speed.
+3. Discard the supernatant.
+4. Add 1 ml of ice-cold 70% ethanol.
+5. Centrifuge for 20 min at 4°C at maximum speed.
+6. Discard the supernatant.
+
+---
+
+# DNA Rehydration
+
+### Purpose
+
+Removal of residual ethanol improves downstream enzymatic reactions and sequencing performance. TE buffer protects DNA during storage and promotes recovery of high-molecular-weight DNA. Gentle warming facilitates complete DNA rehydration.
+
+### Procedure
+
+1. Briefly dry the DNA pellet by incubating the tube on a 70°C heating block for approximately 1 min.
+
+   **Important:** Do not overdry the pellet. As soon as the pellet becomes transparent, remove the tube from the heating block.
+
+2. Add 100 µl of 1X TE buffer (pH 8.0).
+
+3. Incubate at 65°C for 30 min to rehydrate genomic DNA.
+
+4. Pipette fewer than 10 times using a 200 µl pipette tip to gently dislodge and break apart the pellet.
+
+---
+
+# Quality Control
+
+Assess DNA quantity and quality using:
+
+* Qubit dsDNA assay
+* Nanodrop spectrophotometry
+
+  * A260/A280 ≈ 1.8–2.0
+  * A260/A230 > 2.0
+* Agarose gel electrophoresis
+
+High-quality DNA should appear as a high-molecular-weight band with minimal smearing.
+
+## Expected Outcome
+
+This protocol yields high-molecular-weight genomic DNA suitable for long-read sequencing applications, including Oxford Nanopore sequencing.
+
