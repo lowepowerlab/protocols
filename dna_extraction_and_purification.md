@@ -273,5 +273,5 @@ High-quality DNA should appear as a high-molecular-weight band with minimal smea
 
 ## Expected Outcome
 
-This protocol yields high-molecular-weight genomic DNA suitable for long-read sequencing applications, including Oxford Nanopore sequencing.
+This protocol yields high-molecular-weight genomic DNA suitable for long-read sequencing applications, including PacBio and Oxford Nanopore sequencing.
 
