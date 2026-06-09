@@ -1,4 +1,5 @@
 # Chaotropic salt lysis and spin-column DNA purification
+Protocol drafted by Gina Shin 
 
 ## Reagent Recipes
 
