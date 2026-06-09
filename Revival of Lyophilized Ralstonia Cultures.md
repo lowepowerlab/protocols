@@ -1,4 +1,5 @@
 # Revival of Lyophilized *Ralstonia* Cultures
+Protocol drafted by Gina Shin
 
 ## Before You Begin
 
