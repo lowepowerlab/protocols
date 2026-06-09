@@ -26,6 +26,7 @@
 4. **Visually inspect the lyophilized pellet and record its appearance.** Photograph each vial before opening.
 
 Typical observations:
+
 <img width="817" height="403" alt="image" src="https://github.com/user-attachments/assets/29305447-4f56-4297-839b-ed0f26245601" />
 
 * **Good condition:** White to cream-colored powder resembling dry milk powder or infant formula. These cultures typically revive well.
@@ -38,7 +39,9 @@ Typical observations:
 ## Catalase Plate Preparation
 
 *Catalase helps neutralize reactive oxygen species that may accumulate during long-term storage and can improve recovery of stressed bacterial cells.*
+
 <img width="440" height="363" alt="image" src="https://github.com/user-attachments/assets/47853dda-a47f-4c84-ae4a-8d1fd5959ddb" />
+
 Top: Bad catalase, Bottom: Good catalase
 
 1. **Label CPG + TZC plates with the strain number, date, and your initials.**
@@ -52,6 +55,7 @@ Top: Bad catalase, Bottom: Good catalase
 *Process one lyophilized culture at a time to minimize the risk of sample mix-ups and contamination.*
 
 1. **Place a single glass vial inside a folded paper towel pocket.**
+
 <img width="667" height="783" alt="image" src="https://github.com/user-attachments/assets/38873015-5152-428a-97b7-dc9033f278bf" />
 
 3. **Cover the vial with additional paper towel layers to contain glass fragments.**
@@ -65,6 +69,7 @@ Top: Bad catalase, Bottom: Good catalase
 6. **Slowly add 200 µl sterile MilliQ water to the bottom half of the vial containing the lyophilized pellet.**
 
 7. **Gently pipette up and down to resuspend the pellet.**
+
 <img width="652" height="613" alt="image" src="https://github.com/user-attachments/assets/cc16e913-b81f-4bd4-a0cd-d3bcfc49654a" />
 
    *Avoid vigorous mixing and foaming.*
@@ -80,6 +85,7 @@ Top: Bad catalase, Bottom: Good catalase
 11. **Open the lid slightly and allow the plate surface to dry inside the laminar flow hood.**
 
 12. **Return the bottom half of the broken glass vial to the original plastic tube and close the cap.**
+
 <img width="592" height="520" alt="image" src="https://github.com/user-attachments/assets/e0eee426-e5e9-487c-8369-fcdfdf6269c6" />
 
 13. **Discard the tube into autoclave waste.**
