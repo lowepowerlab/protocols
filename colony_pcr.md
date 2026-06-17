@@ -68,7 +68,9 @@ I suspect this is due to the high GC genome (difficult PCR targets) and somethin
 
 Only colony PCR *after* selected colonies have been re-struck for purity and grown.
 
-Materials:
+**20260617 update:** Use of instagene matrix in updated protocol significantly reduces fail rate of colony PCR with _Ralstonia_
+
+**Materials:**
 * p20 & p200 pipettes
 * 200 ul pipette tips
 * thermocycler
@@ -77,16 +79,16 @@ Materials:
 * PCR tubes
 * cell source (plate, liquid culture, or cell pellet)
 
-reagents:
+**reagents:**
 * autoclaved MQ water
-* stock instagene matrix
-
-*or*
-
-* 40 ul .125X instagene matrix
+* stock instagene matrix *or* 0.125X instagene matrix
+   * store matrix & aliquots at 4C
+   * 0.125X instagene matrix can be prepared by creating a 1/8 dilution of stock matrix with MQ water
+   * (manufacturer's protocol)[https://www.bio-rad.com/sites/default/files/webroot/web/pdf/lsr/literature/LIT544.pdf]
+   * product: BIORAD InstaGene™ Matrix #7326030
 
 protocol:
-1. Add either 40 ul .125X matrix or 35 ul MQ water + 5 ul stock matrix to PCR tube
+1. Add either 40 ul 0.125X matrix or 35 ul MQ water + 5 ul stock matrix to PCR tube
 4. Add cell source to PCR tube and resuspend
 
    a. 5 ul of liquid culture, single colony, or small sample of cell pellet
