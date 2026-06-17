@@ -84,25 +84,20 @@ Only colony PCR *after* selected colonies have been re-struck for purity and gro
 * stock instagene matrix *or* 0.125X instagene matrix
    * store matrix & aliquots at 4C
    * 0.125X instagene matrix can be prepared by creating a 1/8 dilution of stock matrix with MQ water
-   * (manufacturer's protocol)[https://www.bio-rad.com/sites/default/files/webroot/web/pdf/lsr/literature/LIT544.pdf]
+   * [manufacturer's protocol](https://www.bio-rad.com/sites/default/files/webroot/web/pdf/lsr/literature/LIT544.pdf)
    * product: BIORAD InstaGene™ Matrix #7326030
 
-protocol:
+**protocol:**
 1. Add either 40 ul 0.125X matrix or 35 ul MQ water + 5 ul stock matrix to PCR tube
 4. Add cell source to PCR tube and resuspend
-
-   a. 5 ul of liquid culture, single colony, or small sample of cell pellet
-
-6. (optional) incubate at 56°C in thermocycler for 15-30 minutes then vortex 10 seconds
+   * cell source options: 5 ul of liquid culture, single colony, or small sample of cell pellet
+6. **(optional)** incubate at 56°C in thermocycler for 15-30 minutes then vortex 10 seconds
 7. Incubate at 100°C in thermocycler for 10 minutes (8 minutes if 56°C incubation performed)
 8. Vortex 10 seconds
 9. Centrifuge 2 minutes
 10. Use supernatant as DNA template for PCR
-
-    a. 1-3 ul supernatant for 20 ul PCR reaction
-    
-    b. 1-2 ul supernatant for 10 ul PCR reaction
-    
+      * 1-3 ul supernatant for 20 ul PCR reaction
+      * 1-2 ul supernatant for 10 ul PCR reaction
 12. Store at -20°C. Centrifuge before use
 
 ### Step 2: Run PCR
