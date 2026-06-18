@@ -83,12 +83,13 @@ Only colony PCR *after* selected colonies have been re-struck for purity and gro
 * autoclaved MQ water
 * stock instagene matrix *or* 0.125X instagene matrix
    * store matrix & aliquots at 4C
-   * 0.125X instagene matrix can be prepared by creating a 1/8 dilution of stock matrix with MQ water
+   * 0.125x instagene matrix can be prepared by creating a 1/8 dilution of stock matrix with MQ water
    * [manufacturer's protocol](https://www.bio-rad.com/sites/default/files/webroot/web/pdf/lsr/literature/LIT544.pdf)
    * product: BIORAD InstaGene™ Matrix #7326030
+   * **Important Note**: The InstaGene matrix is a slurry of Chelex resin, not a solution. Make sure to mix well before using to ensure you are adding a consistent amount of the matrix because the product will separate by gravity. 
 
 **protocol:**
-1. Add either 40 ul 0.125X matrix or 35 ul MQ water + 5 ul stock matrix to PCR tube
+1. Add either 40 ul 0.125x instagene matrix or 35 ul MQ water + 5 ul stock matrix to PCR tube
 4. Add cell source to PCR tube and resuspend
    * cell source options: 5 ul of liquid culture, single colony, or small sample of cell pellet
 6. **(optional)** incubate at 56°C in thermocycler for 15-30 minutes then vortex 10 seconds
