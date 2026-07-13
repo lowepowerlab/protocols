@@ -73,4 +73,8 @@ Pre-warm CPG +TZC +antibiotic plates at 28°C.
 After spread plating, dump beads in a beaker and sterilize with 10% bleach. 
 Rinse with diH2O and autoclave for re-use.
 
-* Consider washing and re-using the electroporation cuvettes only if you find a suitable protocol that seems to clean them without compromising results.
+Washing and re-using electroporation cuvettes (based on information from [Reddit](https://www.reddit.com/r/labrats/comments/1bhskfk/reusing_electroporation_cuvettes/) and [bitesizebio](https://bitesizebio.com/10258/re-cycling-electroporation-cuvettes/)):
+1. While keeping biosafety in mind, rinse 5x in water. Use a pipette to add 1 ml, resuspend cell debris, discard in bio trash. Ensure, especially with 1-2mm gap cuvettes that the chamber is fully washed out in all washing steps. Repeat 5x. 
+2. Submerge in 70% ethanol for at least 10 minutes, but up to end-of-day. 
+3. Remove as much ethanol as possible.
+4. Leave to dry under sterile air flow in BSC or Laminar flow hood.
