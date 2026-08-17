@@ -69,9 +69,9 @@ Sometimes Ralstonia enters a viable but not culturable state (VBNC). Empirically
 
 Method:
 
-* Right before spreading/streaking bacteria, spread on each CPG plate 100 µl of a 10 mg/ml catalase solution (dissolved in water)
+* Right before spreading/streaking bacteria, spread on each CPG plate 100 µl of a 10 mg/ml catalase solution (dissolved in 1XPBS buffer at pH7-pH7.5 or sterilie water if water is pH=7)
 
-* The catalase stock can be made up, filter—sterilized, aliquoted, and stored at -20C for at least 1 year.
+* Make catalse fresh in small volumne (or just as much as you need). Filter-sterilize with 0.22 um filter and aliquote into 1.5 ml tube. Stored at 4C before use.
 
 * Catalase source: Sigma C1345-10G, "Catalase From Bovine Liver, powder, suitable for cell culture,  2,000-5000 units per mg"
 
@@ -87,3 +87,4 @@ Method:
 If you need more bacteria, use a larger flask or multiple flasks.
 * If you are making a new strain, it can take up to 3-4 days for colonies to appear on a selection plate.  Then, subsequent streaks of the bacteria will form visible colonies at the normal rate (2 days)
 * Take quick cell phone photos of your strains on plates -- every time you work with a new isolate or make a new strain.  This documentation will help you catch problems (or maybe interesting data, but probably problems) if colony morphology is unexpected. 
+

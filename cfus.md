@@ -41,7 +41,8 @@ Mix THOROUGHLY again and discard tips.
     1. Moving from most dilute (e.g. row H) to least dilute (row A, then sample, if 10^0 sample should be plated), use the P20 multichannel to plate **8 ul**. 
         * Avoid letting droplets merge. If they do merge, plates are too wet. Discard the plate & try again with a drier plate. 
         * If minor errors are made (innacurate volume pipetted or droplets merge), gouge the agar with the your tip at those spots & use agar area around that. 
-    1. Allow drops to absorb into agar. 
+    1. Allow drops to absorb into agar on bench or in laminar flow hood.
+        * Do not incubate before drops are absorbed. Drops will not dry and media will diffuse into them which will result in uncountable plates.
 1. Incubate 28 C for ~2 days (40 h is best) or 3 days on the bench before counting colonies.  
     * *The mucoid colony morphology can cause the colonies to merge; count colonies before that happens. 
     A sweet spot of 1 day at 28 C & 1 day at room temp can be helpful*

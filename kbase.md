@@ -3,22 +3,28 @@
 
 Tiffany created a tutorial powerpoint to provide advice on setting up a KBase narrative for Ralstonia phylogenomics including insight into the quality control. It's a guide for making additional phylogenomics narratives if you want to. **[Download the tutorial .pptx from this github page](https://github.com/lowepowerlab/protocols/blob/main/resources/KBase_tips_Ralstonia.pptx).** Download button is the ↓ arrow towards the right of the page.
 
+Tiffany also recorded a video providing similar advice: https://www.youtube.com/watch?v=XPTeD6LKYq8
+
+## Protocol for annotating phylogenetic trees with Blast results (using KBase and iTol)
+https://ucdavis.box.com/s/u1tiz9r542b94ono9cidl4nvu4zgnwrv <-- Download Tiffany's word document protocol
+
 ## Narrative: RSSC Phylogenomics
 The Lowe-Power lab maintains this narrative with all of the publicly available RSSC genomes.  
 
 Contributors: Tiffany Lowe-Power, Vienna Elmgreen
 
-**Version 2: 600-700 genomes [https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849)**
+**The current version of the narrative is "v2".** All genomesets are giving a version-control time stamp, e.g. "v2025-12-02".  
+* **[https://narrative.kbase.us/narrative/189849](https://narrative.kbase.us/narrative/189849)**
 
-Version with only the **genomes of strains in Lowe-Power lab strain collection:** [https://narrative.kbase.us/narrative/199187](https://narrative.kbase.us/narrative/199187)
-
-*Original version (don't use; keep for Legacy) [https://narrative.kbase.us/narrative/123807](https://narrative.kbase.us/narrative/123807)*
-
-**Useful genome sets:**
-*	RSSC_for_phylogenomics_IncludesBadQualityGenomes.genomeSet 
-    * **Purpose:** place new genomes into a phylogenetic tree with all sequenced RSSC. The “Bad Quality” genomes are ones that are non-ideal for functional genomics analyses. 
-*	RSSC_highQuality_v2023-06-24.genomeSet
+### Useful genome sets:
+*	**RSSC_for_phylogenomics_IncludesBadQualityGenomes.genomeSet** <-- Will have a date stamp on when Tiffany last added public data from NCBI
+    * **Purpose:** place new genomes into a phylogenetic tree with all sequenced RSSC. The “Bad Quality” genomes are ones that are non-ideal for functional genomics analyses.
+    * [**CheckM Quality metrics** of the v2025-12-05 batch](https://kbase.us/dynserv/66e9a37e7d3a56b64cc372c89d1eaafaa605c397.HTMLFileSetServ/api/v1/189849/1078/1/$/0/CheckM_Table.html). *Note:* This table will take a moment to load after opening the URL. 
+*	**RSSC_highQuality_v[yyyy-mm-dd].genomeSet**  <-- Will have a date stamp on when Tiffany last added public data from NCBI
     * **Purpose:** Tiffany filtered these genomes based on CheckM completeness and contamination. This genomeSet can be used for functional genomics analysis. 
+
+## Narrative: genomes of Ralstonia strains present in Lowe-Power lab strain collection: 
+[https://narrative.kbase.us/narrative/199187](https://narrative.kbase.us/narrative/199187)
 
 ## Narrative: Burkholderiales Species Representatives
 Tiffany used GTDB to identify genome representatives of approx 300 species in the Burkholderiales order. All genomes were described as complete on GTDB, but it is possible that there are mistakes. The genomes are named according to GTDB taxonomy when the narrative was created in Summer 2023. 
@@ -31,7 +37,9 @@ Useful genome set:
 ## Narrative: Other Ralstonia phylogenomics
 Tiffany maintains this narrative with all of the publicly available Ralstonia genomes that are not RSSC.
 
-[https://narrative.kbase.us/narrative/189428](https://narrative.kbase.us/narrative/189428)
+[https://narrative.kbase.us/narrative/216258](https://narrative.kbase.us/narrative/216258)
+
+~~[https://narrative.kbase.us/narrative/189428](https://narrative.kbase.us/narrative/189428)~~ depreciated
 
 ## Narrative: Cupriavidus phylogenomics
 Tiffany maintains this narrative with all of the publicly available Cupriavidus genus genomes.
